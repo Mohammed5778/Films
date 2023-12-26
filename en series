@@ -2,411 +2,373 @@
   "page": 1,
   "results": [
     {
-      "backdrop_path": "/90mos0fF45nFSbuCTY0NNmS107T.jpg",
-      "first_air_date": "2023-11-16",
-      "genre_ids": [
-        10759,
-        18,
-        10765
-      ],
-      "id": 202411,
-      "name": "Monarch: Legacy of Monsters",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "popularity": 1021.495,
-      "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
-      "vote_average": 8.2,
-      "vote_count": 336
-    },
-    {
-      "backdrop_path": "/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
-      "first_air_date": "2023-12-19",
-      "genre_ids": [
-        10759,
-        10765,
-        18,
-        10751
-      ],
-      "id": 103540,
-      "name": "Percy Jackson and the Olympians",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Percy Jackson and the Olympians",
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
-      "popularity": 672.598,
-      "poster_path": "/upmXGc1QovmPBU0mQJR2re6ruKd.jpg",
-      "vote_average": 7.9,
-      "vote_count": 68
-    },
-    {
-      "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
-      "first_air_date": "2023-01-15",
-      "genre_ids": [
-        18
-      ],
-      "id": 100088,
-      "name": "The Last of Us",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Last of Us",
-      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-      "popularity": 559.908,
-      "poster_path": "/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
-      "vote_average": 8.6,
-      "vote_count": 4316
-    },
-    {
-      "backdrop_path": "/1LyPGN2D5MtMeCPzmfq5QC5zaXv.jpg",
-      "first_air_date": "2023-03-06",
+      "adult": false,
+      "backdrop_path": null,
       "genre_ids": [
         35
       ],
-      "id": 202213,
-      "name": "History of the World: Part II",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "History of the World: Part II",
-      "overview": "Explore different periods of human history through a variety of sketches.",
-      "popularity": 341.957,
-      "poster_path": "/6PlHUsScubMx3VADGRh1kIylML2.jpg",
-      "vote_average": 5.3,
-      "vote_count": 48
+      "id": 1138295,
+      "original_language": "ar",
+      "original_title": "ابو نسب",
+      "overview": "",
+      "popularity": 12.295,
+      "poster_path": "/cAyaib01XHHGtPLoGvX7hBtnwmS.jpg",
+      "release_date": "2023-12-21",
+      "title": "ابو نسب",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
-      "backdrop_path": "/4DxHcIQfw3ungfQVqupJ8K62M3d.jpg",
-      "first_air_date": "2023-09-22",
+      "adult": false,
+      "backdrop_path": "/eiNHJbbNc8PMAKTjyP37c8KsGcC.jpg",
       "genre_ids": [
-        80,
-        18,
-        10759
+        28,
+        18
       ],
-      "id": 72710,
-      "name": "The Continental: From the World of John Wick",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Continental: From the World of John Wick",
-      "overview": "Winston Scott is roped into a world of assassins and must make things right after his brother's attack on the Continental hotel.",
-      "popularity": 339.853,
-      "poster_path": "/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
-      "vote_average": 7.7,
-      "vote_count": 319
+      "id": 1032953,
+      "original_language": "ar",
+      "original_title": "شماريخ",
+      "overview": "",
+      "popularity": 5.16,
+      "poster_path": "/vzZlLmN5qKd9uS1kH5iBRNjxYUO.jpg",
+      "release_date": "2023-12-07",
+      "title": "شماريخ",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
-      "backdrop_path": "/shBygwPJbib8HCPzMtuATwRlDDR.jpg",
-      "first_air_date": "2023-10-06",
-      "genre_ids": [],
-      "id": 236670,
-      "name": "the double life of my billionaire husband 1 - 50",
-      "origin_country": [
-        "US"
+      "adult": false,
+      "backdrop_path": "/87VTLMcBkivMk225jIF7KsOYKLV.jpg",
+      "genre_ids": [
+        10402,
+        10751,
+        35,
+        18
       ],
-      "original_language": "en",
-      "original_name": "the double life of my billionaire husband 1 - 50",
-      "overview": "the double life of my billionaire husband",
-      "popularity": 317.665,
-      "poster_path": "/f9Oa8t8MXNh5uPXKlmKpgspYcfO.jpg",
-      "vote_average": 3.8,
+      "id": 1180802,
+      "original_language": "ar",
+      "original_title": "يوميات سكر: صاحب الظل الطويل",
+      "overview": "تسخر الفتاة اليتيمة سكر، التي تبلغ من العمر ستة عشر عاما، تفاؤلها ومهاراتها في حل المشاكل لمساعدة أصدقائها على تخطي تحديات الحياة وقساوة مديرة الميتم.",
+      "popularity": 4.232,
+      "poster_path": "/miMVXrBrgPxE3kBODxa2y2JNs4F.jpg",
+      "release_date": "2023-10-12",
+      "title": "يوميات سكر: صاحب الظل الطويل",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1220618,
+      "original_language": "ar",
+      "original_title": "The Goat",
+      "overview": "",
+      "popularity": 4.231,
+      "poster_path": "/acuxjwmH8yyrp3R1Yx36oFvVSFF.jpg",
+      "release_date": "2023-12-19",
+      "title": "The Goat",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t8zVggCYmBfAdGFBq5GtGrZGY0u.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1111750,
+      "original_language": "ar",
+      "original_title": "وداعا جوليا",
+      "overview": "",
+      "popularity": 4.084,
+      "poster_path": "/2EacmpjNGnaM1VfAswIO0bOQ2vV.jpg",
+      "release_date": "2023-11-08",
+      "title": "وداعا جوليا",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1220611,
+      "original_language": "ar",
+      "original_title": "ربيع يوم عادي",
+      "overview": "",
+      "popularity": 3.694,
+      "poster_path": "/s7qFABrGEzOM1GtpzEg3WbcAcyL.jpg",
+      "release_date": "2023-12-19",
+      "title": "ربيع يوم عادي",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vTrtfOvTQNyDTLXfkMl3sm2qxUy.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 1157303,
+      "original_language": "ar",
+      "original_title": "العميل صفر",
+      "overview": "",
+      "popularity": 3.533,
+      "poster_path": "/ioehMbJ1iRilazda9S8gHN4wfB2.jpg",
+      "release_date": "2023-08-16",
+      "title": "العميل صفر",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3McvLbueTVEGuWyWeIepUbAuWRP.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35
+      ],
+      "id": 1119611,
+      "original_language": "ar",
+      "original_title": "تاج",
+      "overview": "ظهور بطل خارق جديد للعالم ولكن هذه المرة البطل ظهر من أرض الاهرامات (مصر) وهو قادم ليحصل على مكانه بين الابطال الخارقين",
+      "popularity": 2.92,
+      "poster_path": "/nToKXhkvvEc74GG03RGgRxtmd5M.jpg",
+      "release_date": "2023-06-28",
+      "title": "تاج",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Aylp2RviabEasgdHIkDwmVN9b4.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1112527,
+      "original_language": "ar",
+      "original_title": "كذب أبيض",
+      "overview": "",
+      "popularity": 2.411,
+      "poster_path": "/4Veon1l9ujsImklgmkdwp1wHG7B.jpg",
+      "release_date": "2023-05-24",
+      "title": "كذب أبيض",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749
+      ],
+      "id": 1201758,
+      "original_language": "ar",
+      "original_title": "أنف وثلاث عيون",
+      "overview": "",
+      "popularity": 2.367,
+      "poster_path": "/2akb310R1qzw5pqCnfUJixN1DIH.jpg",
+      "release_date": "2023-11-30",
+      "title": "أنف وثلاث عيون",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jF9pwsm1PPBKXDxallfdnhvMkFK.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1125454,
+      "original_language": "ar",
+      "original_title": "ڤوي! ڤوي! ڤوي!",
+      "overview": "",
+      "popularity": 2.347,
+      "poster_path": "/z1tc3i5pALTpVkSpElilE7BG2Gr.jpg",
+      "release_date": "2023-09-13",
+      "title": "ڤوي! ڤوي! ڤوي!",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        18,
+        28
+      ],
+      "id": 993452,
+      "original_language": "ar",
+      "original_title": "مطرح مطروح",
+      "overview": "",
+      "popularity": 2.197,
+      "poster_path": "/ijhkmFHVVIqb5N1GxUKCByAK88F.jpg",
+      "release_date": "2023-04-26",
+      "title": "مطرح مطروح",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vAZt9fPfgVWHywW6wvbVdrlFs9l.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 968448,
+      "original_language": "ar",
+      "original_title": "مستر إكس",
+      "overview": "",
+      "popularity": 2.104,
+      "poster_path": "/5IY5wFVB9ctMuxyD1pdPahLz6pj.jpg",
+      "release_date": "2023-06-28",
+      "title": "مستر إكس",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owX9ZUgC3WYFphlYjCQRHZgqflu.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1202203,
+      "original_language": "ar",
+      "original_title": "ويزو سكول",
+      "overview": "تعرضت ويزو للمشاحنة في المدرسة من قبل بعض المعلمين تخبر العامة عن أزمة الدروس الخاصة والتعليم من خلال عرضها باستخدام الكوميديا التي تسلط الضوء على ما يعاني منه الطالب.",
+      "popularity": 2.063,
+      "poster_path": "/6DG3Le76h0QtNNpJVoV4W0EAakF.jpg",
+      "release_date": "2023-10-11",
+      "title": "ويزو سكول",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 1216501,
+      "original_language": "ar",
+      "original_title": "Asrar Al Behar",
+      "overview": "تعيش سامية مع أخيها رامي مغامرات عديدة في عمق البحار وهما يحاولان حماية الجميع من مخططات شمروخ الشريرة",
+      "popularity": 2.049,
+      "poster_path": "/cMwBFzJgNW1UmzjxQ5keuYECCWJ.jpg",
+      "release_date": "2023-12-10",
+      "title": "Asrar Al Behar",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNcItrnE0dN4t8Gs7PFxna59awY.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1084660,
+      "original_language": "ar",
+      "original_title": "بيت الروبي",
+      "overview": "يتناول العمل قصة المهندس إبراهيم الروبي الذي تتعرض زوجته لأزمة ضخمة يلجأ بعدها للهروب من المدينة والابتعاد إلى مكان منعزل، ويعيش لسنوات ولكنه يعود مجددا بسبب ظروف طارئة على حياته،  مما يجعله يتعرض لكثير من المواقف الصعبة التي تغير مسارات حياته ويعود شبح  الأزمة القديمة لمطاردته وزوجته.",
+      "popularity": 2.037,
+      "poster_path": "/5Vicabs89smlhgt5Y2k7E1KiIxG.jpg",
+      "release_date": "2023-06-21",
+      "title": "بيت الروبي",
+      "video": false,
+      "vote_average": 7,
       "vote_count": 4
     },
     {
-      "backdrop_path": "/wDp5sWBBSRoZf2chPneiSYRo4aI.jpg",
-      "first_air_date": "2023-11-03",
-      "genre_ids": [
-        10759,
-        16,
-        18
-      ],
-      "id": 225180,
-      "name": "BLUE EYE SAMURAI",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "BLUE EYE SAMURAI",
-      "overview": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior cuts a bloody path toward her destiny.",
-      "popularity": 295.199,
-      "poster_path": "/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
-      "vote_average": 8.7,
-      "vote_count": 143
-    },
-    {
-      "backdrop_path": "/p1P0QJ3cqeBnODfyQd2ceEZ23KQ.jpg",
-      "first_air_date": "2023-06-01",
-      "genre_ids": [
-        16,
-        10762,
-        10759
-      ],
-      "id": 212989,
-      "name": "LEGO Ninjago: Dragons Rising",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "LEGO Ninjago: Dragons Rising",
-      "overview": "Two teenagers from different worlds use their newly discovered Ninja powers to defend dragons from villains who want to use their life-force for evil.",
-      "popularity": 289.135,
-      "poster_path": "/4wqL9NEEsJsTgeSE5ArQlhoWYfq.jpg",
-      "vote_average": 8.3,
-      "vote_count": 37
-    },
-    {
-      "backdrop_path": "/oCXAXxPAj4VH35FPvO1Trog4imV.jpg",
-      "first_air_date": "2023-12-07",
+      "adult": false,
+      "backdrop_path": null,
       "genre_ids": [
         18
       ],
-      "id": 199001,
-      "name": "My Life with the Walter Boys",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "My Life with the Walter Boys",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "popularity": 275.336,
-      "poster_path": "/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
-      "vote_average": 8.1,
-      "vote_count": 85
+      "id": 1175125,
+      "original_language": "ar",
+      "original_title": "ستين جنيه",
+      "overview": "مشروع الفيلم القصير لعمرو سلامة، بطولة الفنان المصري زياد ظاظا",
+      "popularity": 2.001,
+      "poster_path": "/5gEI5C3UmXNMkeXY1qjR3anN9kh.jpg",
+      "release_date": "2023-12-14",
+      "title": "ستين جنيه",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
-      "backdrop_path": "/aRKQdF6AGbhnF9IAyJbte5epH5R.jpg",
-      "first_air_date": "2023-08-31",
+      "adult": false,
+      "backdrop_path": "/qZZEpdR6Th6o8Jyx67b9EjRr1Jx.jpg",
       "genre_ids": [
-        10759,
-        10765
-      ],
-      "id": 111110,
-      "name": "ONE PIECE",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "ONE PIECE",
-      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-      "popularity": 251.267,
-      "poster_path": "/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
-      "vote_average": 8.2,
-      "vote_count": 861
-    },
-    {
-      "backdrop_path": "/jEDILaZtJOqNTEnFqWnYsCEVHpr.jpg",
-      "first_air_date": "2023-11-30",
-      "genre_ids": [
-        35,
-        10759,
-        18
-      ],
-      "id": 94244,
-      "name": "Obliterated",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Obliterated",
-      "overview": "A special forces team thwarts a deadly plot in Sin City and parties accordingly. But when the real threat emerges, they must sober up to save Las Vegas.",
-      "popularity": 232.367,
-      "poster_path": "/5g3UrcV6oguAcI3myMKb6wi28y5.jpg",
-      "vote_average": 7,
-      "vote_count": 54
-    },
-    {
-      "backdrop_path": "/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg",
-      "first_air_date": "2023-08-22",
-      "genre_ids": [
-        10765,
-        10759
-      ],
-      "id": 114461,
-      "name": "Ahsoka",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Ahsoka",
-      "overview": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
-      "popularity": 211.882,
-      "poster_path": "/laCJxobHoPVaLQTKxc14Y2zV64J.jpg",
-      "vote_average": 7.7,
-      "vote_count": 584
-    },
-    {
-      "backdrop_path": "/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
-      "first_air_date": "2023-09-10",
-      "genre_ids": [
-        10765,
-        10759
-      ],
-      "id": 211684,
-      "name": "The Walking Dead: Daryl Dixon",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Walking Dead: Daryl Dixon",
-      "overview": "Daryl washes ashore in France and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home. As he makes the journey, though, the connections he forms along the way complicate his ultimate plan.",
-      "popularity": 211.55,
-      "poster_path": "/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
-      "vote_average": 8.4,
-      "vote_count": 314
-    },
-    {
-      "backdrop_path": "/ooblxbGXO36I6Oh1XUKqccP5G1I.jpg",
-      "first_air_date": "2023-04-16",
-      "genre_ids": [
-        18
-      ],
-      "id": 200701,
-      "name": "Waco: The Aftermath",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Waco: The Aftermath",
-      "overview": "Explore the wide-ranging fallout succeeding the tragic events that took place in Waco, TX: the trials of the surviving members of the Branch Davidian sect and the rise of homegrown terrorist, Timothy McVeigh.",
-      "popularity": 200.26,
-      "poster_path": "/7xaVVAAhMJhc5VIRpRa48DLsRru.jpg",
-      "vote_average": 7.1,
-      "vote_count": 23
-    },
-    {
-      "backdrop_path": "/izANb0XYjvuAgRAcIxZ1iBJwN2T.jpg",
-      "first_air_date": "2023-03-01",
-      "genre_ids": [
-        10759,
         35
       ],
-      "id": 202099,
-      "name": "True Lies",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "True Lies",
-      "overview": "Shocked to discover that her bland and unremarkable computer consultant husband is a skilled international spy, an unfulfilled suburban housewife is propelled into a life of danger and adventure when she's recruited to work alongside him to save the world as they try to revitalize their passionless marriage.",
-      "popularity": 178.943,
-      "poster_path": "/lTnVIuHiXPnFALOSBQWUOkSR8Ya.jpg",
-      "vote_average": 6.5,
-      "vote_count": 60
+      "id": 1069989,
+      "original_language": "ar",
+      "original_title": "إتنين للإيجار",
+      "overview": "في إطار كوميدي، يبحث العاطلان صفيحة وحمادة عن فرصة عمل مناسبة لكسب قوت يومهما، ويقرران عرض أنفسهم للإيجار على من يدفع لهما لتلبية مطالبه كوسيلة لكسب الرزق.",
+      "popularity": 2.001,
+      "poster_path": "/xb2Tcl5X1jr0S0kggPJv5cbXhNd.jpg",
+      "release_date": "2023-01-25",
+      "title": "إتنين للإيجار",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
-      "backdrop_path": "/urzEsxKKNgCan2mX5z5heXbUyef.jpg",
-      "first_air_date": "2023-09-28",
+      "adult": false,
+      "backdrop_path": null,
       "genre_ids": [
-        10759,
-        18,
-        10765
-      ],
-      "id": 205715,
-      "name": "Gen V",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Gen V",
-      "overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
-      "popularity": 168.473,
-      "poster_path": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
-      "vote_average": 8,
-      "vote_count": 536
-    },
-    {
-      "backdrop_path": "/f9AqBIAjibUfPtGwOqbJ240cADt.jpg",
-      "first_air_date": "2023-11-14",
-      "genre_ids": [
-        9648,
-        18,
-        80
-      ],
-      "id": 134095,
-      "name": "A Murder at the End of the World",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "A Murder at the End of the World",
-      "overview": "Gen Z amateur sleuth and tech-savvy hacker Darby Hart and eight other guests are invited by a reclusive billionaire to participate in a retreat at a remote location. When one of the other guests is found dead, Darby must use her skills to prove it was murder before the killer takes another life.",
-      "popularity": 164.571,
-      "poster_path": "/1mWCXJefbNU1E2XPJVM2vejMSZO.jpg",
-      "vote_average": 7.5,
-      "vote_count": 67
-    },
-    {
-      "backdrop_path": "/xo2JA1IaBsqIdAjtYXCbqJgG3tq.jpg",
-      "first_air_date": "2023-12-15",
-      "genre_ids": [
-        16,
         35
       ],
-      "id": 238151,
-      "name": "Carol & the End of the World",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Carol & the End of the World",
-      "overview": "As a planetary apocalypse looms, a woman struggling to embrace end-times chaos searches for meaning in her last months on Earth.",
-      "popularity": 158.871,
-      "poster_path": "/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg",
-      "vote_average": 7.6,
-      "vote_count": 10
+      "id": 1203240,
+      "original_language": "ar",
+      "original_title": "بلوموندو",
+      "overview": "",
+      "popularity": 1.939,
+      "poster_path": "/iNPSai6k2oNzTbyWoHHI6Vgmxzv.jpg",
+      "release_date": "2023-11-15",
+      "title": "بلوموندو",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
-      "backdrop_path": "/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
-      "first_air_date": "2023-10-12",
+      "adult": false,
+      "backdrop_path": "/vdiRac1a6Wr73VCE9ENCmNnK6MM.jpg",
       "genre_ids": [
-        80,
-        18,
-        9648
+        53,
+        27
       ],
-      "id": 157065,
-      "name": "The Fall of the House of Usher",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Fall of the House of Usher",
-      "overview": "Ruthless siblings Roderick and Madeline Usher have built Fortunato Pharmaceuticals into an empire of wealth, privilege and power. But past secrets come to light when the heirs to the Usher dynasty start dying at the hands of a mysterious woman from their youth.",
-      "popularity": 158.619,
-      "poster_path": "/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg",
-      "vote_average": 7.7,
-      "vote_count": 300
-    },
-    {
-      "backdrop_path": "/7BzmK4MWc0cj4hCxwWURt6TS6UR.jpg",
-      "first_air_date": "2023-08-31",
-      "genre_ids": [
-        16,
-        10765,
-        10759,
-        35
-      ],
-      "id": 131378,
-      "name": "Adventure Time: Fionna & Cake",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Adventure Time: Fionna & Cake",
-      "overview": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
-      "popularity": 156.061,
-      "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
-      "vote_average": 9.2,
-      "vote_count": 138
+      "id": 974169,
+      "original_language": "ar",
+      "original_title": "يوم 13",
+      "overview": "بعد غياب سنوات، يعود عز الدين إلى مصر باحثا عن والديه. يقرر الإقامة في قصر العائلة على الرغم من الشائعات التي تفيد بأنه مسكون.",
+      "popularity": 1.914,
+      "poster_path": "/cFmSA1lAoK34WtgqYoPO7vRgJN9.jpg",
+      "release_date": "2023-04-21",
+      "title": "يوم 13",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 2
     }
   ],
-  "total_pages": 75,
-  "total_results": 1500
+  "total_pages": 5,
+  "total_results": 87
 }
