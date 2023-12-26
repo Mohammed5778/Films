@@ -1,0 +1,410 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "first_air_date": "2023-12-19",
+      "genre_ids": [
+        10759,
+        10765,
+        18,
+        10751
+      ],
+      "id": 103540,
+      "name": "Percy Jackson and the Olympians",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
+      "popularity": 1318.292,
+      "poster_path": "/upmXGc1QovmPBU0mQJR2re6ruKd.jpg",
+      "vote_average": 8,
+      "vote_count": 82
+    },
+    {
+      "backdrop_path": "/90mos0fF45nFSbuCTY0NNmS107T.jpg",
+      "first_air_date": "2023-11-16",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 202411,
+      "name": "Monarch: Legacy of Monsters",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "popularity": 841.82,
+      "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+      "vote_average": 8.2,
+      "vote_count": 342
+    },
+    {
+      "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+      "first_air_date": "2023-01-15",
+      "genre_ids": [
+        18
+      ],
+      "id": 100088,
+      "name": "The Last of Us",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "popularity": 406.607,
+      "poster_path": "/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "vote_average": 8.6,
+      "vote_count": 4319
+    },
+    {
+      "backdrop_path": "/shBygwPJbib8HCPzMtuATwRlDDR.jpg",
+      "first_air_date": "2023-10-06",
+      "genre_ids": [],
+      "id": 236670,
+      "name": "the double life of my billionaire husband 1 - 50",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "the double life of my billionaire husband 1 - 50",
+      "overview": "the double life of my billionaire husband",
+      "popularity": 310.077,
+      "poster_path": "/f9Oa8t8MXNh5uPXKlmKpgspYcfO.jpg",
+      "vote_average": 3.8,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/llFxXeCS1iqU4MPTpY3spBijIRr.jpg",
+      "first_air_date": "2023-07-13",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 132016,
+      "name": "Full Circle",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Full Circle",
+      "overview": "An investigation into a botched kidnapping uncovers long-held secrets connecting multiple characters and cultures in present day New York City.",
+      "popularity": 244.506,
+      "poster_path": "/mXjyayWXwALW9hRiJj4TLzlilaZ.jpg",
+      "vote_average": 6.7,
+      "vote_count": 39
+    },
+    {
+      "backdrop_path": "/oCXAXxPAj4VH35FPvO1Trog4imV.jpg",
+      "first_air_date": "2023-12-07",
+      "genre_ids": [
+        18
+      ],
+      "id": 199001,
+      "name": "My Life with the Walter Boys",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "My Life with the Walter Boys",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "popularity": 236.593,
+      "poster_path": "/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+      "vote_average": 8.2,
+      "vote_count": 90
+    },
+    {
+      "backdrop_path": "/fQsIJQxE1D0Y0NpWSKwo489y5px.jpg",
+      "first_air_date": "2023-11-22",
+      "genre_ids": [
+        10764
+      ],
+      "id": 204082,
+      "name": "Squid Game: The Challenge",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Squid Game: The Challenge",
+      "overview": "In this reality competition show inspired by \"Squid Game,\" 456 players put their skills to the ultimate test for a life-changing $4.56 million prize.",
+      "popularity": 228.115,
+      "poster_path": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+      "vote_average": 6.4,
+      "vote_count": 145
+    },
+    {
+      "backdrop_path": "/eEu5PBkIg7uCMsaeCwtktDzmZat.jpg",
+      "first_air_date": "2023-07-24",
+      "genre_ids": [
+        10762,
+        16
+      ],
+      "id": 218577,
+      "name": "Dew Drop Diaries",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Dew Drop Diaries",
+      "overview": "From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.",
+      "popularity": 227.602,
+      "poster_path": "/89W3MTFTaQCMUXmAvDopxCkRPjq.jpg",
+      "vote_average": 6.7,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/p1P0QJ3cqeBnODfyQd2ceEZ23KQ.jpg",
+      "first_air_date": "2023-06-01",
+      "genre_ids": [
+        16,
+        10762,
+        10759
+      ],
+      "id": 212989,
+      "name": "LEGO Ninjago: Dragons Rising",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "LEGO Ninjago: Dragons Rising",
+      "overview": "Two teenagers from different worlds use their newly discovered Ninja powers to defend dragons from villains who want to use their life-force for evil.",
+      "popularity": 225.808,
+      "poster_path": "/4wqL9NEEsJsTgeSE5ArQlhoWYfq.jpg",
+      "vote_average": 8.3,
+      "vote_count": 37
+    },
+    {
+      "backdrop_path": "/ieZ9AdB3yJF9jZSVO39zZ9d4D1y.jpg",
+      "first_air_date": "2023-02-10",
+      "genre_ids": [
+        16,
+        10762,
+        10765
+      ],
+      "id": 92788,
+      "name": "Marvel's Moon Girl and Devil Dinosaur",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Moon Girl and Devil Dinosaur",
+      "overview": "After 13-year-old super-genius Lunella accidentally brings ten-ton T-Rex, Devil Dinosaur into present-day New York City via a time vortex, the duo works together to protect the city's Lower East Side from danger.",
+      "popularity": 202.125,
+      "poster_path": "/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    {
+      "backdrop_path": "/jEDILaZtJOqNTEnFqWnYsCEVHpr.jpg",
+      "first_air_date": "2023-11-30",
+      "genre_ids": [
+        35,
+        10759,
+        18
+      ],
+      "id": 94244,
+      "name": "Obliterated",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Obliterated",
+      "overview": "A special forces team thwarts a deadly plot in Sin City and parties accordingly. But when the real threat emerges, they must sober up to save Las Vegas.",
+      "popularity": 201.655,
+      "poster_path": "/5g3UrcV6oguAcI3myMKb6wi28y5.jpg",
+      "vote_average": 6.9,
+      "vote_count": 54
+    },
+    {
+      "backdrop_path": "/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
+      "first_air_date": "2023-09-10",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 211684,
+      "name": "The Walking Dead: Daryl Dixon",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Walking Dead: Daryl Dixon",
+      "overview": "Daryl washes ashore in France and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home. As he makes the journey, though, the connections he forms along the way complicate his ultimate plan.",
+      "popularity": 186.078,
+      "poster_path": "/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+      "vote_average": 8.4,
+      "vote_count": 314
+    },
+    {
+      "backdrop_path": "/wDp5sWBBSRoZf2chPneiSYRo4aI.jpg",
+      "first_air_date": "2023-11-03",
+      "genre_ids": [
+        10759,
+        16,
+        18
+      ],
+      "id": 225180,
+      "name": "BLUE EYE SAMURAI",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "BLUE EYE SAMURAI",
+      "overview": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior cuts a bloody path toward her destiny.",
+      "popularity": 165.909,
+      "poster_path": "/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+      "vote_average": 8.7,
+      "vote_count": 148
+    },
+    {
+      "backdrop_path": "/izANb0XYjvuAgRAcIxZ1iBJwN2T.jpg",
+      "first_air_date": "2023-03-01",
+      "genre_ids": [
+        10759,
+        35
+      ],
+      "id": 202099,
+      "name": "True Lies",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "True Lies",
+      "overview": "Shocked to discover that her bland and unremarkable computer consultant husband is a skilled international spy, an unfulfilled suburban housewife is propelled into a life of danger and adventure when she's recruited to work alongside him to save the world as they try to revitalize their passionless marriage.",
+      "popularity": 165.323,
+      "poster_path": "/lTnVIuHiXPnFALOSBQWUOkSR8Ya.jpg",
+      "vote_average": 6.5,
+      "vote_count": 61
+    },
+    {
+      "backdrop_path": "/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
+      "first_air_date": "2023-10-12",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 157065,
+      "name": "The Fall of the House of Usher",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Fall of the House of Usher",
+      "overview": "Ruthless siblings Roderick and Madeline Usher have built Fortunato Pharmaceuticals into an empire of wealth, privilege and power. But past secrets come to light when the heirs to the Usher dynasty start dying at the hands of a mysterious woman from their youth.",
+      "popularity": 162.997,
+      "poster_path": "/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg",
+      "vote_average": 7.7,
+      "vote_count": 303
+    },
+    {
+      "backdrop_path": "/ndq6lOTc5OnItaRQDzsm61apYKZ.jpg",
+      "first_air_date": "2023-01-12",
+      "genre_ids": [
+        80
+      ],
+      "id": 217180,
+      "name": "The Chemistry of Death",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Chemistry of Death",
+      "overview": "When bodies begin turning up in the tranquil English countryside that he has recently made home, a forensic anthropologist helps local police in a race against time.",
+      "popularity": 162.973,
+      "poster_path": "/uPHFvc2ma51e9AEHjRDAbRSsWIA.jpg",
+      "vote_average": 6.9,
+      "vote_count": 43
+    },
+    {
+      "backdrop_path": "/tFwGGfaEJsR9PjRQXazRUYvwOAG.jpg",
+      "first_air_date": "2023-03-14",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 195868,
+      "name": "Gotham Knights",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Gotham Knights",
+      "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
+      "popularity": 159.818,
+      "poster_path": "/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+      "vote_average": 7.3,
+      "vote_count": 105
+    },
+    {
+      "backdrop_path": "/urzEsxKKNgCan2mX5z5heXbUyef.jpg",
+      "first_air_date": "2023-09-28",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 205715,
+      "name": "Gen V",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Gen V",
+      "overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+      "popularity": 158.42,
+      "poster_path": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+      "vote_average": 8,
+      "vote_count": 540
+    },
+    {
+      "backdrop_path": "/aRKQdF6AGbhnF9IAyJbte5epH5R.jpg",
+      "first_air_date": "2023-08-31",
+      "genre_ids": [
+        10759,
+        10765
+      ],
+      "id": 111110,
+      "name": "ONE PIECE",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "ONE PIECE",
+      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "popularity": 157.446,
+      "poster_path": "/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+      "vote_average": 8.2,
+      "vote_count": 862
+    },
+    {
+      "backdrop_path": "/4DxHcIQfw3ungfQVqupJ8K62M3d.jpg",
+      "first_air_date": "2023-09-22",
+      "genre_ids": [
+        80,
+        18,
+        10759
+      ],
+      "id": 72710,
+      "name": "The Continental: From the World of John Wick",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Continental: From the World of John Wick",
+      "overview": "Winston Scott is roped into a world of assassins and must make things right after his brother's attack on the Continental hotel.",
+      "popularity": 156.33,
+      "poster_path": "/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
+      "vote_average": 7.7,
+      "vote_count": 324
+    }
+  ],
+  "total_pages": 117,
+  "total_results": 2322
+}
