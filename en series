@@ -387,3 +387,397 @@
   "total_pages": 12,
   "total_results": 224
 }
+
+
+
+{
+  "page": 2,
+  "results": [
+    {
+      "backdrop_path": "/raDxouiWyLGeDzOQDk52kq2GreO.jpg",
+      "first_air_date": "2023-11-10",
+      "genre_ids": [
+        18
+      ],
+      "id": 239180,
+      "name": "Ahlam Banate",
+      "origin_country": [
+        "MA"
+      ],
+      "original_language": "ar",
+      "original_name": "أحلام بنات",
+      "overview": "Fate brings together three girls with big dreams under one roof in the big city. Despite sharing everything – literally, each of them has her own secret struggles.",
+      "popularity": 6.124,
+      "poster_path": "/sy5bNa5822yRayWpQ7Nba2tijP5.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/xYdnBvA4hzPs3cOJRb8tldfxymh.jpg",
+      "first_air_date": "2023-04-12",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "id": 222557,
+      "name": "War",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "حرب",
+      "overview": "The events revolve around a member of an extremist terrorist group called Al Zafer, who is trying to carry out a number of terrorist operations in Egypt, but he gets pursued by the security services.",
+      "popularity": 6.104,
+      "poster_path": "/dG6CgDJPk8EX19Pg0NULRIt18S4.jpg",
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/tjCmfMTTPwl82dFMhDyF0wyn8hS.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 221355,
+      "name": "Fire with Fire",
+      "origin_country": [
+        "LB"
+      ],
+      "original_language": "ar",
+      "original_name": "النار بالنار",
+      "overview": "After fleeing the war in her country, Syria, Mariam finds herself stranded in Beirut. Alone and with no identity documents, she must find ways to survive in an unknown city.",
+      "popularity": 6.013,
+      "poster_path": "/g11GkyQ41DCjxqdPezp7uEoa6qX.jpg",
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/ejV5FgwxDBXI5vB0EigWtQSEJPh.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "id": 152479,
+      "name": "Safar Barlik",
+      "origin_country": [
+        "SA"
+      ],
+      "original_language": "ar",
+      "original_name": "سفر برلك",
+      "overview": "A historical epic that goes back to the horrifying days of the Ottoman Empire and accompanies four Arab college students in their revolt against the Sultanate’s tyranny.",
+      "popularity": 5.673,
+      "poster_path": "/gJ1HWveArg4KdQODIpJ6l9sokbd.jpg",
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/ovIbaVYUri29wBivue0H3kAJdrY.jpg",
+      "first_air_date": "2023-04-07",
+      "genre_ids": [
+        35,
+        10751,
+        10765
+      ],
+      "id": 221125,
+      "name": "Saleema Arrived",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "جت سليمة",
+      "overview": "Follows a girl who starts reading an old book and once she reads it, she travels through many different times to face many funny situations.",
+      "popularity": 5.338,
+      "poster_path": "/nigH77AtZnNvpec2ydwQNncoadS.jpg",
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/6HD049m5OKK2tiEwJBQ5bea5w95.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        35
+      ],
+      "id": 222008,
+      "name": "Ramez Never Ends",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "رامز نيفر إند",
+      "overview": "From food tasting, to dinner in the sky, Ramez’s unsuspecting guests think they’re in for mouth-watering cuisines at Riyadh Boulevard, until the real show begins.",
+      "popularity": 5.183,
+      "poster_path": "/vgW75a6YOutU8eTLru4PRMqpvpy.jpg",
+      "vote_average": 7.6,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/1Nhnf6Gi0Q84Hv8SO5RBJSrFVJL.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "id": 222907,
+      "name": "The Night of the Downfall",
+      "origin_country": [
+        "IQ"
+      ],
+      "original_language": "ar",
+      "original_name": "ليلة السقوط",
+      "overview": "The story takes place between 2014 and 2017 and deals with the events of Mosul during the years of its occupation by ISIS. It shows the tragic conditions that the people of Mosul experienced during that era and how the Iraqi Armed Forces, in partnership with the Peshmerga forces and the Popular Mobilization Forces, were able to defeat terrorism.",
+      "popularity": 5.037,
+      "poster_path": "/wPcO1sJZdRtkXxVMhOwSEF80T66.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/1LiZD96sbp5WUxdKKj2yW1XvmwE.jpg",
+      "first_air_date": "2023-05-03",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 121918,
+      "name": "Parallel Universe",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "عالم موازي",
+      "overview": "A girl is confronted with many paradoxes and odd situations.",
+      "popularity": 4.998,
+      "poster_path": "/ailiI7b0eSDGgicQhAKGZHKYB16.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/jQyoJsiDMaQDgxARjDtiUfWFrHs.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 218320,
+      "name": "Settohom",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "ستهم",
+      "overview": "After her husband is killed, Settohom gets into several conflicts with her family and tries to raise her children away from problems; however, she is forced to disguise herself as a man to face the difficulties she encounters in life.",
+      "popularity": 4.826,
+      "poster_path": "/wKtnmR0cXTEEoqCjzC5NkF68b0B.jpg",
+      "vote_average": 3.3,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/gbiqgV9ixMSc8muov7cbjRevZEX.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 221353,
+      "name": "Apple of Your Eye",
+      "origin_country": [
+        "KW"
+      ],
+      "original_language": "ar",
+      "original_name": "قرة عينك",
+      "overview": "Kaltham's innocence appears after she was imprisoned for 25 years unjustly behind bars. She tries to communicate with her daughters, but they refuse to do so, so Kaltham seeks to reunite her family again.",
+      "popularity": 4.708,
+      "poster_path": "/jMikmD98lAaPey6V9aMjklHHZvW.jpg",
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/tgL7EWzzZuAUYty007xB52Pl2J8.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 221030,
+      "name": "El Harsha El Sab'a",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "الهرشة السابعة",
+      "overview": "In the seventh year of their marriage, boredom, and fatigue take over the lives of high school sweethearts Adam and Nadine. Between the pressures of raising their twins and their routine life, will their love overcome these challenges?",
+      "popularity": 4.302,
+      "poster_path": "/l3YAjfz1o5INrHlCoX70avA7ajt.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/6uyQufb3BtPi8letrS9Q89rSRuH.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 220880,
+      "name": "A Husband's Diary",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "مذكرات زوج",
+      "overview": "Raouf discovers that he is unhappy and dissatisfied with his life with his wife Shireen, so he decides to see a psychiatrist.",
+      "popularity": 4.185,
+      "poster_path": "/9iTghUyoBNjQgEnaPsnhm3oFw4j.jpg",
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/p3TK94KgoMl9cvm4yBrImlLnSlq.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "id": 221075,
+      "name": "El Soffara",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "الصفارة",
+      "overview": "Shafeeq, a tour guide, steals Tutankhamun's time travel whistle. A golden opportunity to get a do-over for his life and achieve his dreams.",
+      "popularity": 4.158,
+      "poster_path": "/cJjmfSPra9LutyP6SZTz4ZgNwO3.jpg",
+      "vote_average": 8.5,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/cgyi3umbaXgmFWb1YNuaMjix5gU.jpg",
+      "first_air_date": "2023-02-11",
+      "genre_ids": [
+        18
+      ],
+      "id": 220197,
+      "name": "Dahab: Bint Al Hotel",
+      "origin_country": [
+        "SA"
+      ],
+      "original_language": "ar",
+      "original_name": "دهب بنت الأوتيل",
+      "overview": "Dahab, a hotel maid, saves renowned businessman Nayef’s life after finding him lying in a pool of his own blood. But taking him in sends them both on a perilous road.",
+      "popularity": 4.151,
+      "poster_path": "/1mQbGH1i3sVc08DyjyU0T1m7Wq9.jpg",
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/sMeOaqqovjWltuyDp2sAXxEomZ6.jpg",
+      "first_air_date": "2023-02-08",
+      "genre_ids": [
+        18
+      ],
+      "id": 218184,
+      "name": "The Exchange",
+      "origin_country": [
+        "KW"
+      ],
+      "original_language": "ar",
+      "original_name": "الصفقة",
+      "overview": "Set in Kuwait in 1988, two women making their way in the boys club of the Kuwait Stock Exchange, on the eve of Saddam Hussein's invasion of the country.",
+      "popularity": 3.985,
+      "poster_path": "/imNAWAuRJoj6kquvx9VTgLnpIAK.jpg",
+      "vote_average": 8.1,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/aKVKbIqtxlQMGAjVhzEULwFTgVk.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        35,
+        10768
+      ],
+      "id": 218328,
+      "name": "Welcome Back",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "١٠٠٠ حمد الله على السلامة",
+      "overview": "After the death of her husband, Jalal, in Canada, Dr. Samiha decides to return to Egypt after more than 25 years, accompanied by her children, Sameh and Samah, to recover their inheritance.",
+      "popularity": 3.94,
+      "poster_path": "/9Z4iYYASvERpbccJuLdKI2P3aO3.jpg",
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/jsG3hBS6ezXG38LrWcYUGkI3GJZ.jpg",
+      "first_air_date": "2023-09-06",
+      "genre_ids": [
+        35
+      ],
+      "id": 233060,
+      "name": "Tahir's House",
+      "origin_country": [
+        "SA"
+      ],
+      "original_language": "ar",
+      "original_name": "بيت طاهر",
+      "overview": "A family of amateur entrepreneurs must come together to convert their failing fish shop into a thriving business, but branching out isn't easy.",
+      "popularity": 3.896,
+      "poster_path": "/en9sTMuE4FKVKBVnNow2eFey4gx.jpg",
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/Ar41Y0xwQugN0WslKcislVoqtux.jpg",
+      "first_air_date": "2023-03-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 222283,
+      "name": "The Coachman",
+      "origin_country": [
+        "SY"
+      ],
+      "original_language": "ar",
+      "original_name": "العربجي",
+      "overview": "Abdo the charioteer's life becomes beset by a series of hurdles as he grapples with oppression and a fierce quest for love in old Damascus.",
+      "popularity": 3.87,
+      "poster_path": "/2fSCXZ88SNBY7Ff2XyKDfwYdKfI.jpg",
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/5kXAunYpQQHYP2FmjvQepOgtlUx.jpg",
+      "first_air_date": "2023-05-03",
+      "genre_ids": [],
+      "id": 225919,
+      "name": "Sold Out",
+      "origin_country": [
+        "EG"
+      ],
+      "original_language": "ar",
+      "original_name": "Sold Out",
+      "overview": "From WATCH IT Originals",
+      "popularity": 3.795,
+      "poster_path": "/bjjIKHE0t1s2IAMFG26fyLanopl.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/skCgomKxXISnW5R5eQeiBTTAli6.jpg",
+      "first_air_date": "2023-12-17",
+      "genre_ids": [],
+      "id": 241682,
+      "name": "كلاود كيتشن",
+      "origin_country": [
+        "SA"
+      ],
+      "original_language": "ar",
+      "original_name": "كلاود كيتشن",
+      "overview": "",
+      "popularity": 3.74,
+      "poster_path": "/buGATiZu7GMisTmB2OhKn03th3M.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 12,
+  "total_results": 224
+}
