@@ -1,12 +1,438 @@
 {
-    "اسم_الفيلم_1": {
-        "title": "اسم الفيلم",
-        "story": "قصة الفيلم",
-        "actors": "أبطال الفيلم",
-        "rating": "التقييم"
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
+      "id": 848326,
+      "title": "Rebel Moon - جزء 1: طفلة من رحم النار",
+      "original_language": "en",
+      "original_title": "Rebel Moon - Part One: A Child of Fire",
+      "overview": "حين يهدد حاكم طاغٍ مستعمرة مسالمة في ضواحي المجرّة، تصبح امرأة غريبة وغامضة أمل سكّانها الوحيد للنجاة.",
+      "poster_path": "/9VVngWFiQJbcYm1DSrFg71ASuex.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "popularity": 1810.823,
+      "release_date": "2023-12-15",
+      "video": false,
+      "vote_average": 6.455,
+      "vote_count": 636
     },
-    "اسم_الفيلم_2": {
-        // ... معلومات الفيلم ...
+    {
+      "adult": false,
+      "backdrop_path": "/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg",
+      "id": 572802,
+      "title": "Aquaman and the Lost Kingdom",
+      "original_language": "en",
+      "original_title": "Aquaman and the Lost Kingdom",
+      "overview": "عندما يتم إطلاق العنان لقوة قديمة ، يجب على أكوامان إقامة تحالف غير مستقر مع حليف غير متوقع لحماية أتلانتس والعالم من الدمار الذي لا رجعة فيه.",
+      "poster_path": "/jDIo7Y6JFpKmmRhxB3yXTRTrqXH.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "popularity": 1785.691,
+      "release_date": "2023-12-20",
+      "video": false,
+      "vote_average": 6.551,
+      "vote_count": 246
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
+      "id": 91363,
+      "name": "ماذا لو...؟",
+      "original_language": "en",
+      "original_name": "What If...?",
+      "overview": "في إطار من الخيال والمغامرات، يغوص العمل في العديد من البقاع الغير متوقعة في عالم أبطال مارفل، ويضع العديد من الفرضيات والأحداث المتناقضة تمامًا عن ما حدث في كافة أفلام مارفل السابقة.",
+      "poster_path": "/m0xAUcaq9lKfeHIEE9bLICC0Kvu.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 2649.338,
+      "first_air_date": "2021-08-11",
+      "vote_average": 8.188,
+      "vote_count": 3808,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/10jSAS2BMD8mu94Hj7MbO1ti3ZN.jpg",
+      "id": 930564,
+      "title": "Saltburn",
+      "original_language": "en",
+      "original_title": "Saltburn",
+      "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "poster_path": "/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        35,
+        53
+      ],
+      "popularity": 653.944,
+      "release_date": "2023-11-16",
+      "video": false,
+      "vote_average": 7.181,
+      "vote_count": 345
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+      "id": 239770,
+      "name": "Doctor Who",
+      "original_language": "en",
+      "original_name": "Doctor Who",
+      "overview": "The Doctor and friends travel from the dawn of human history to distant alien worlds. And everywhere they go, they find adventure, terror, fun, chases, joy and monsters.",
+      "poster_path": "/91wVL2amQouWhbMfvrVeFNrrHmR.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "popularity": 273.206,
+      "first_air_date": "",
+      "vote_average": 7.483,
+      "vote_count": 59,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "id": 57243,
+      "name": "دكتور هو",
+      "original_language": "en",
+      "original_name": "Doctor Who",
+      "overview": "الدكتور هو سيد الوقت: فضائي عمره 900 عام ولديه قلبان، قدم من حضارة أتقنت السفر عبر الزمن. الدكتور ينقذ الكواكب من أجل لقمة العيش - أكثر من هواية في الواقع - وهو جيد جدا في ذلك.",
+      "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "popularity": 1441.273,
+      "first_air_date": "2005-03-26",
+      "vote_average": 7.5,
+      "vote_count": 2747,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "id": 103540,
+      "name": "Percy Jackson and the Olympians",
+      "original_language": "en",
+      "original_name": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
+      "poster_path": "/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        10765,
+        18,
+        10751
+      ],
+      "popularity": 1530.227,
+      "first_air_date": "2023-12-19",
+      "vote_average": 7.9,
+      "vote_count": 101,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "id": 872585,
+      "title": "أوبنهايمر",
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "فلم يحكي السيرة الذاتية وقصة العالم الأمريكي روبرت أوبنهايمر ودوره في تطوير القنبلة الذرية، وكيف غير مشروع مانهاتن من كل شيء في العالم.",
+      "poster_path": "/fj4Sw2PihpjJkkeyhAWV5x933no.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "popularity": 730.386,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 8.122,
+      "vote_count": 5662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg",
+      "id": 695721,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "original_language": "en",
+      "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "overview": "قبل سنوات من تحوله إلى رئيس مستبد في بانيم، تدور الأحداث حول كوريولانوس سنو في سن الثامنة عشر، حيث يبحث عن المجد بعد اختياره ليكون مرشدًا لدورة ألعاب الجوع العاشرة.",
+      "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        878,
+        28
+      ],
+      "popularity": 2790.356,
+      "release_date": "2023-11-15",
+      "video": false,
+      "vote_average": 7.226,
+      "vote_count": 1126
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hgM7T4zkkrvLPB6RDMEYeSMJSPO.jpg",
+      "id": 221301,
+      "name": "المدبرة والبوكيمون",
+      "original_language": "ja",
+      "original_name": "ポケモンコンシェルジュ",
+      "overview": "نرحب بكم في \"منتجع البوكيمون\"! إنه ملاذ آمن تنعم فيه كائنات البوكيمون بالاسترخاء والمرح… فمن الضيف اللطيف الذي سيحظى بصداقة المدبرة الجديدة \"هارو\" وينال مساعدتها أولًا؟",
+      "poster_path": "/2k53AsWsLrMtcbFyH0nVOqQjj2x.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "popularity": 38.623,
+      "first_air_date": "2023-12-28",
+      "vote_average": 7.8,
+      "vote_count": 4,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rmfIhftLXpHEZzkLSpWQMZhirMJ.jpg",
+      "id": 823482,
+      "title": "Dream Scenario",
+      "original_language": "en",
+      "original_title": "Dream Scenario",
+      "overview": "يتحول بروفيسور مغمور إلى واحد من أشهر الرجال في العالم، حينما يظهر بشكل غامض في كافة أحلام البشر.",
+      "poster_path": "/zhEaG0KQ32KerHEWmImsYLexDix.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "popularity": 209.018,
+      "release_date": "2023-11-10",
+      "video": false,
+      "vote_average": 7.102,
+      "vote_count": 137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+      "id": 346698,
+      "title": "باربي",
+      "original_language": "en",
+      "original_title": "Barbie",
+      "overview": "تعيش دمية في مدينة باربيلاند تُدعى باربي، وحينما تُطرد من المدينة بسبب عدم كونها مثالية، تنطلق باربي في مغامرة بالعالم الحقيقي على أمل إثبات جدارتها والعودة إلى وطنها.",
+      "poster_path": "/e8Lng7AmGnCYLq7XPQnI9prRF3S.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        12,
+        14
+      ],
+      "popularity": 480.109,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 6522
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+      "id": 1071215,
+      "title": "Thanksgiving",
+      "original_language": "en",
+      "original_title": "Thanksgiving",
+      "overview": "قاتل يقوم بصناعة رسومات النحت الخاصة به عن سكان بلدة، مما يثير العديد من التساؤلات والضجة عندما يأتي يوم عيد الشكر في كل سنة.",
+      "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "popularity": 956.355,
+      "release_date": "2023-11-16",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "id": 95479,
+      "name": "JUJUTSU KAISEN",
+      "original_language": "ja",
+      "original_name": "呪術廻戦",
+      "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة، لكنّه يعيش حياة مدرسية عادية تمامًا. في أحد الأيّام، ومن أجل إنقاذ صديق هاجمته لعنة، يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة. وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو، غوجو ساتورو.",
+      "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 1943.204,
+      "first_air_date": "2020-10-03",
+      "vote_average": 8.6,
+      "vote_count": 3007,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pBumV156P2xualfBiqroAEXv9Ka.jpg",
+      "id": 1211199,
+      "title": "Thank You, I'm Sorry",
+      "original_language": "sv",
+      "original_title": "Tack och förlåt",
+      "overview": "Suddenly alone during the late stages of her pregnancy, Sara receives an unexpected lifeline when Linda, her estranged older sister, arrives.",
+      "poster_path": "/uGnFNjzi1hXZ7CiywbOERUh1KAE.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 50.501,
+      "release_date": "2023-12-26",
+      "video": false,
+      "vote_average": 5.125,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+      "id": 787699,
+      "title": "Wonka",
+      "original_language": "en",
+      "original_title": "Wonka",
+      "overview": "تركز احداث الفيلم علي الصغير ويلي ونكا قبل أن يكبر ويصبح أسطورة صناعة الشيكولاتة وكيف سيقابل أومبا لومباس في واحدة من أولى مغامراته الكثيرة.",
+      "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "popularity": 1111.281,
+      "release_date": "2023-12-06",
+      "video": false,
+      "vote_average": 7.153,
+      "vote_count": 640
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
+      "id": 678512,
+      "title": "صوت الحريّة",
+      "original_language": "en",
+      "original_title": "Sound of Freedom",
+      "overview": "يروي الفيلم قصة تيم بالارد، وهو عميل سابق، الذي استقال من وظيفته كعميل خاص في تحقيقات الأمن الداخلي (HSI) لإنقاذ الأطفال من الكارتل وتجار البشر.",
+      "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "popularity": 382.475,
+      "release_date": "2023-07-03",
+      "video": false,
+      "vote_average": 8.074,
+      "vote_count": 1654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+      "id": 569094,
+      "title": "سبايدرمان: عبر عالم العنكبوت",
+      "original_language": "en",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "overview": "بعد مرور فترة طويلة، يتلقى مايلز موراليس زيارة جديدة من جوين ستيسي، ومعًا ينطلق الثنائي في مغامرة جديدة مليئة بالمخاطر والأعداء عبر عالم العنكبوت.",
+      "poster_path": "/xmZSu0hdbuwb4mJIrocpKfnVjbZ.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "popularity": 329.205,
+      "release_date": "2023-05-31",
+      "video": false,
+      "vote_average": 8.386,
+      "vote_count": 5306
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/peVe0NQNdZMXwtTohnv8iwJQb2d.jpg",
+      "id": 135238,
+      "name": "Gyeongseong Creature",
+      "original_language": "ko",
+      "original_name": "경성크리처",
+      "overview": "1945, Gyeongseong South Korea. Jang Tae-Sang is a rich man. He is known as the most attractive man around Bukchon in Gyeongseong. He is also a reliable source for information in the area. His talents, including the ability to respond quickly to situations, keen insight and his sociability, have led him to his current position. When he comes into contact with Yoon Chae-Ok, he has to reevaluate his priorities as a person.",
+      "poster_path": "/aUfEndSJp8keSMnhZdYvaSw0yUI.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        9648,
+        10759
+      ],
+      "popularity": 537.398,
+      "first_air_date": "2023-12-22",
+      "vote_average": 8.2,
+      "vote_count": 28,
+      "origin_country": [
+        "KR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+      "id": 466420,
+      "title": "Killers of the Flower Moon",
+      "original_language": "en",
+      "original_title": "Killers of the Flower Moon",
+      "overview": "تُقتل أعضاء قبيلة (الأوساج) في (الولايات المتحدة الأمريكية) تحت ظروف غامضة بأوائل العشرينات؛ فينطلق الرائد الفيدرالي (جيه. إدجار هوفر) لاستقصاء الأمر ومباشرة التحقيقات في القضية.",
+      "poster_path": "/wILvsqQglmv4PbT71OEWT3wdeTa.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "popularity": 694.277,
+      "release_date": "2023-10-18",
+      "video": false,
+      "vote_average": 7.55,
+      "vote_count": 1624
     }
-    // ... بقية الأفلام ...
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
 }
