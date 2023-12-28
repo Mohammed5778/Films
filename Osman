@@ -2,460 +2,411 @@
   "page": 1,
   "results": [
     {
-      "adult": false,
-      "backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
-      "id": 91363,
-      "name": "What If...?",
-      "original_language": "en",
-      "original_name": "What If...?",
-      "overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
-      "poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/9xxLWtnFxkpJ2h1uthpvCRK6vta.jpg",
+      "first_air_date": "1999-09-20",
       "genre_ids": [
-        16,
-        10759,
-        10765
+        80,
+        18,
+        9648
       ],
-      "popularity": 2649.338,
-      "first_air_date": "2021-08-11",
-      "vote_average": 8.188,
-      "vote_count": 3808,
+      "id": 2734,
+      "name": "Law & Order: Special Victims Unit",
       "origin_country": [
         "US"
-      ]
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order: Special Victims Unit",
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "popularity": 6099.992,
+      "poster_path": "/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg",
+      "vote_average": 8,
+      "vote_count": 3473
     },
     {
-      "adult": false,
-      "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
-      "id": 239770,
-      "name": "Doctor Who",
-      "original_language": "en",
-      "original_name": "Doctor Who",
-      "overview": "The Doctor and friends travel from the dawn of human history to distant alien worlds. And everywhere they go, they find adventure, terror, fun, chases, joy and monsters.",
-      "poster_path": "/91wVL2amQouWhbMfvrVeFNrrHmR.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/63XwyHYjIHIm4F8Vg6wyBfDQprc.jpg",
+      "first_air_date": "2000-10-06",
       "genre_ids": [
-        10759,
+        80,
         18,
-        10765
+        9648
       ],
-      "popularity": 273.206,
-      "first_air_date": "",
-      "vote_average": 7.483,
-      "vote_count": 59,
-      "origin_country": [
-        "GB"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "id": 57243,
-      "name": "Doctor Who",
-      "original_language": "en",
-      "original_name": "Doctor Who",
-      "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10759,
-        18,
-        10765
-      ],
-      "popularity": 1441.273,
-      "first_air_date": "2005-03-26",
-      "vote_average": 7.5,
-      "vote_count": 2747,
-      "origin_country": [
-        "GB"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
-      "id": 103540,
-      "name": "Percy Jackson and the Olympians",
-      "original_language": "en",
-      "original_name": "Percy Jackson and the Olympians",
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
-      "poster_path": "/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10759,
-        10765,
-        18,
-        10751
-      ],
-      "popularity": 1530.227,
-      "first_air_date": "2023-12-19",
-      "vote_average": 7.9,
-      "vote_count": 101,
+      "id": 1431,
+      "name": "CSI: Crime Scene Investigation",
       "origin_country": [
         "US"
-      ]
+      ],
+      "original_language": "en",
+      "original_name": "CSI: Crime Scene Investigation",
+      "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+      "popularity": 4978.323,
+      "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1091
     },
     {
-      "adult": false,
-      "backdrop_path": "/hgM7T4zkkrvLPB6RDMEYeSMJSPO.jpg",
-      "id": 221301,
-      "name": "Pokémon Concierge",
-      "original_language": "ja",
-      "original_name": "ポケモンコンシェルジュ",
-      "overview": "Welcome to Pokémon Resort, a peaceful getaway for Pokémon to relax and have fun. Which adorable guest will the new concierge Haru befriend and help first?",
-      "poster_path": "/2k53AsWsLrMtcbFyH0nVOqQjj2x.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/wU1y7snEVYiJBpZ2k1DjIpHgJbx.jpg",
+      "first_air_date": "1999-01-31",
       "genre_ids": [
         16,
-        10751
+        35
       ],
-      "popularity": 38.623,
-      "first_air_date": "2023-12-28",
+      "id": 1434,
+      "name": "Family Guy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Family Guy",
+      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "popularity": 4754.113,
+      "poster_path": "/hw2vi8agaJZ7oeSvS8uEYgOtK32.jpg",
+      "vote_average": 7.3,
+      "vote_count": 4007
+    },
+    {
+      "backdrop_path": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "first_air_date": "1990-09-13",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 549,
+      "name": "Law & Order",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order",
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "popularity": 4413.512,
+      "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+      "vote_average": 7.4,
+      "vote_count": 491
+    },
+    {
+      "backdrop_path": "/gNPWlhUXhyWiHv9qxr57tvT0WwS.jpg",
+      "first_air_date": "2014-10-07",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 60735,
+      "name": "The Flash",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "popularity": 4203.877,
+      "poster_path": "/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
       "vote_average": 7.8,
-      "vote_count": 4,
-      "origin_country": [
-        "JP"
-      ]
+      "vote_count": 10745
     },
     {
-      "adult": false,
-      "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
-      "id": 95479,
-      "name": "Jujutsu Kaisen",
-      "original_language": "ja",
-      "original_name": "呪術廻戦",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "poster_path": "/hFWP5HkbVEe40hrXgtCeQxoccHE.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/ds1n5P0Y92cTh6UpbcA89hxM96a.jpg",
+      "first_air_date": "2005-03-27",
       "genre_ids": [
-        16,
-        10759,
-        10765
+        18
       ],
-      "popularity": 1943.204,
-      "first_air_date": "2020-10-03",
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 4178.204,
+      "poster_path": "/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+      "vote_average": 8.3,
+      "vote_count": 9683
+    },
+    {
+      "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+      "first_air_date": "1989-12-17",
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": 456,
+      "name": "The Simpsons",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "popularity": 4112.215,
+      "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+      "vote_average": 8,
+      "vote_count": 9313
+    },
+    {
+      "backdrop_path": "/slVhck5n2GwlgPFWKJGfqiYyzCd.jpg",
+      "first_air_date": "2005-03-24",
+      "genre_ids": [
+        35
+      ],
+      "id": 2316,
+      "name": "The Office",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Office",
+      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "popularity": 3942.283,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "vote_average": 8.6,
-      "vote_count": 3007,
-      "origin_country": [
-        "JP"
-      ]
+      "vote_count": 3593
     },
     {
-      "adult": false,
-      "backdrop_path": "/peVe0NQNdZMXwtTohnv8iwJQb2d.jpg",
-      "id": 135238,
-      "name": "Gyeongseong Creature",
-      "original_language": "ko",
-      "original_name": "경성크리처",
-      "overview": "1945, Gyeongseong South Korea. Jang Tae-Sang is a rich man. He is known as the most attractive man around Bukchon in Gyeongseong. He is also a reliable source for information in the area. His talents, including the ability to respond quickly to situations, keen insight and his sociability, have led him to his current position. When he comes into contact with Yoon Chae-Ok, he has to reevaluate his priorities as a person.",
-      "poster_path": "/1qxRfQq9BI9dZ1nOztEtTkqNgea.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
+      "first_air_date": "2012-10-10",
       "genre_ids": [
-        10765,
-        9648,
+        18
+      ],
+      "id": 44006,
+      "name": "Chicago Fire",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chicago Fire",
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "popularity": 3871.318,
+      "poster_path": "/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2042
+    },
+    {
+      "backdrop_path": "/6s3ftX4a1kECPCb1Ewq3GLhVFnn.jpg",
+      "first_air_date": "2003-09-23",
+      "genre_ids": [
+        80,
+        18,
         10759
       ],
-      "popularity": 537.398,
-      "first_air_date": "2023-12-22",
+      "id": 4614,
+      "name": "NCIS",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "NCIS",
+      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "popularity": 3824.252,
+      "poster_path": "/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+      "vote_average": 7.6,
+      "vote_count": 2089
+    },
+    {
+      "backdrop_path": "/oxF9YJcBJzDlpdtDG0FyfMisn1E.jpg",
+      "first_air_date": "2002-09-26",
+      "genre_ids": [
+        80,
+        9648,
+        10759,
+        18
+      ],
+      "id": 2593,
+      "name": "Without a Trace",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Without a Trace",
+      "overview": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+      "popularity": 3819.32,
+      "poster_path": "/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg",
+      "vote_average": 7.4,
+      "vote_count": 232
+    },
+    {
+      "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "first_air_date": "1952-12-26",
+      "genre_ids": [
+        10763
+      ],
+      "id": 94722,
+      "name": "Tagesschau",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Tagesschau",
+      "overview": "German daily news program, the oldest still existing program on German television.",
+      "popularity": 3584.91,
+      "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "vote_average": 6.9,
+      "vote_count": 191
+    },
+    {
+      "backdrop_path": "/2e4uIrMXhUUXhUAg1ew3TdPXO0F.jpg",
+      "first_air_date": "1997-01-12",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 2122,
+      "name": "King of the Hill",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "King of the Hill",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "popularity": 3580.727,
+      "poster_path": "/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg",
+      "vote_average": 7.3,
+      "vote_count": 521
+    },
+    {
+      "backdrop_path": "/gRhEQqSh0IfxA6Wmd1OTb5vRSHf.jpg",
+      "first_air_date": "2001-10-16",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "id": 4604,
+      "name": "Smallville",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Smallville",
+      "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+      "popularity": 3444,
+      "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
       "vote_average": 8.2,
-      "vote_count": 28,
-      "origin_country": [
-        "KR"
-      ]
+      "vote_count": 3808
     },
     {
-      "adult": false,
-      "backdrop_path": "/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "id": 108978,
-      "name": "Reacher",
-      "original_language": "en",
-      "original_name": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster_path": "/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10759,
-        80,
-        18
-      ],
-      "popularity": 1851.389,
-      "first_air_date": "2022-02-03",
-      "vote_average": 8.071,
-      "vote_count": 1023,
-      "origin_country": [
-        "US"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "id": 37854,
-      "name": "One Piece",
-      "original_language": "ja",
-      "original_name": "ワンピース",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster_path": "/e3NBGiAifW9Xt8xD5tpARskjccO.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10759,
-        35,
-        16
-      ],
-      "popularity": 718.448,
-      "first_air_date": "1999-10-20",
-      "vote_average": 8.726,
-      "vote_count": 4221,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/A2QBw5sc6y78JT24NPzHpjiFoqJ.jpg",
-      "id": 95480,
-      "name": "Slow Horses",
-      "original_language": "en",
-      "original_name": "Slow Horses",
-      "overview": "This quick-witted spy drama follows a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world’s smoke and mirrors to defend England from sinister forces.",
-      "poster_path": "/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "popularity": 543.836,
-      "first_air_date": "2022-04-01",
-      "vote_average": 7.845,
-      "vote_count": 268,
-      "origin_country": [
-        "GB"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/t9i4Icf1LsGIgkpnokQaC4hzxLa.jpg",
-      "id": 202411,
-      "name": "Monarch: Legacy of Monsters",
-      "original_language": "en",
-      "original_name": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10759,
-        18,
-        10765
-      ],
-      "popularity": 1291.963,
-      "first_air_date": "2023-11-16",
-      "vote_average": 8.168,
-      "vote_count": 351,
-      "origin_country": [
-        "US"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/67G0pfORYUaqiOvQGxd5AwnV2yb.jpg",
-      "id": 106841,
-      "name": "Blossoms Shanghai",
-      "original_language": "zh",
-      "original_name": "繁花",
-      "overview": "Set against the backdrop of massive economic growth in the 1990s, the story follows A Bao, a self-made millionaire and his journey from being a young opportunist with a troubled past to accumulating dazzling wealth in the city of Shanghai. It also follows his entanglement with four women who represent the pursuits of his life: adventure, honour, love and innocence.",
-      "poster_path": "/pcL4VKmit4MI9QEzquRm5h4RrNw.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        18
-      ],
-      "popularity": 53.645,
-      "first_air_date": "2023-12-27",
-      "vote_average": 10,
-      "vote_count": 1,
-      "origin_country": [
-        "CN"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "id": 1429,
-      "name": "Attack on Titan",
-      "original_language": "ja",
-      "original_name": "進撃の巨人",
-      "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
-      "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        16,
-        10765,
-        10759
-      ],
-      "popularity": 415.754,
-      "first_air_date": "2013-04-07",
-      "vote_average": 8.665,
-      "vote_count": 5787,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg",
-      "id": 1399,
-      "name": "Game of Thrones",
-      "original_language": "en",
-      "original_name": "Game of Thrones",
-      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        10765,
-        18,
-        10759
-      ],
-      "popularity": 1530.321,
-      "first_air_date": "2011-04-17",
-      "vote_average": 8.441,
-      "vote_count": 22355,
-      "origin_country": [
-        "US"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
-      "id": 60622,
-      "name": "Fargo",
-      "original_language": "en",
-      "original_name": "Fargo",
-      "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
-      "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "first_air_date": "2008-09-23",
       "genre_ids": [
         80,
+        18,
+        9648
+      ],
+      "id": 5920,
+      "name": "The Mentalist",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Mentalist",
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "popularity": 3239.635,
+      "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "vote_average": 8.4,
+      "vote_count": 3478
+    },
+    {
+      "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+      "first_air_date": "1993-09-16",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 3452,
+      "name": "Frasier",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Frasier",
+      "overview": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.",
+      "popularity": 3205.885,
+      "poster_path": "/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "vote_average": 7.7,
+      "vote_count": 684
+    },
+    {
+      "backdrop_path": "/rxnschfLZf3ZPRiIa6oBBMtY7hF.jpg",
+      "first_air_date": "1995-09-23",
+      "genre_ids": [
+        18,
+        10759,
+        80
+      ],
+      "id": 4376,
+      "name": "JAG",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "JAG",
+      "overview": "Harmon \"Harm\" Rabb Jr. is a former pilot turned lawyer working for the military's JAG (Judge Advocate General) division, the elite legal wing of officers that prosecutes and defends those accused of military-related crimes. He works closely with Lt. Col. Sarah Mackenzie, and together they do what needs to be done to find the truth.",
+      "popularity": 3201.136,
+      "poster_path": "/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg",
+      "vote_average": 7.3,
+      "vote_count": 307
+    },
+    {
+      "backdrop_path": "/1fLufp1ZI2cofG4rV2xYYk4ahSS.jpg",
+      "first_air_date": "2001-09-24",
+      "genre_ids": [
         18
       ],
-      "popularity": 1226.657,
-      "first_air_date": "2014-04-15",
-      "vote_average": 8.307,
-      "vote_count": 2372,
+      "id": 2406,
+      "name": "Crossing Jordan",
       "origin_country": [
         "US"
-      ]
+      ],
+      "original_language": "en",
+      "original_name": "Crossing Jordan",
+      "overview": "Crossing Jordan is an American television crime/drama series that stars Jill Hennessy as Jordan Cavanaugh, M.D., a crime-solving forensic pathologist employed in the Massachusetts Office of the Chief Medical Examiner.",
+      "popularity": 3180.721,
+      "poster_path": "/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg",
+      "vote_average": 7.3,
+      "vote_count": 130
     },
     {
-      "adult": false,
-      "backdrop_path": "/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
-      "id": 120089,
-      "name": "SPY x FAMILY",
-      "original_language": "ja",
-      "original_name": "SPY×FAMILY",
-      "overview": "World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband and father, he’ll infiltrate an elite school to get close to a high-profile politician. He has the perfect cover, except his wife’s a deadly assassin and neither knows each other’s identity. But someone does, his adopted daughter who’s a telepath!",
-      "poster_path": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "media_type": "tv",
+      "backdrop_path": "/xXRsKNJHTOGrs5wfYAxkbM2RiyT.jpg",
+      "first_air_date": "2017-09-25",
       "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "popularity": 3151.555,
+      "poster_path": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "vote_average": 8.5,
+      "vote_count": 11921
+    },
+    {
+      "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+      "first_air_date": "2008-10-03",
+      "genre_ids": [
+        10759,
         16,
-        35,
-        10759
-      ],
-      "popularity": 515.927,
-      "first_air_date": "2022-04-09",
-      "vote_average": 8.608,
-      "vote_count": 1578,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
-      "id": 121,
-      "name": "Doctor Who",
-      "original_language": "en",
-      "original_name": "Doctor Who",
-      "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
-      "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        18,
-        10759,
         10765
       ],
-      "popularity": 3044.346,
-      "first_air_date": "1963-11-23",
-      "vote_average": 7.9,
-      "vote_count": 541,
-      "origin_country": [
-        "GB"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/179sUCj5AcFKdQpvDhkIX15NRgy.jpg",
-      "id": 146176,
-      "name": "Berlin",
-      "original_language": "es",
-      "original_name": "Berlín",
-      "overview": "During his glory days, Berlin and a gang assembled in Paris for one of his greatest plans ever: stealing 44 million euros' worth of jewels in one night.",
-      "poster_path": "/qggpZOGHps82F80lXPxtvtf9HnL.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        18,
-        10759,
-        80
-      ],
-      "popularity": 140.846,
-      "first_air_date": "2023-12-29",
-      "vote_average": 9,
-      "vote_count": 2,
-      "origin_country": [
-        "ES"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
-      "id": 84958,
-      "name": "Loki",
-      "original_language": "en",
-      "original_name": "Loki",
-      "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
-      "poster_path": "/rqDoCJEM3SNaX1h2PjCCVkgoql2.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        18,
-        10765
-      ],
-      "popularity": 477.14,
-      "first_air_date": "2021-06-09",
-      "vote_average": 8.183,
-      "vote_count": 10921,
+      "id": 4194,
+      "name": "Star Wars: The Clone Wars",
       "origin_country": [
         "US"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tIQMC9e9HEYsrpvtWlA2d6T7qZe.jpg",
-      "id": 241206,
-      "name": "The Lonely Warrior",
-      "original_language": "zh",
-      "original_name": "三大队",
-      "overview": "The rape and murder suspect dies in the interrogation room due to being beaten up by the crowd earlier. The three teams responsible for this case are also imprisoned together, while the other suspect is still at large. After being released from prison, the three teams, led by their captain Cheng, track down their whereabouts. They pursue the culprit for twelve years.",
-      "poster_path": "/ePXEabeoytBP1Ov7wJSL1ih8arE.jpg",
-      "media_type": "tv",
-      "genre_ids": [
-        9648,
-        80
       ],
-      "popularity": 53.967,
-      "first_air_date": "2023-12-21",
-      "vote_average": 9,
-      "vote_count": 1,
-      "origin_country": [
-        "CN"
-      ]
+      "original_language": "en",
+      "original_name": "Star Wars: The Clone Wars",
+      "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+      "popularity": 3120.694,
+      "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1819
     }
   ],
-  "total_pages": 1000,
-  "total_results": 20000
+  "total_pages": 8077,
+  "total_results": 161524
 }
