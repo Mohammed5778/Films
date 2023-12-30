@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF
-http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/59883.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE"   group-title="Undefined",الحلقة الاولي 
+content://media/external/downloads/1000127491
+#EXTINF:0 tvg-country="DE"  group-title="Undefined",الحلقة الثانية 
