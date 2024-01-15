@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>لوحة التحكم</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f7f7f7;
+            color: #333;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        #dashboard {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 30px;
+        }
+
+        #dashboard div {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 80%;
+            max-width: 400px;
+            margin-bottom: 20px;
+        }
+
+        #dashboard div span {
+            font-weight: bold;
+            color: #3498db;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>لوحة التحكم</h1>
+    </header>
+
+    <div id="dashboard">
+        <div>
+            <h2>تقدم الهدف: <span id="goal-percentage">75%</span></h2>
+            <p>عدد الأهداف: <span id="goals-count">5</span></p>
+            <p>الصحة النفسية: <span id="mental-health-status">60%</span></p>
+            <p>تقدم التعلم: <span id="learning-percentage">80%</span></p>
+            <p>التقييم: <span id="evaluation-status">جيد</span></p>
+            <p>نصيحة: <span id="motivation-tip">استمر في التقدم!</span></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>جميع الحقوق محفوظة © 2024 "معًا للأمل"</p>
+        
+         <p>المبرمج محمد إبراهيم عبدالله </p>
+    </footer>
+
+    <script>
+        // الكود الخاص بالـ JavaScript هنا
+        // يمكنك تغيير قيم النسب والبيانات بشكل دينامي وفقًا لاحتياجاتك
+        document.getElementById('goal-percentage').textContent = '75%';
+        document.getElementById('goals-count').textContent = '5';
+        document.getElementById('mental-health-status').textContent = '60%';
+        document.getElementById('learning-percentage').textContent = '80%';
+
+        let evaluation, tip;
+        if (parseInt(document.getElementById('mental-health-status').textContent) >= 70) {
+            evaluation = 'جيد جدًا';
+            tip = 'أنت على الطريق الصحيح، استمر!';
+        } else if (parseInt(document.getElementById('mental-health-status').textContent) >= 40) {
+            evaluation = 'جيد';
+            tip = 'تحتاج إلى بعض التحسين، لا تستسلم!';
+        } else {
+            evaluation = 'سيئ';
+            tip = 'حان وقت التغيير، ابدأ بخطوة اليوم!';
+        }
+
+        document.getElementById('evaluation-status').textContent = evaluation;
+        document.getElementById('motivation-tip').textContent = tip;
+    </script>
+</body>
+</html>
