@@ -1,99 +1,200 @@
 <!DOCTYPE html>
 <html lang="ar">
+
 <head>
     <meta charset="UTF-8">
-    <title>لوحة التحكم</title>
+    <title>مشغل الفيديو</title>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: Arial, sans-serif;
+            background-color: #141414;
             margin: 0;
             padding: 0;
-            text-align: center;
-            background-color: #f7f7f7;
-            color: #333;
+            color: white;
         }
 
         header {
-            background-color: #3498db;
-            color: #fff;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        #dashboard {
+            background: #111;
+            padding: 1rem;
+            color: white;
             display: flex;
-            flex-direction: column;
+            justify-content: space-between;
             align-items: center;
-            margin-top: 30px;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
         }
 
-        #dashboard div {
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            width: 80%;
-            max-width: 400px;
-            margin-bottom: 20px;
-        }
-
-        #dashboard div span {
+        .logo {
+            font-size: 2rem;
             font-weight: bold;
-            color: #3498db;
+            color: #e50914;
         }
 
-        footer {
-            background-color: #333;
+        .search-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .search-input {
+            width: 101px;
+            padding: 9px;
+            border: none;
+            border-radius: 5px;
+            margin-right: 10px;
+          margin-right:10px;
+        }
+
+        .search-button {
+            background-color: #e50914;
             color: #fff;
-            text-align: center;
-            padding: 20px;
+            font-size: 1rem;
+            padding: 8px 18px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+          margin-right:30px;
+        }
+
+        .player-container {
+            width: 100%;
+            max-width: 800px;
+            margin: 80px auto;
+        }
+
+        #channels {
+            border: 1px solid #333;
+            background-color: #333;
+            padding: 10px;
+            width: 95%;
+            max-width: 700px;
+            margin: 80px auto;
+            overflow-y: auto;
+            max-height: 500px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          margin-top: -78px;
+        }
+
+        .channel {
+            cursor: pointer;
+            padding: 8px;
+            margin-bottom: 5px;
+            border-bottom: 1px solid #555;
+            transition: background-color 0.3s;
+        }
+
+        .channel:hover {
+            background-color: #555;
+        }
+
+        .channel:last-child {
+            border-bottom: none;
         }
     </style>
 </head>
+
 <body>
     <header>
-        <h1>لوحة التحكم</h1>
+        <div class="logo">BlackBox</div>
+        <div class="search-container">
+            <input type="text" id="search-input" class="search-input" placeholder="ابحث عن القناة">
+            <button onclick="searchSeries()" class="search-button">بحث</button>
+        </div>
     </header>
 
-    <div id="dashboard">
-        <div>
-            <h2>تقدم الهدف: <span id="goal-percentage">75%</span></h2>
-            <p>عدد الأهداف: <span id="goals-count">5</span></p>
-            <p>الصحة النفسية: <span id="mental-health-status">60%</span></p>
-            <p>تقدم التعلم: <span id="learning-percentage">80%</span></p>
-            <p>التقييم: <span id="evaluation-status">جيد</span></p>
-            <p>نصيحة: <span id="motivation-tip">استمر في التقدم!</span></p>
-        </div>
+    <div class="player-container">
+        <video id="player" playsinline controls data-poster="/path/to/poster.jpg"></video>
     </div>
 
-    <footer>
-        <p>جميع الحقوق محفوظة © 2024 "معًا للأمل"</p>
-        
-         <p>المبرمج محمد إبراهيم عبدالله </p>
-    </footer>
+    <div id="channels"></div>
 
+    <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
     <script>
-        // الكود الخاص بالـ JavaScript هنا
-        // يمكنك تغيير قيم النسب والبيانات بشكل دينامي وفقًا لاحتياجاتك
-        document.getElementById('goal-percentage').textContent = '75%';
-        document.getElementById('goals-count').textContent = '5';
-        document.getElementById('mental-health-status').textContent = '60%';
-        document.getElementById('learning-percentage').textContent = '80%';
+        document.addEventListener('DOMContentLoaded', function() {
+            const player = new Plyr('#player', {
+                controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen'],
+                settings: ['captions', 'quality', 'speed'],
+                i18n: {
+                    restart: 'إعادة تشغيل',
+                    rewind: 'إعادة للخلف {seektime} ثواني',
+                    play: 'تشغيل',
+                    pause: 'إيقاف',
+                    forward: 'تقديم {seektime} ثواني',
+                    buffered: 'محتوى مخزن مؤقتًا',
+                    currentTime: 'الوقت الحالي',
+                    duration: 'المدة الزمنية',
+                    volume: 'الصوت',
+                    mute: 'كتم الصوت',
+                    unmute: 'إلغاء كتم الصوت',
+                    enableCaptions: 'تفعيل الترجمة',
+                    disableCaptions: 'تعطيل الترجمة',
+                    download: 'تنزيل',
+                    enterFullscreen: 'الدخول إلى وضع الشاشة الكاملة',
+                    exitFullscreen: 'الخروج من وضع الشاشة الكاملة',
+                    frameTitle: 'مشغل لـ {title}',
+                    captions: 'الترجمة',
+                    settings: 'الإعدادات',
+                    pip: 'PIP',
+                    menuBack: 'العودة إلى القائمة السابقة',
+                    speed: 'السرعة',
+                    normal: 'عادي',
+                    quality: 'الجودة',
+                    loop: 'تكرار',
+                }
+            });
 
-        let evaluation, tip;
-        if (parseInt(document.getElementById('mental-health-status').textContent) >= 70) {
-            evaluation = 'جيد جدًا';
-            tip = 'أنت على الطريق الصحيح، استمر!';
-        } else if (parseInt(document.getElementById('mental-health-status').textContent) >= 40) {
-            evaluation = 'جيد';
-            tip = 'تحتاج إلى بعض التحسين، لا تستسلم!';
-        } else {
-            evaluation = 'سيئ';
-            tip = 'حان وقت التغيير، ابدأ بخطوة اليوم!';
+            const playlistUrl = 'رابط الفيلم او المسلسل';
+            fetch(playlistUrl)
+                .then(response => response.text())
+                .then(data => {
+                    const jsonChannels = parseM3U8ToJSON(data);
+                    displayChannels(jsonChannels, player);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('channels').innerHTML = `<p>حدث خطأ أثناء تحميل القنوات.</p>`;
+                });
+        });
+
+        function parseM3U8ToJSON(m3u8Content) {
+            const lines = m3u8Content.split('\n');
+            let channels = [];
+            let currentChannel = {};
+
+            lines.forEach(line => {
+                line = line.trim();
+                if (line.startsWith('#EXTINF:')) {
+                    const parts = line.split(',');
+                    currentChannel = { name: parts[1] || 'Unknown Channel' };
+                } else if (line.startsWith('http')) {
+                    currentChannel.url = line;
+                    channels.push(currentChannel);
+                    currentChannel = {};
+                }
+            });
+
+            return channels;
         }
 
-        document.getElementById('evaluation-status').textContent = evaluation;
-        document.getElementById('motivation-tip').textContent = tip;
-    </script>
+        function displayChannels(channels, player) {
+            const channelsContainer = document.getElementById('channels');
+            channels.forEach(channel => {
+                const div = document.createElement('div');
+                div.className = 'channel';
+                div.innerHTML = `<strong>${channel.name}</strong>`;
+                div.onclick = function() {
+                    player.source ={
+type: 'video',
+sources: [{ src: channel.url, type: 'application/x-mpegURL' }]
+};
+player.play();
+};
+channelsContainer.appendChild(div);
+});
+}
+</script>
+
 </body>
 </html>
