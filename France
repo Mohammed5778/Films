@@ -1,0 +1,202 @@
+#EXTM3U
+#EXTINF:60,20 Minutes TV
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,A2i TV
+#EXTVLCOPT:network-caching=1000
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Africa 24 (540p)
+#EXTVLCOPT:network-caching=1000
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BBC News (European feed) (1080p)
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/60/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BBLACK! CLASSIK
+#EXTVLCOPT:network-caching=1000
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BIP TV
+#EXTVLCOPT:network-caching=1000
+http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BipTV
+#EXTVLCOPT:network-caching=1000
+https://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Chérie 25 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DBM (1080p)
+#EXTVLCOPT:network-caching=1000
+https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DBM TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FR | MDL - MDL
+#EXTVLCOPT:network-caching=1000
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FR | viaMirabelle - viaMirabelle
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Midnite Secrets
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Midnite Secrets
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Midnite Secrets
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Midnite Secrets (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Midnite Secrets (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV PG16 (144p)
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Paris
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fashion TV Paris (144p)
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 2
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/104/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/105/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Alpes
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/210/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Alsace
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/211/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Aquitaine
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/212/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Auvergne
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/213/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Bretagne
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/216/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Champagne-Ardenne
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/218/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Cote d'Azur
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/220/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Languedoc-Roussillon
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/223/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Lorraine
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/225/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Midi-Pyrenees
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/226/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Nord Pas-de-Calais
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/227/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Nouvelle-Aquitaine
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/224/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Picardie
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/230/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Provence-Alpes
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/232/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 3 Rhone-Alpes
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/233/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 4
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/116/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 5
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/107/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,HANDICAP TV France
+#EXTVLCOPT:network-caching=1000
+https://srv.webtvmanager.fr:3697/stream/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ILTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ILTV (720p)
+#EXTVLCOPT:network-caching=1000
+http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,L'EQUIPE 21 TV
+#EXTVLCOPT:network-caching=1000
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8?checkedby:iptvcat.com
+#EXTINF:0,L'EQUIPE 21 TV 2
+#EXTVLCOPT:network-caching=1000
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8?checkedby:iptvcat.com
+#EXTINF:0,L'Esprit Sorcier TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Littoral FM (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MUSEUM TV
+#EXTVLCOPT:network-caching=1000
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Monaco Info
+#EXTVLCOPT:network-caching=1000
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NRJ 12 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8?checkedby:iptvcat.com
+#EXTINF:0,P2M TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana Sports (720p)
+#EXTVLCOPT:network-caching=1000
+https://af.ayas.ir/hls2/persiana.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sophia TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sport En France (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sport En France (720p)
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TF 1
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/3/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TF1 Series Films
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/22/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TFX
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/13/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TMC
+#EXTVLCOPT:network-caching=1000
+http://livetv.ktv.zone/12/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV5Monde Info (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV7 Colmar
+#EXTVLCOPT:network-caching=1000
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV7 Colmar
+#EXTVLCOPT:network-caching=1000
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV7 Colmar
+#EXTVLCOPT:network-caching=1000
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV78
+#EXTVLCOPT:network-caching=1000
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVR
+#EXTVLCOPT:network-caching=1000
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TéléGohelle
+#EXTVLCOPT:network-caching=1000
+https://videas.agglo-lenslievin.fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ViàMatélé (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Ère TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8?checkedby:iptvcat.com
