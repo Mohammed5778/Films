@@ -3,18 +3,22 @@
         "name": "أحمد",
         "age": 30,
         "hireDate": "2015-06-01",
-        "promotions": 2
+        "promotions": 2,
+        "department": "الهندسة"
     },
     {
         "name": "سارة",
         "age": 26,
         "hireDate": "2018-09-15",
-        "promotions": 1
+        "promotions": 1,
+        "department": "المحاسبة"
     },
     {
         "name": "محمود",
         "age": 40,
         "hireDate": "2010-03-22",
-        "promotions": 3
+        "promotions": 3,
+        "department": "الإدارة"
     }
+    // يمكن إضافة المزيد من البيانات هنا
 ]
