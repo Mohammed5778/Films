@@ -8,16 +8,13 @@
     {
       "number": 2,
       "name": "البقرة",
-      "audioLink":
-"https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/002.mp3"
-
-      },
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/002.mp3"
+    },
     {
       "number": 3,
-      "name": "آل عمران ",
-      "audioLink":
-"https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/003.mp3" 
-},
+      "name": "آل عمران",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/003.mp3"
+    },
     {
       "number": 4,
       "name": "النساء",
@@ -27,9 +24,9 @@
       "number": 5,
       "name": "المائدة",
       "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/005.mp3"
-  },  
-{
-  "surahs": [
+    }
+  ],
+  "surahsAfterMaida": [
     {
       "number": 6,
       "name": "الأنعام",
@@ -55,7 +52,5 @@
       "name": "يونس",
       "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/010.mp3"
     }
-  ]
- }
   ]
 }
