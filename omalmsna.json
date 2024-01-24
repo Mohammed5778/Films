@@ -10,6 +10,12 @@
       "name": "البقرة",
       "audioLink":
 "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/002.mp3"
-    }
+
+      },
+    {
+      "number": 2,
+      "name": "آل عمران ",
+      "audioLink":
+"https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/003.mp3"  }
   ]
 }
