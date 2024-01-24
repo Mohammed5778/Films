@@ -27,6 +27,36 @@
       "number": 5,
       "name": "المائدة",
       "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/005.mp3"
+  },  
+{
+  "surahs": [
+    {
+      "number": 6,
+      "name": "الأنعام",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/006.mp3"
+    },
+    {
+      "number": 7,
+      "name": "الأعراف",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/007.mp3"
+    },
+    {
+      "number": 8,
+      "name": "الأنفال",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/008.mp3"
+    },
+    {
+      "number": 9,
+      "name": "التوبة",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/009.mp3"
+    },
+    {
+      "number": 10,
+      "name": "يونس",
+      "audioLink": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/010.mp3"
     }
+  ]
+}
+   }
   ]
 }
