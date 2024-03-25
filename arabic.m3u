@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U  
 #EXTINF: -1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General", 2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF: -1 tvg-id="AccessSacramentoChannel18.us" tvg-logo="https://i.imgur.com/0pbtcvp.png" group-title="General", Access Sacramento Channel 18
