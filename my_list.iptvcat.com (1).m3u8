@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Arabic Live,AR:AL Jazeera Arabic Live
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Mubashe,AR:AL Jazeera Mubashe
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music",Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Undefined",Al Jazeera English,QA | Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News;FRANCE",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News;FRANCE",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera (Backup)
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera (Backup)
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera Documentery
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera English (Backup)
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera Mubasher (Backup)
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Undefined",AlJazeera Arabe
+http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8&checkedby:iptvcat.com
