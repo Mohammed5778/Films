@@ -1,0 +1,1276 @@
+#EXTM3U max-conn="2" url-tvg="https://play-berry.net/xmltv.xml.gz"
+#EXTINF:0 group-title="Deutschland" tvg-id="welt-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/e5560e1355971b04fef7dcf84b1b708c.png" tvg-rec="7" catchup-days="7",Welt HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/welt-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="ntv-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/ae51f6bf2ea9a39dac60d1eb1722da15.png" tvg-rec="7" catchup-days="7",N-TV HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/ntv-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="das-erste-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/10c8d79afa94ff7ffb71f2487bb32601.png" tvg-rec="7" catchup-days="7",Das Erste HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/das-erste-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="one-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/527c3cb859049b78e7bbf758ccef513b.png" tvg-rec="7" catchup-days="7",ONE HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/one-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="zdf-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/d2a9e42bc5e4440de285b97d1af24c6b.png" tvg-rec="7" catchup-days="7",ZDF HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/zdf-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="zdf-neo-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/29c99991527747715b513ae12f6d1d1a.png" tvg-rec="7" catchup-days="7",ZDF Neo HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/zdf-neo-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="zdf-info-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/1849c51221c953e657312c6bb5bfbf99.png" tvg-rec="7" catchup-days="7",ZDF Info HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/zdf-info-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sat1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/24ff2fb31048547dc0667387f309b726.png" tvg-rec="7" catchup-days="7",Sat.1 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sat1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="rtl-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/887caf569c84d743478c268918285dec.png" tvg-rec="7" catchup-days="7",RTL HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/rtl-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="rtl2-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/b5d23e2be0f6de50b280f16ebd0c27c4.png" tvg-rec="7" catchup-days="7",RTL 2 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/rtl2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="prosieben-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/90fe1aa69cd78861e01c90626bfbe645.png" tvg-rec="7" catchup-days="7",ProSieben HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/prosieben-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="prosieben-maxx-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/7079bcf774171bbad9c3d5bd8bb2a28f.png" tvg-rec="7" catchup-days="7",ProSieben Maxx HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/prosieben-maxx-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="kabel-eins-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/7bda1da89026ad4ccb957b4794ec34f1.png" tvg-rec="7" catchup-days="7",Kabel Eins HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/kabel-eins-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sixx-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/4d4d4ae81abd200c8801bc2b8da83c65.png" tvg-rec="7" catchup-days="7",SIXX HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sixx-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="3sat-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/07f32b1a997838b0d42a4cfa1192adc6.png" tvg-rec="7" catchup-days="7",3sat HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/3sat-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="orf1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/7643d7eaa996a317be180e888a1e153f.png" tvg-rec="7" catchup-days="7",ORF 1 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/orf1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="orf2-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/6f492d78d12388ebd30e0f9ab66e9bda.png" tvg-rec="7" catchup-days="7",ORF 2 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/orf2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="orf-iii-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/30155d6e4d55f5f3a2fc81b94cccb8d8.png" tvg-rec="7" catchup-days="7",ORF III HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/orf-iii-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="atv-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/7ff4c746b15e36f01a1e4a4a37a290a4.png" tvg-rec="7" catchup-days="7",ATV HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/atv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="br-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/27a1a37fe232d675009d539792125096.png" tvg-rec="7" catchup-days="7",BR HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/br-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="hr-hd-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/93f34d2dd4a352f4696f5f568ad54397.png" tvg-rec="7" catchup-days="7",HR HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/hr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="rbb-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/f6b4e4135a63b2ffb3b205092e0d8d89.png" tvg-rec="7" catchup-days="7",RBB HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/rbb-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="mdr-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/0d59aa26584293c3273e1ac5ac1434a0.png" tvg-rec="7" catchup-days="7",MDR HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/mdr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="ndr-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/a0c5ee10428c415e33ba6f60156a06fb.png" tvg-rec="7" catchup-days="7",NDR HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/ndr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="wdr-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/d21232fe2941d0068c7d0be1ea41ca3d.png" tvg-rec="7" catchup-days="7",WDR HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/wdr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-cinema-premieren-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/87c5b8fd2105b8245b7a9e13886be22b.png" tvg-rec="7" catchup-days="7",Sky Cinema Premiere HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-cinema-premieren-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-cinema-action-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/87a5dbb4c4fd362034456e11d99df05d.png" tvg-rec="7" catchup-days="7",Sky Cinema Action HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-cinema-action-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-cinema-special-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/915d7dd933503da99f10520bc30e31f2.png" tvg-rec="7" catchup-days="7",Sky Cinema Highlights HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-cinema-special-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-cinema-best-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/add2ef01ea14a356a659f2c324aa172d.png" tvg-rec="7" catchup-days="7",Sky Cinema Classics HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-cinema-best-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-cinema-family-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/64cbfb16ced3ea7671ccc0d9ab397837.png" tvg-rec="7" catchup-days="7",Sky Cinema Family HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-cinema-family-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-atlantic-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/6197e8b079fbfdcdeff497f90d31b6c9.png" tvg-rec="7" catchup-days="7",Sky Cinema Atlantic HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-atlantic-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-one-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/12f6f32ca88cb59396c7798d42650425.png" tvg-rec="7" catchup-days="7",Sky One HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-one-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-krimi-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/9374ce140a407bf9e8ad5d8b3e62bf6e.png" tvg-rec="7" catchup-days="7",Sky Krimi HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-krimi-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-replay-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/15f7e23c70d3bd691988f131683becc5.png" tvg-rec="7" catchup-days="7",Sky Replay HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-replay-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="warner-film-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/a5a702c0e93ab37d7dd871a292a05013.png" tvg-rec="7" catchup-days="7",Warner Film HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/warner-film-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="warner-serie-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/bdeb525db7bcb659f7cadb5429897a72.png" tvg-rec="7" catchup-days="7",Warner Serie HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/warner-serie-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="warner-comedy-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/971c838b7da2b85578502c89e7368d88.png" tvg-rec="7" catchup-days="7",Warner Comedy HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/warner-comedy-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sony-chanel-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/66826cdb7ed357d625d5a7d0feb07352.png" tvg-rec="7" catchup-days="7",AXN White HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sony-chanel-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="syfy-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/222fc76b94d0d7f7b0a1d0368a0e20d6.png" tvg-rec="7" catchup-days="7",Syfy HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/syfy-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="axn-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/8ecedb0f0574c14c6e63b908598fe141.png" tvg-rec="7" catchup-days="7",AXN Black HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/axn-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="universal-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/4f54efdd1aa1a3418dabbc077ca163d6.png" tvg-rec="7" catchup-days="7",Universal HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/universal-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="13th-street-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/605f7420fe605a8a8424b05da46d883a.png" tvg-rec="7" catchup-days="7",13th Street HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/13th-street-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="servus-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/3d822ef0f49a5cc22870e597c2d05158.png" tvg-rec="7" catchup-days="7",DF1 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/servus-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="romance-tv-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/adb4178ca96a52acd410a971f56d24c7.png" tvg-rec="7" catchup-days="7",Romance TV HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/romance-tv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="discovery-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/fc50d1ef355c2c041a1e5ab65be4bbf2.png" tvg-rec="7" catchup-days="7",Discovery HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/discovery-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="nat-geo-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/532c5231ce14dce15708ce04f9d5d79f.png" tvg-rec="7" catchup-days="7",Nat Geo HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/nat-geo-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="nat-geo-wild-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/c5aec78794ae311105ec4d603950a592.png" tvg-rec="7" catchup-days="7",NatGeo Wild HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/nat-geo-wild-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-nature-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/9bedfb5df85dbd93984b69aed892cfa2.png" tvg-rec="7" catchup-days="7",Sky Nature HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-nature-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="geo-tv-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/3f981f75349f5b6e46e5d248b96ab08b.png" tvg-rec="7" catchup-days="7",GEO TV HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/geo-tv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="waidwerk-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/7146613ffa7938f0f1d662f1e54ed3fe.png" tvg-rec="7" catchup-days="7",Waidwerk HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/waidwerk-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="phoenix-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/8446cff5becbae835dd64a5ef7a53b69.png" tvg-rec="7" catchup-days="7",Phoenix HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/phoenix-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="alpha-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/b5e86df40b213af578352275147550b8.png" tvg-rec="7" catchup-days="7",Alpha HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/alpha-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="history-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/714bf1a2a0e5ebc7f862083ea5640aba.png" tvg-rec="7" catchup-days="7",History HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/history-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-doc-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/596004fa2163d7525e68eee5d859de8b.png" tvg-rec="7" catchup-days="7",Sky Documentaries HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-doc-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="spiegel-wissen-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/3831f74228c236ebbd737a3f496b6f4a.png" tvg-rec="7" catchup-days="7",Spiegel TV Wissen HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/spiegel-wissen-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="kabel-eins-doku-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/fca2d264000b625dd092691ed597fe7b.png" tvg-rec="7" catchup-days="7",Kabel Eins Doku HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/kabel-eins-doku-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="arte-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/6d143d4335bf3cb87c7b96c5257eba66.png" tvg-rec="7" catchup-days="7",Arte HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/arte-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="dmax-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/10a1b3947a881c9c3204a7dd9dd0dc5f.png" tvg-rec="7" catchup-days="7",DMAX HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/dmax-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="tlc-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/55b8afa88db44f79270e18d4acd425e6.png" tvg-rec="7" catchup-days="7",TLC HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/tlc-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-crime-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/ddfbcc2cce87cdebe8d23b8707ae7f61.png" tvg-rec="7" catchup-days="7",Sky Crime HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-crime-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="crime-plus-investigation-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/57da8bbc15842199647dde9618085ae7.png" tvg-rec="7" catchup-days="7",Crime + Investigation HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/crime-plus-investigation-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="rtl-nitro-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/5e96553a8b2013faf48238b955fc69a8.png" tvg-rec="7" catchup-days="7",RTL Nitro HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/rtl-nitro-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="rtlup-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/1b6357bd219d4962b631723e34ab0089.png" tvg-rec="7" catchup-days="7",RTLup HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/rtlup-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="vox-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/ad501d2d2c9c172ef02732bcbf4c4057.png" tvg-rec="7" catchup-days="7",VOX HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/vox-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="voxup-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/87b570d83ab811fbeb3698aa5117977c.png" tvg-rec="7" catchup-days="7",VOXup HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/voxup-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="tele5-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/d2dfc1a6d5a1183aed1d14d16f41cb1d.png" tvg-rec="7" catchup-days="7",Tele5 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/tele5-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-premier-league-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/191082436ba52ce018b9eb9aafba1218.png" tvg-rec="7" catchup-days="7",Sky Sport Premier League HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-premier-league-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/0d14500300017109a08248615d2fd4a5.png" tvg-rec="7" catchup-days="7",Sky Sport Top Event HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport2-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/b43dac4f995b007ec11632b787bd20cc.png" tvg-rec="7" catchup-days="7",Sky Sport Tennis HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-golf-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/794704ce976bdc35444ce038c0581012.png" tvg-rec="7" catchup-days="7",Sky Sport Golf HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-golf-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-mix-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/afd07c7b6ccb7daa85b92df6ea109565.png" tvg-rec="7" catchup-days="7",Sky Sport Mix HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-mix-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-news-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/e249a08a276856a27e83740a5f2fc058.png" tvg-rec="7" catchup-days="7",Sky Sport News HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-news-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-de-4k" tvg-logo="https://play-berry.net/storage/images/channel_logos/f2f18a8973e1600bddf17cf91c5e8e96.png" tvg-rec="0" catchup-days="0",Sky Sport UHD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-de-4k/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/4c81625e5fa1a1cd19b76cf03f7b5d6f.png" tvg-rec="7" catchup-days="7",Sky Sport Bundesliga HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga-de-4k" tvg-logo="https://play-berry.net/storage/images/channel_logos/1105faab798f333fef48accc4cb08215.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga UHD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga-de-4k/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga1-de-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/f18b4a099eeff6a144140aa9ef29fd75.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga 1 HD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga1-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga2-de-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/95b86063260b98c513380a24db1cda93.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga 2 HD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga2-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga3-de-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/f7a8a275ac4bbc9bfa21dcb7bb1a6417.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga 3 HD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga3-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga4-de-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/461d41ded25dcdd94e6e631a3c367c9a.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga 4 HD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga4-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-bundesliga5-de-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/5438fd5029bd310bd6ce696e7abcfcb2.png" tvg-rec="0" catchup-days="0",Sky Sport Bundesliga 5 HD (Live Event)
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-bundesliga5-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sportdigital-fussbal-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/346a661e449639a585dbd5e81d899ed3.png" tvg-rec="7" catchup-days="7",Sportdigital Fussball HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sportdigital-fussbal-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="dazn1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/0c7074bf89790965836d78d3afc4214a.png" tvg-rec="7" catchup-days="7",DAZN 1 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/dazn1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="dazn2-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/channel_logos/6ef9650683406612726b09b82d4b1a1c.png" tvg-rec="7" catchup-days="7",DAZN 2 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/dazn2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sport1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/a99960df696fe694fcc4f31eeeb6d362.png" tvg-rec="7" catchup-days="7",Sport 1 HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sport1-plus-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/d5674fe655331924074682fefc022caa.png" tvg-rec="7" catchup-days="7",Sport1+ HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sport1-plus-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="eurosport1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/df906c6f2d9dea46d147d343aaf94339.png" tvg-rec="7" catchup-days="7",Eurosport 1 HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/eurosport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="eurosport2-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/1da8bbb2f8a267a2cbfaf021f198c554.png" tvg-rec="7" catchup-days="7",Eurosport 2 HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/eurosport2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="sky-sport-f1-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/82947806662bbf8b8fb5b302a109ff3f.png" tvg-rec="7" catchup-days="7",Sky Sport F1 HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/sky-sport-f1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="orf-sport-plus-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/9aa8de2232b1312611e47e735ddafcbc.png" tvg-rec="7" catchup-days="7",ORF Sport + HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/orf-sport-plus-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="disney-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/78d537cffe877b86874bb9f6da2a8724.png" tvg-rec="7" catchup-days="7",Disney HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/disney-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="nickelodeon-hd-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/29db283ab379f338ea063ebe0d14dc5f.png" tvg-rec="7" catchup-days="7",Nickelodeon HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/nickelodeon-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="kika-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/a40b0241540cc5caa414bd5923bf08e1.png" tvg-rec="7" catchup-days="7",KIKA HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/kika-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="super-rtl-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/98446d36c754a129c131685b7119edf0.png" tvg-rec="7" catchup-days="7",Super RTL HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/super-rtl-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="comedy-central-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/7abdd320c1bb9f1d634f4f9a4b7a8ab9.png" tvg-rec="7" catchup-days="7",Comedy Central HD DE
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/comedy-central-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Deutschland" tvg-id="deluxe-music-de-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/cb4271e247b2250b5e7c2a69b65795ec.png" tvg-rec="0" catchup-days="0",Deluxe Music HD
+#EXTGRP:Deutschland
+http://rasp.berry-stream.net:80/deluxe-music-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="cnn-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/6ea55f38d04ca6c24a37777c81b516b2.png" tvg-rec="0" catchup-days="0",CNN HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/cnn-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-news-uk-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/fe521f5b8705418ce9d2ec1801f6029e.png" tvg-rec="0" catchup-days="0",Sky News HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-news-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="fox-news-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png" tvg-rec="0" catchup-days="0",FOX News HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/fox-news-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bloomberg-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/12966d52f4ca86aa0c4ae837211ccf2d.png" tvg-rec="0" catchup-days="0",Bloomberg TV HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bloomberg-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="al-jazeera-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png" tvg-rec="0" catchup-days="0",Al Jazeera HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/al-jazeera-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bbc-world-news-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/be74123a9a72dab0f82664c4804df20d.png" tvg-rec="0" catchup-days="0",BBC World HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bbc-world-news-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bbc1-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/21661bc6a08f812cd5171c45b2d6da94.png" tvg-rec="7" catchup-days="7",BBC One HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bbc1-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bbc2-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/c3164a99a1e828e6f9041aac49bef5d5.png" tvg-rec="7" catchup-days="7",BBC Two HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bbc2-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="itv1-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/8776c6f208ef3daef0d1aa3cb1038ce1.png" tvg-rec="7" catchup-days="7",ITV 1 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/itv1-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="itv2-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/60f426b7a2030376e088f0682f1f00d2.png" tvg-rec="7" catchup-days="7",ITV 2 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/itv2-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="itv3-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/fc10705fc04379f47f8ebfdb94a8d630.png" tvg-rec="7" catchup-days="7",ITV 3 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/itv3-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="itv4-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/22464e4bd4d0a3b749534a7fde6a91cc.png" tvg-rec="7" catchup-days="7",ITV 4 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/itv4-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="stv-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/5bbfc30a860d90131b260e454ce84bb2.png" tvg-rec="7" catchup-days="7",STV HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/stv-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="channel4-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/4c7a19d3d7c91d5e844c130133ccce0d.png" tvg-rec="7" catchup-days="7",Channel 4 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/channel4-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="channel5-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/33c8f94e6f270aa919831f40e47e9a4a.png" tvg-rec="7" catchup-days="7",Channel 5 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/channel5-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="rte-one-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/e595f4adbdb75c6ed393337844795dc2.png" tvg-rec="7" catchup-days="7",RTE One HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/rte-one-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-premier-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/b8a4ecb3f51aca81560d7c0a5c08cee1.png" tvg-rec="7" catchup-days="7",Sky Cinema Premiere HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-premier-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-hits-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6436d20e7f5cd1ff621e0505f52d75a1.png" tvg-rec="7" catchup-days="7",Sky Cinema Hits HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-hits-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-action-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/242c194e090e672275191f95151f5012.png" tvg-rec="7" catchup-days="7",Sky Cinema Action HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-action-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-select-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f9850db4f5218c82bb0f5daa6fff9ffa.png" tvg-rec="7" catchup-days="7",Sky Cinema Select HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-select-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-comedy-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6b344f5e18ad96c42ded586c1c06b93c.png" tvg-rec="7" catchup-days="7",Sky Cinema Comedy HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-comedy-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-family-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6b1eae95dd9e18ac34c0c36aac266bf9.png" tvg-rec="7" catchup-days="7",Sky Cinema Family HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-family-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-sci-fi-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/168604834f40ca1cf3f92b784a3bf1c5.png" tvg-rec="7" catchup-days="7",Sky Cinema Sci-Fi HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-sci-fi-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-thriller-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/4f174c0415bbd053889d4f9b70179a3e.png" tvg-rec="7" catchup-days="7",Sky Cinema Thriller HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-thriller-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-drama-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f2930a19462eaea8370b99cc071f3e55.png" tvg-rec="7" catchup-days="7",Sky Cinema Drama HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-drama-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-greats-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/ac08622d7f08c5b5a9f4a8e914c44c32.png" tvg-rec="7" catchup-days="7",Sky Cinema Greats HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-greats-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-showcase-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/c775a5ee8f526a977a65c11dd87651f0.png" tvg-rec="7" catchup-days="7",Sky Showcase HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-showcase-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-atlantic-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/63d6ca7e088144a70282c170ee25b23a.png" tvg-rec="7" catchup-days="7",Sky Atlantic HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-atlantic-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-max-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f1a31a606cb4700ae7a25a7fefdcdcbe.png" tvg-rec="7" catchup-days="7",Sky Max HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-max-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-witness-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f2f7c9e38b73a2c4ace77a82bb8672cf.png" tvg-rec="7" catchup-days="7",Sky Witness HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-witness-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sci-fi-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f2f6a71972595b07f50e5ea850021c35.png" tvg-rec="7" catchup-days="7",Sky Sci-Fi HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sci-fi-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-comedy-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6e8b61faaaab10a3d883782460b1fa8a.png" tvg-rec="7" catchup-days="7",Sky Comedy HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-comedy-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="comedy-central-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/a704a50a48fa52305d92b9dc9f209d50.png" tvg-rec="7" catchup-days="7",Comedy Central HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/comedy-central-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="alibi-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f0d28fc0c85ef1b3277469ca75a8dc33.png" tvg-rec="7" catchup-days="7",Alibi HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/alibi-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="film4-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/94cb26f471351f5efda0e9a532a25d2b.png" tvg-rec="7" catchup-days="7",Film4 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/film4-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="5star-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3782b1545838ac46299357889dc9275e.png" tvg-rec="7" catchup-days="7",5 Star HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/5star-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="gold-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3062157204de301ae12c09456ad68882.png" tvg-rec="7" catchup-days="7",Gold HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/gold-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="discovery-channel-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/575ac7762d05bd697f0e7f28f1724f0f.png" tvg-rec="7" catchup-days="7",Discovery Channel HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/discovery-channel-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="national-geographic-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6f5652de83819889020b3ab5a37f439f.png" tvg-rec="7" catchup-days="7",National Geographic HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/national-geographic-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="nat-geo-wild-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/feb9df276eb9917b26b95cd3b16d9a75.png" tvg-rec="7" catchup-days="7",Nat Geo Wild HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/nat-geo-wild-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="animal-planet-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/bd9f0087243cbcd8635e77533f5f83af.png" tvg-rec="7" catchup-days="7",Animal Planet HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/animal-planet-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-nature-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/eceb2132a5965927afa71b8672b0c25f.png" tvg-rec="7" catchup-days="7",Sky Nature HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-nature-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-history-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/a8263b048a1a54490f29354fd0297963.png" tvg-rec="7" catchup-days="7",Sky History HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-history-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-documentaries-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/0ac41ffb046795c82c4643d3ef8a86cb.png" tvg-rec="7" catchup-days="7",Sky Documentaries HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-documentaries-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-crime-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/9fcee8fe9a8363000ab8b6ca2c6624ce.png" tvg-rec="7" catchup-days="7",Sky Crime HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-crime-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bt-sport1-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/b722bf5ea046bdae55673873d6a8580f.png" tvg-rec="7" catchup-days="7",TNT Sport 1 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bt-sport1-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bt-sport2-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/01f962b23abf9d40d1d66bc896346691.png" tvg-rec="7" catchup-days="7",TNT Sport 2 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bt-sport2-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bt-sport3-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/449177aefc0ce0d5627dcd6f74195f27.png" tvg-rec="7" catchup-days="7",TNT Sport 3 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bt-sport3-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="bt-sport4-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/6d3bbae58550953fac052c08ae0f963a.png" tvg-rec="7" catchup-days="7",TNT Sport 4 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/bt-sport4-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="premier-sports1-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f3578128965751aa9983ff17d026e369.png" tvg-rec="7" catchup-days="7",Premier Sports 1 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/premier-sports1-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="premier-sports2-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/37af96ee828453a28bb90d23a3de1f45.png" tvg-rec="7" catchup-days="7",Premier Sports 2 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/premier-sports2-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="dazn1-hd-uk" tvg-logo="https://play-berry.net/storage/images/channel_logos/0c210b92193a8ad3459c30feb9b6640a.png" tvg-rec="7" catchup-days="7",DAZN 1 HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/dazn1-hd-uk/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-premier-league-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/e480d9cf9a2cd40c61ee44e7fccad519.png" tvg-rec="7" catchup-days="7",Sky Sports Premier League HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-premier-league-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-football-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/77bb647304195f8c50999109f47d9ae2.png" tvg-rec="7" catchup-days="7",Sky Sports Football HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-football-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-arena-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/97832ead3609c9365b95f4531aac432a.png" tvg-rec="7" catchup-days="7",Sky Sports Arena HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-arena-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-action-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/bbe78356a93130b4a30addaed7de0666.png" tvg-rec="7" catchup-days="7",Sky Sports Action HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-action-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-mix-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/5bd2b72a9bb7eb776efbb4cab8cd6923.png" tvg-rec="7" catchup-days="7",Sky Sports Mix HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-mix-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-tennis-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6416efa6a57756d440a814dbffbb62a6.png" tvg-rec="7" catchup-days="7",Sky Sports Tennis HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-tennis-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-cricket-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/18bf35d691937c5efaabe18e6b3bca18.png" tvg-rec="7" catchup-days="7",Sky Sports Cricket HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-cricket-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-golf-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3a476b131e91c8848babc71147f737db.png" tvg-rec="7" catchup-days="7",Sky Sports Golf HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-golf-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-main-event-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/bcae4c135dc99b911796cfcbfcce02fa.png" tvg-rec="7" catchup-days="7",Sky Sports Main Event HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-main-event-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sports-f1-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/767d5fa7e8501e6183d2962da11a9cd8.png" tvg-rec="7" catchup-days="7",Sky Sports F1 HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sports-f1-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-sport-news-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/cf03f6d1c1bff0144a311d3937bfd52a.png" tvg-rec="7" catchup-days="7",Sky Sports News HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-sport-news-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="nba-tv-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/5cdb1aa21af2ee8fcdbfe72a1956dedd.png" tvg-rec="7" catchup-days="7",NBA TV HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/nba-tv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="motorsport-tv-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/60912626f5d5a01cef1929cd47dab049.png" tvg-rec="7" catchup-days="7",Motorsport TV HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/motorsport-tv-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="nick-jr-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/ebb6af092d091955e9d026caae0f491a.png" tvg-rec="7" catchup-days="7",Nick Jr. HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/nick-jr-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="nickelodeon-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/d7d8b1f44ebd2774836abddb917f0b3b.png" tvg-rec="7" catchup-days="7",Nickelodeon HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/nickelodeon-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="cartoon-network-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/d28e8de222bfb3899e7f85bd4865cd59.png" tvg-rec="7" catchup-days="7",Cartoon Network HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/cartoon-network-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="boomerang-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/79df5588e38849ee6f51c6c3839e29f3.png" tvg-rec="7" catchup-days="7",Boomerang HD UK
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/boomerang-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-cinema-animation-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/d235e59e5db2510ec4b64e5f810904ee.png" tvg-rec="7" catchup-days="7",Sky Cinema Animation HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-cinema-animation-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="UK" tvg-id="sky-kids-uk-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/234be908615804bb6587242d7ca744b3.png" tvg-rec="7" catchup-days="7",Sky Kids HD
+#EXTGRP:UK
+http://rasp.berry-stream.net:80/sky-kids-uk-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="lnk-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/301b1c67f327a81cf63f6690a8afa325.png" tvg-rec="7" catchup-days="7",LNK HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/lnk-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="lrt-hd-lt" tvg-logo="https://play-berry.net/storage/images/channel_logos/8574b7c3e5c9784993ff91790bf541dc.png" tvg-rec="7" catchup-days="7",LRT HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/lrt-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="lrt-plus-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/71dcbc31ceabbf7895964c219032089d.png" tvg-rec="7" catchup-days="7",LRT Plus HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/lrt-plus-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv1-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/c883bab5312373f8cf7ca710904e20d5.png" tvg-rec="7" catchup-days="7",TV1 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv1-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/c091212ad9436f8cef1049e9f59b5364.png" tvg-rec="7" catchup-days="7",TV3 HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="3plus-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/e18609f7b4648183d5e9cf098278c49b.png" tvg-rec="7" catchup-days="7",TV3 Plus HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/3plus-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv6-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/66e9a0f5d1a8065e53ff1ac6ec9c7d32.png" tvg-rec="7" catchup-days="7",TV6 HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv6-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv8-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/3d7c0727515e49be395428e5d2fc83b5.png" tvg-rec="7" catchup-days="7",TV8 HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv8-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="delfi-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/aedb536428eeb853bbfcdf2d61b43799.png" tvg-rec="7" catchup-days="7",Delfi HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/delfi-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="info-tv-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/e4485e1d0ae9d58b40ac65d8a39085fc.png" tvg-rec="7" catchup-days="7",Info TV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/info-tv-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="btv-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/4dff9b78de72d5eafa5b33e0eb696664.png" tvg-rec="7" catchup-days="7",BTV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/btv-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="lietuvos-rytas-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/01b158535fb02406c5196c34b6bcdf2e.png" tvg-rec="7" catchup-days="7",Lietuvos Rytas HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/lietuvos-rytas-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="balticum-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/d57191e60a2bee340bf4289eba7ef51c.png" tvg-rec="7" catchup-days="7",Balticum HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/balticum-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="balticum-auksinis-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/5f187bb984ff42ab0580f1aa436814d6.png" tvg-rec="7" catchup-days="7",Balticum Auksinis HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/balticum-auksinis-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="balticum-platinum-lt-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/699c5493258d6fc8921d1c136a76638e.png" tvg-rec="7" catchup-days="7",Balticum Platinum HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/balticum-platinum-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="siauliu-televizija-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/57379d44c1804e8410ecf6309aa66d51.png" tvg-rec="7" catchup-days="7",Siauliu Televizija HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/siauliu-televizija-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="sport1-hd-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/d01b4bd0c389467dcbedb98e48234650.png" tvg-rec="7" catchup-days="7",Sport 1 HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/sport1-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kidzone-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/ce5bb2362ef5765cf8c2997080be436c.png" tvg-rec="7" catchup-days="7",Kidzone Max HD LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kidzone-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="nickelodeon-lt" tvg-logo="https://play-berry.net/storage/images/pack_logos/b1177d8f01ea70a540a278ee641c0448.png" tvg-rec="7" catchup-days="7",Nickelodeon LT
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/nickelodeon-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="ltv1-lv-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/925d64f21edcebe3afa64f0aa78d6983.png" tvg-rec="7" catchup-days="7",LTV1 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/ltv1-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="ltv3-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/d5f94648a58855aa68cef67a1cfd0bcb.png" tvg-rec="7" catchup-days="7",TV3 HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/ltv3-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="ltv3-life-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/ac5747759f6ef478f5ab563ee2b50189.png" tvg-rec="7" catchup-days="7",TV3 Life HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/ltv3-life-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="3-plus-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/ec851382c2cbd5e1ecbe55f4d259f32e.png" tvg-rec="7" catchup-days="7",TV3 Plus HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/3-plus-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv4-latvija-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/8d1625eaecfd9e6728d0d7a9d6a5e6cc.png" tvg-rec="7" catchup-days="7",TV4 Latvija HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv4-latvija-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="ltv6-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/fa5b4800c3a74fd72447e4f3f237f675.png" tvg-rec="7" catchup-days="7",TV6 HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/ltv6-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="ltv7-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/6f67b2007234ece3c215cfb5e58bedef.png" tvg-rec="7" catchup-days="7",LTV7 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/ltv7-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv24-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/14a71067abae61b15baeb334b96cf47c.png" tvg-rec="7" catchup-days="7",TV24 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv24-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="360tv-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/294f6d0e8e10547cf7e3cd012b8ad95e.png" tvg-rec="7" catchup-days="7",360 TV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/360tv-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kino7-lv-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/c1d14806f661f34dc37cd4a978e206ed.png" tvg-rec="7" catchup-days="7",Kino 7 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kino7-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kanal7-baltic-lv-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3462d899b4fd56441a09761bf40d3f47.png" tvg-rec="7" catchup-days="7",Kanal 7 HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kanal7-baltic-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="stv-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/c91a0e876ea05094713453473e7140f1.png" tvg-rec="7" catchup-days="7",S-TV Pirma HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/stv-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="re-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/eee3ae5c1a051a25a0b11d0eb3733da1.png" tvg-rec="7" catchup-days="7",RE TV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/re-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="best4sport-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/079f11bc75b0a1c2bc9b36f874d88d14.png" tvg-rec="7" catchup-days="7",Best4Sport TV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/best4sport-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="best4sport2-lv-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/87d16bf78e56d147ca560fb67b3cc12f.png" tvg-rec="7" catchup-days="7",Best4Sport 2 TV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/best4sport2-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kidzone-lv-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/85d9fd95a1c2bcbf63c5865eda2c5dbf.png" tvg-rec="7" catchup-days="7",Kidzone Max HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kidzone-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-mini-hd-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/6caace8dfbbfabd664ec1c10196964ed.png" tvg-rec="7" catchup-days="7",TV3 Mini HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-mini-hd-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="nickelodeon-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/801f827c9e69ed75cf1e9e59ebf44a0e.png" tvg-rec="7" catchup-days="7",Nickelodeon LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/nickelodeon-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="nick-jr-lv" tvg-logo="https://play-berry.net/storage/images/pack_logos/1d87dc72f0443b1d67272167247694a6.png" tvg-rec="7" catchup-days="7",Nick Jr. HD LV
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/nick-jr-lv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="etv-hd-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/2c357f63c5d18487f09e56d3280844c1.png" tvg-rec="7" catchup-days="7",ETV HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/etv-hd-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="etv-plus-hd-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/ecc743c6c674fb52b33605f78cd812b9.png" tvg-rec="7" catchup-days="7",ETV Plus HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/etv-plus-hd-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="etv2-hd-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/1667d155134ce9f3783e67db7cf5b497.png" tvg-rec="7" catchup-days="7",ETV 2 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/etv2-hd-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kanal2-hd-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/e14aac3dafbd65906246f7c32fbeb5aa.png" tvg-rec="7" catchup-days="7",Kanal 2 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kanal2-hd-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-ee-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/7877ca25be0ef4c17646238f6dc83332.png" tvg-rec="7" catchup-days="7",TV3 HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-life-ee-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/7275c9b9c0c087cd50fdbced895d2c47.png" tvg-rec="7" catchup-days="7",TV3 Life HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-life-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv6-ee-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/1c51d65a19ecb5b2ca575eaa0f83cfbe.png" tvg-rec="7" catchup-days="7",TV6 HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv6-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="duo4-ee-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/028991dd59e7e296f95835e763cbd9d2.png" tvg-rec="7" catchup-days="7",Duo4 HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/duo4-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="duo5-ee-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/66bc216aadd336ceec7a21a65faa24da.png" tvg-rec="7" catchup-days="7",Duo5 HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/duo5-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kanal7-baltic-ee-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3554c2aa1c4f94effc5cfcbc6deebc56.png" tvg-rec="7" catchup-days="7",Kanal 7 HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kanal7-baltic-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="eesti-kanal-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/ee44543533ea0f83a13ce38993db31ef.png" tvg-rec="7" catchup-days="7",Eesti Kanal
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/eesti-kanal-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="fox-ee-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/ce538645ee625e2c6e15a1cafd004568.png" tvg-rec="7" catchup-days="7",FX HD EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/fox-ee-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="nickelodeon-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/ed32a8696feba75a320f6b0d0eff76e9.png" tvg-rec="7" catchup-days="7",Nickelodeon EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/nickelodeon-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="nick-jr-ee" tvg-logo="https://play-berry.net/storage/images/pack_logos/4e07fe667e2f7d6fb93fc9ab33c2cb83.png" tvg-rec="7" catchup-days="7",Nick Jr. EE
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/nick-jr-ee/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="setanta-sports-baltic-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/bcc49505c81f8d04ac3b0d967c0e0782.png" tvg-rec="7" catchup-days="7",Setanta Sports HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/setanta-sports-baltic-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/15d3cf01951f14e441e6a1841c278f3a.png" tvg-rec="7" catchup-days="7",Go3 Sport 1 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-sport-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport2-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/aef1bb546897e09e4f5a2af524bcfcd3.png" tvg-rec="7" catchup-days="7",Go3 Sport 2 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-sport2-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport3-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/46b31ca995efd4deb92074e25e3c4743.png" tvg-rec="7" catchup-days="7",Go3 Sport 3 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-sport3-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport-open-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/b5519681ccb2bf9072274f0b44409401.png" tvg-rec="7" catchup-days="7",Go3 Sport Open HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-sport-open-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-film-hd-lt" tvg-logo="https://play-berry.net/storage/images/channel_logos/046034564c1c1f54d22002d6d61c7963.png" tvg-rec="7" catchup-days="7",Go3 Films HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/tv3-film-hd-lt/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="filmzone-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/1cb8402f19470c1ee0ffd83119b74356.png" tvg-rec="7" catchup-days="7",Filmzone HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/filmzone-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="filmzone-plus-lt-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/36bdca258736fb08444343c51b234144.png" tvg-rec="7" catchup-days="7",Filmzone Plus HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/filmzone-plus-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="smartzone-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/8b4e71e4d89d1492c6e1aa4217e840f0.png" tvg-rec="7" catchup-days="7",Smartzone HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/smartzone-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="kidzone-mini-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/291a8323169dcab82c04af19c70fe1f4.png" tvg-rec="7" catchup-days="7",Kidzone Mini HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/kidzone-mini-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="epic-drama-lt-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/68dc1dda9406f8444e7cd14328aa4629.png" tvg-rec="7" catchup-days="7",Epic Drama HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/epic-drama-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="viasat-kino-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/3fe2d24798f99d7d2f052b032add901b.png" tvg-rec="7" catchup-days="7",Viasat Kino HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/viasat-kino-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="viasat-kino-action-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/a6dec17c3cd044181c8a0c29d7f94652.png" tvg-rec="7" catchup-days="7",Viasat Kino Action HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/viasat-kino-action-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="viasat-nature-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/1703a63d86f2eb25326e87aab5ddfa84.png" tvg-rec="7" catchup-days="7",Viasat Nature HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/viasat-nature-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="viasat-history-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/d961a118ba12c292d62163f37d264540.png" tvg-rec="7" catchup-days="7",Viasat History HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/viasat-history-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="viasat-explore-lt-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/c2cfbb78a61a4e4f9aa716efee53c7ac.png" tvg-rec="7" catchup-days="7",Viasat Explore HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/viasat-explore-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="due3-lv-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/5a2123779a6d3ac9a530eb1183ca35c1.png" tvg-rec="7" catchup-days="7",Duo3 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/due3-lv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Baltic" tvg-id="duo6-lt-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/9aad85a373a6ee4368d4360284ca072e.png" tvg-rec="7" catchup-days="7",Duo6 HD
+#EXTGRP:Baltic
+http://rasp.berry-stream.net:80/duo6-lt-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="9-kanal-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/321babe4b69535b62b58880335577081.png" tvg-rec="7" catchup-days="7",9 Channel HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/9-kanal-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="11-kanal-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/6773deb8a03b790ed0c1e153d4309b28.png" tvg-rec="7" catchup-days="7",Kan 11 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/11-kanal-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="12-kanal-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png" tvg-rec="7" catchup-days="7",Keshet 12 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/12-kanal-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="13-kanal-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/9fb5e85f4bbf483460d2141954c325fa.png" tvg-rec="7" catchup-days="7",Reshet 13 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/13-kanal-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="14-kanal-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png" tvg-rec="7" catchup-days="7",Ch 14 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/14-kanal-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="i24-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png" tvg-rec="7" catchup-days="7",i24 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/i24-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-action-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/035fbe13775f3e26d65faff432e09a6b.png" tvg-rec="7" catchup-days="7",Yes Movies Action HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-movies-action-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-comedy-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/a2eb04cfdb14c1236f357c8a2c902183.png" tvg-rec="7" catchup-days="7",Yes Movies Comedy HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-movies-comedy-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-drama-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/8dd7310854aad0f69f2c9b87232839a6.png" tvg-rec="7" catchup-days="7",Yes Movies Drama HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-movies-drama-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-kids-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/802b69df911b4e41bb2c7c28e231e1ba.png" tvg-rec="7" catchup-days="7",Yes Movies KIDS HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-movies-kids-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-action-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/4d2acbd2d3ddcf1222ddda5839d371f5.png" tvg-rec="7" catchup-days="7",Yes TV Action HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-action-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-comedy-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/572da5c11f89984f64abcdef0043fc9a.png" tvg-rec="7" catchup-days="7",Yes TV Comedy HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-comedy-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-drama-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/4af2bd313ac46e72c3d1007c302173d3.png" tvg-rec="7" catchup-days="7",Yes TV Drama HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-drama-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema1-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png" tvg-rec="7" catchup-days="7",HOT Cinema 1 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-cinema1-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema2-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png" tvg-rec="7" catchup-days="7",HOT Cinema 2 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-cinema2-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema3-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png" tvg-rec="7" catchup-days="7",HOT Cinema 3 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-cinema3-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema4-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png" tvg-rec="7" catchup-days="7",HOT Cinema 4 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-cinema4-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-israeli-cinema-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/d8e56e46fc1e6926a0dbcd1871fcd50c.png" tvg-rec="7" catchup-days="7",HOT Israeli Cinema HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-israeli-cinema-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-hbo-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/975f4ceae77675fc6cbd2da6c3c2ee9f.png" tvg-rec="7" catchup-days="7",HBO HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-hbo-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-zone-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/1bb5cc5b621a35934729462387ecf894.png" tvg-rec="7" catchup-days="7",Zone HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-zone-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="viva-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/69265037d112c78565f79a6188106bc8.png" tvg-rec="7" catchup-days="7",Viva IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/viva-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="viva-premium-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/96ebc157dae560177a987b96529b2fd3.png" tvg-rec="7" catchup-days="7",Viva Premium HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/viva-premium-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="viva-plus-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/c2ea0863e4c8baba683f8c9807b02333.png" tvg-rec="7" catchup-days="7",Viva+
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/viva-plus-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="viva-vintage-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/37e0b663aa479c88486aa0f371722891.png" tvg-rec="7" catchup-days="7",Viva Vintage
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/viva-vintage-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot3-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png" tvg-rec="7" catchup-days="7",HOT 3 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot3-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-8-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/8ecc8229a90fce1c1181cb721bcb75dd.png" tvg-rec="7" catchup-days="7",HOT 8 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-8-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-israel-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png" tvg-rec="7" catchup-days="7",Yes Israeli HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-israel-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="channel24-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/a0e0197581415e7215c218e760b0404a.png" tvg-rec="7" catchup-days="7",Channel 24 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/channel24-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas-plus-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/1c65fed11343bb717b76ca65e3ebb7a1.png" tvg-rec="7" catchup-days="7",Turkish Dramas Plus HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/turkish-dramas-plus-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas2-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/312f2b1946fb303b4b5b83535649e24a.png" tvg-rec="7" catchup-days="7",Turkish Dramas 2 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/turkish-dramas2-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas3-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/344ee81ac872815b7a1107833be75978.png" tvg-rec="7" catchup-days="7",Turkish Dramas 3 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/turkish-dramas3-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yamtihoni-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png" tvg-rec="7" catchup-days="7",Yam Tihoni HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yamtihoni-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yam-tichoni2-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/75e476d22be41324413d3d0aefcf9470.png" tvg-rec="7" catchup-days="7",Yam Tichoni 2 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yam-tichoni2-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png" tvg-rec="7" catchup-days="7",Yam Tichoni+ HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yam-tichoni-plus-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="indian-series-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/e29e21ee990996562c29dbad349ee631.png" tvg-rec="7" catchup-days="7",Indian Series HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/indian-series-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="indian-series2-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/fd66729cc37200e9e60ec4822e4a2cb4.png" tvg-rec="7" catchup-days="7",Indian Series 2 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/indian-series2-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-bollywood-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/74e8c104904c99e7d7c2be832f2e43f7.png" tvg-rec="7" catchup-days="7",Bollywood HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-bollywood-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-bolyshow-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/3ead93234cd8474bb15327a7ee2f907e.png" tvg-rec="7" catchup-days="7",BollyShow HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-bolyshow-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="bollywood-classic-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/652ccaccaeac4bbea5f0e5dc7aac54e7.png" tvg-rec="7" catchup-days="7",Bollywood Classic HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/bollywood-classic-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="animal-planet-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/0808cfb235cb144c827d811b1d658c53.png" tvg-rec="7" catchup-days="7",Animal Planet HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/animal-planet-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/629e51301eaac62d7f3247a1de37bd9c.png" tvg-rec="7" catchup-days="7",Nat Geo Wild HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-natgeo-wild-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-natgeo-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/f8e969a38871f393eeb2fd71f3121ddf.png" tvg-rec="7" catchup-days="7",National Geographic HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-natgeo-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="discovery-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/8a0720a45a9d32602894d1380152a7e7.png" tvg-rec="7" catchup-days="7",Discovery HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/discovery-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="history-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/476b8e48cf78690c990528d0c4da0ba4.png" tvg-rec="7" catchup-days="7",History HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/history-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="travel-channel-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/e43ce618a5987c2c96a9c855b50e7fd5.png" tvg-rec="7" catchup-days="7",Travel Channel HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/travel-channel-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-docu-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/3488b39c041e8adca025c4fcb3f45efe.png" tvg-rec="7" catchup-days="7",Docu HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-docu-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="home-plus-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/4cb28fd7f24a5a9ee7d3ddd113fab3c6.png" tvg-rec="7" catchup-days="7",Home Plus IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/home-plus-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="the-design-channel-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/80ad5767c01bde4dc9b2d9eb89a79ee9.png" tvg-rec="7" catchup-days="7",Design Channel HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/the-design-channel-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="entertainment-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/d1a204c0caed85c4de60fa153a3d2391.png" tvg-rec="7" catchup-days="7",Entertainment HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/entertainment-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="e-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/79a7cd7f6cd0740aeea34b9809e451eb.png" tvg-rec="7" catchup-days="7",E! HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/e-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="the-food-channel-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/4b3317d1420eae3b0ed4d4efd1471c68.png" tvg-rec="7" catchup-days="7",The Food Channel
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/the-food-channel-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="food-network-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/02e6f16947a374e7c70d644f0e9d25d0.png" tvg-rec="7" catchup-days="7",Food Network HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/food-network-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="foody-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png" tvg-rec="7" catchup-days="7",Foody HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/foody-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="health-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/e7408202bfdb556e0b41b738fcffaa42.png" tvg-rec="7" catchup-days="7",Health HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/health-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="good-life-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/c7f1484938622f7bc3dad0a6cf5c24a7.png" tvg-rec="7" catchup-days="7",Good Life
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/good-life-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="cbs-reality-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/0c9f62b9115c5b9eba2c122c3e1ed49c.png" tvg-rec="7" catchup-days="7",CBS Reality IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/cbs-reality-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-real-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/73874c1f67371aa5467a9ed1a00433ca.png" tvg-rec="7" catchup-days="7",HOT Real HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-real-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport1-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" tvg-rec="7" catchup-days="7",Sport 1 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport1-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport2-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" tvg-rec="7" catchup-days="7",Sport 2 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport2-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport3-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" tvg-rec="7" catchup-days="7",Sport 3 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport3-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport4-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" tvg-rec="7" catchup-days="7",Sport 4 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport4-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport5-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png" tvg-rec="7" catchup-days="7",Sport 5 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport5-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-sport5-plus-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/308a86c397eca474b8e39f67ea34c099.png" tvg-rec="7" catchup-days="7",Sport 5+ HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-sport5-plus-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport5-plus-live-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/cf225e1fe8d65f718aca80e3ee0d6e2d.png" tvg-rec="7" catchup-days="7",Sport 5 Live HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport5-plus-live-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport5-stars-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png" tvg-rec="7" catchup-days="7",Sport 5 Stars HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport5-stars-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport5-gold-il" tvg-logo="https://play-berry.net/storage/images/channel_logos/cb557d0e10ae253524a5569cd71201e1.png" tvg-rec="7" catchup-days="7",Sport 5 Gold HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport5-gold-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="sport5-il-4k" tvg-logo="https://play-berry.net/storage/images/channel_logos/6a0a4135e0e7453eaeb14354a3931e6c.png" tvg-rec="7" catchup-days="7",Sport 5 4K
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/sport5-il-4k/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="one-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png" tvg-rec="7" catchup-days="7",One HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/one-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="one2-hd-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png" tvg-rec="7" catchup-days="7",One 2 HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/one2-hd-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="ego-total-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/e812ef5439c74f18c56bbb2a2dfb96e7.png" tvg-rec="7" catchup-days="7",Ego Total
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/ego-total-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="humor-channel-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/f5b6f72ca81836795d74868f76c13e5d.png" tvg-rec="7" catchup-days="7",Humor Channel HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/humor-channel-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hot-comedy-central-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/479ecd9c606cac2ebdfd10a7f5f1297d.png" tvg-rec="7" catchup-days="7",HOT Comedy HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hot-comedy-central-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="classic-comedy-channel-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/79240b687eb3930ad0336e05fec2eb00.png" tvg-rec="7" catchup-days="7",Classic Comedy Channel HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/classic-comedy-channel-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="cinema-family-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/348778647ec6325084144004ab73e6be.png" tvg-rec="7" catchup-days="7",Cinema Family HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/cinema-family-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-disney-il-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/8953d8d82f60ea411852c4b247f21198.png" tvg-rec="7" catchup-days="7",Disney HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-disney-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="disney-jr-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/c4c399d6bea7ec2406817deba1e07cb3.png" tvg-rec="7" catchup-days="7",Disney Jr HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/disney-jr-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="yes-nickelodeon-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/4dfb96715faa830f426e254b5d7cb2a8.png" tvg-rec="7" catchup-days="7",Nickelodeon HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/yes-nickelodeon-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="nick-jr-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/299e4bc068cbedf20b85e5cbb40023fd.png" tvg-rec="7" catchup-days="7",Nick Jr HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/nick-jr-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="teennick-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/5aa1de58316eec08102daeeecd7c0940.png" tvg-rec="7" catchup-days="7",TeenNick HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/teennick-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="hop-childhood-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/f1cf7afb7d0b38cc1ca069774c9713eb.png" tvg-rec="7" catchup-days="7",HOP HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/hop-childhood-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="luli-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/1e089dc3e45099a3093a2c7986f50243.png" tvg-rec="7" catchup-days="7",Luli
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/luli-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="baby-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/dfb1abd80b9a1255ce3d1acc72a4610b.png" tvg-rec="7" catchup-days="7",Baby HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/baby-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="zoom-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/cd45603c66f9ac15e446c15364b5a4ec.png" tvg-rec="7" catchup-days="7",Zoom HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/zoom-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="kan23-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/8e37e18c472fa294b88b9f2431c0726d.png" tvg-rec="7" catchup-days="7",Kan 23 HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/kan23-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="junior-il" tvg-logo="https://play-berry.net/storage/images/pack_logos/c4afc4ff4c3bd8e9d7c6df6046d66850.png" tvg-rec="7" catchup-days="7",Junior HD IL
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/junior-il/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Israel" tvg-id="music-il-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/e74ab1b6d7349cc3e01d0adce26465c0.png" tvg-rec="0" catchup-days="0",Music HD
+#EXTGRP:Israel
+http://rasp.berry-stream.net:80/music-il-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="free-news-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/5e4e75a093f78c7eb9250d7523e546db.png" tvg-rec="7" catchup-days="7",FreeNews HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/free-news-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="arm-news24-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/1f80c282fd3eba3ee2e9c3c36773336c.png" tvg-rec="0" catchup-days="0",ArmNews24 HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/arm-news24-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="1in-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/d33ec2fe949ee55f2d03adc96799ae25.png" tvg-rec="7" catchup-days="7",1 in AM
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/1in-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="armenija-1" tvg-logo="https://play-berry.net/storage/images/channel_logos/1159430245006ac92ca90ef39b3e7f6e.png" tvg-rec="7" catchup-days="7",H1
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/armenija-1/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="h1-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/3bda4cd68a03f260bc987092c9aebd30.png" tvg-rec="0" catchup-days="0",H1 HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/h1-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="h2-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/887938a5671282ea40157ba03ef680eb.png" tvg-rec="7" catchup-days="7",H2
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/h2-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="h2-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/4f3ada1a04acd18deb96f47d54e957d0.png" tvg-rec="7" catchup-days="7",H2 HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/h2-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="armenia-tv-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/armenia-tv-am.png" tvg-rec="7" catchup-days="7",Armenia TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/armenia-tv-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="armenia-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/c1e5225a63fd74ae62d8ce70736261db.png" tvg-rec="7" catchup-days="7",Armenia TV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/armenia-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="armenia-premium-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/97ec22587295026d8b26baa234b744c7.png" tvg-rec="7" catchup-days="7",Armenia Premium HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/armenia-premium-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="lurer-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/82b6260637806ec7c1b3495ce6948383.png" tvg-rec="7" catchup-days="7",Lurer HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/lurer-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="vmedia-am-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/bcfef77d473277cd32b776c5851ec128.png" tvg-rec="7" catchup-days="7",Fast Sports HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/vmedia-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/shant-am.png" tvg-rec="7" catchup-days="7",Shant
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/08600aabec847f4059b20e03fdc17738.png" tvg-rec="7" catchup-days="7",Shant HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-serial-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/324b0cee6962ad931428a2e2403d0ee7.png" tvg-rec="7" catchup-days="7",Shant Serial HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-serial-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-premium-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/6240f993335385d0f968e4ff89dadb26.png" tvg-rec="7" catchup-days="7",Shant Premium HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-premium-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-premium-usa-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/d83e4674dfcb96897ff8b108a79f2b00.png" tvg-rec="7" catchup-days="7",Shant Premium USA HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-premium-usa-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-gyumri-am" tvg-logo="https://play-berry.net/storage/images/pack_logos/067bdb5897d6091ac11771b94cf7dd51.png" tvg-rec="7" catchup-days="7",Shant Gyumri HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-gyumri-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="ararat-am" tvg-logo="https://play-berry.net/storage/images/pack_logos/7e722fde2636d87e5676083b14449481.png" tvg-rec="7" catchup-days="7",5 TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/ararat-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="5tv-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/b467c0c10e895f8e4a858985dd94501c.png" tvg-rec="7" catchup-days="7",5 TV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/5tv-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="arajin-aliq-sat-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/2462b168a145cda75191f0c8e43c180c.png" tvg-rec="7" catchup-days="7",Arajin Aliq Sat HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/arajin-aliq-sat-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="nor-hayastan-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/085886ca0d427eb24b961569ed0a2b60.png" tvg-rec="7" catchup-days="7",Nor Hayastan HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/nor-hayastan-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="azatutyun-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/7d144fd74526165a84c92da5f9edad7f.png" tvg-rec="7" catchup-days="7",Azatutyun TV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/azatutyun-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="kentron-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/c2f84d2a64652af3d83e5d9d9d43dcc1.png" tvg-rec="7" catchup-days="7",Kentron TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/kentron-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="kentron-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/1181f310eca4f6c6ba8a7d438100be6e.png" tvg-rec="7" catchup-days="7",Kentron TV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/kentron-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="hay-kino-am" tvg-logo="https://play-berry.net/storage/images/pack_logos/6ccd7f122238351a16bcf4f8e22ba5ba.png" tvg-rec="7" catchup-days="7",HayKino
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/hay-kino-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="artn-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/3d5433833f6b5276203ac81bb0561169.png" tvg-rec="7" catchup-days="7",ARTN HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/artn-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="atv-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/95d74e7e7e03efc286261c4088ea867e.png" tvg-rec="7" catchup-days="7",ATV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/atv-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="atv-filmzone-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/cef1f94b6c7ec8a36af117c8f516c7fb.png" tvg-rec="7" catchup-days="7",ATV Filmzone HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/atv-filmzone-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="atv-tava-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/3378e041647cd0d3e0f287a8c2c1de44.png" tvg-rec="7" catchup-days="7",ATV Tava HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/atv-tava-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="delta-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/95f8c8a12a39486c22febc6c652ed10d.png" tvg-rec="7" catchup-days="7",DeltaTV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/delta-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="fortuna-tv-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/e93abca1677610309ec1ca51c9f843b4.png" tvg-rec="7" catchup-days="7",Fortuna TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/fortuna-tv-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="horizon-am" tvg-logo="https://play-berry.net/storage/images/pack_logos/afa3932a39b2f62916f01435f59f3c58.png" tvg-rec="7" catchup-days="7",Horizon HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/horizon-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="usarmenia-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/9d3a3a1ed79c6b12e62381756a8fc2d8.png" tvg-rec="7" catchup-days="7",USArmeniaTV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/usarmenia-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="erkir-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/6780a6680618c1667d19321e64251bbc.png" tvg-rec="7" catchup-days="7",Yerkir TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/erkir-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="erkir-media-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/channel_logos/b7f43ade9d9fe8fbf923cad889ee0dd4.png" tvg-rec="7" catchup-days="7",Yerkir HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/erkir-media-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shoghakat-am" tvg-logo="https://play-berry.net/storage/images/channel_logos/shoghakat-am.png" tvg-rec="7" catchup-days="7",Shoghakat TV
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shoghakat-am/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="armount-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/b30e74a1d630941dd3e942b7046888aa.png" tvg-rec="7" catchup-days="7",Armount HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/armount-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-music-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/f2bba990bb3a4c86eee6ac3e8c3db854.png" tvg-rec="7" catchup-days="7",Shant Music HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-music-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="song-tv-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/6e6b8f6eb0ab1ae2a54c6f21e003d33f.png" tvg-rec="0" catchup-days="0",SongTV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/song-tv-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="arm-music-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/42a4e7ae8277b1e7981b791ae73a9a2d.png" tvg-rec="0" catchup-days="0",ArmMusic HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/arm-music-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="velari-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/1543b83790979788c11f8b01494af477.png" tvg-rec="0" catchup-days="0",Velari HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/velari-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="21tv-am-hd-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/8d2cdc704b99bfa453fdf4a84c340638.png" tvg-rec="0" catchup-days="0",21TV HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/21tv-am-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="shant-kids-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/39efd3cdbcbe819dabdae184a82d7fc7.png" tvg-rec="7" catchup-days="7",Shant Kids HD
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/shant-kids-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Armenia" tvg-id="arm-toon-am-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/b76b625feddcb7fcc8622d99efdfa5d8.png" tvg-rec="7" catchup-days="7",ArmToon
+#EXTGRP:Armenia
+http://rasp.berry-stream.net:80/arm-toon-am-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="tv8-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/tv8-hd-tr.png" tvg-rec="7" catchup-days="7",TV8 HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/tv8-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="kanal7-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/kanal7-hd-tr.png" tvg-rec="7" catchup-days="7",Kanal 7 HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/kanal7-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="kanald-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/kanald-hd-tr.png" tvg-rec="7" catchup-days="7",Kanal D HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/kanald-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="atv-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/atv-hd-tr.png" tvg-rec="7" catchup-days="7",ATV HD TR
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/atv-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="star-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/star-hd-tr.png" tvg-rec="7" catchup-days="7",Star HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/star-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="show-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/show-hd-tr.png" tvg-rec="7" catchup-days="7",Show HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/show-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="fox-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/f95f688e16c5e9dfa4139b2a3678829a.png" tvg-rec="7" catchup-days="7",Now HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/fox-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="beyaz-tv-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/a2d73646c30df5431aeb514ede2b2529.png" tvg-rec="7" catchup-days="7",Beyaz TV HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/beyaz-tv-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="trt-spor-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/trt-spor-hd-tr.png" tvg-rec="7" catchup-days="7",TRT Spor HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/trt-spor-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="trt-spor2-hd-tr" tvg-logo="https://play-berry.net/storage/images/pack_logos/b673721cd7f6f11eef0587d2e12967e2.png" tvg-rec="7" catchup-days="7",TRT Spor Yıldız HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/trt-spor2-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="a-spor-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/a-spor-hd-tr.png" tvg-rec="7" catchup-days="7",A Spor HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/a-spor-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="tlc-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/tlc-hd-tr.png" tvg-rec="7" catchup-days="7",TLC HD TR
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/tlc-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="trt-cocuk-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/trt-cocuk-hd-tr.png" tvg-rec="7" catchup-days="7",TRT Cocuk HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/trt-cocuk-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="dream-turk-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/386a17e282a0d6c30f4a0b100c77d3ef.png" tvg-rec="0" catchup-days="0",Dream Turk HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/dream-turk-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="trt1-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/trt1-tr.png" tvg-rec="7" catchup-days="7",TRT 1 HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/trt1-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="cnn-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/cnn-hd-tr.png" tvg-rec="0" catchup-days="0",CNN Turk HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/cnn-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="haberturk-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/haberturk-hd-tr.png" tvg-rec="0" catchup-days="0",HaberTurk HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/haberturk-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="a-haber-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/2f63046d83c76e1d570b6f1af7c3179f.png" tvg-rec="0" catchup-days="0",A HABER HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/a-haber-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="trt-haber-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/trt-haber-tr.png" tvg-rec="0" catchup-days="0",TRT HABER HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/trt-haber-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="haber-global-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/71e31b6f01ebc4e003ac43b541a5de87.png" tvg-rec="0" catchup-days="0",Haber Global HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/haber-global-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="tv100-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/5ef8d6d8216d7ddadf06d17889504873.png" tvg-rec="0" catchup-days="0",TV100 HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/tv100-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="24-tv-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/tv-tr.png" tvg-rec="7" catchup-days="7",24 TV HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/24-tv-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="ntv-hd-tr" tvg-logo="https://play-berry.net/storage/images/channel_logos/ntv-hd-tr.png" tvg-rec="7" catchup-days="7",NTV HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/ntv-hd-tr/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Türkiye" tvg-id="krt-tv-tr-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/9c0d7ebc913f2153070f731c563a1e08.png" tvg-rec="0" catchup-days="0",KRT TV HD
+#EXTGRP:Türkiye
+http://rasp.berry-stream.net:80/krt-tv-tr-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="azad-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/azad-tv-az.png" tvg-rec="7" catchup-days="7",Azad TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/azad-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="xazar-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/xazar-tv-az.png" tvg-rec="7" catchup-days="7",Xazar TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/xazar-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="space-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/space-tv-az.png" tvg-rec="7" catchup-days="7",Space TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/space-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="start-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png" tvg-rec="7" catchup-days="7",Start TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/start-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="arb-az-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/7a5505ad2da61a13471c976e9bb74957.png" tvg-rec="7" catchup-days="7",ARB HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/arb-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="arb24-hd-az" tvg-logo="https://play-berry.net/storage/images/pack_logos/03a652f97cc077628c745063c0519c0b.png" tvg-rec="7" catchup-days="7",ARB24 HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/arb24-hd-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="arb-gunes-az-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/78a5aeb0c280f3899eb02e71d1ca0828.png" tvg-rec="7" catchup-days="7",ARB Gunes HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/arb-gunes-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="arb-kepez-az" tvg-logo="https://play-berry.net/storage/images/pack_logos/c33256e290bd5a9c979334cf27792e67.png" tvg-rec="7" catchup-days="7",ARB Kəpəz
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/arb-kepez-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="ictimai-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/ictimai-tv-az.png" tvg-rec="7" catchup-days="7",Ictimai TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/ictimai-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="cbc-hd-az" tvg-logo="https://play-berry.net/storage/images/channel_logos/cbc-az.png" tvg-rec="7" catchup-days="7",CBC HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/cbc-hd-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="cbc-sport-hd-az" tvg-logo="https://play-berry.net/storage/images/channel_logos/cbc-sport-az.png" tvg-rec="7" catchup-days="7",CBC Sport HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/cbc-sport-hd-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="real-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/real-az.png" tvg-rec="7" catchup-days="7",Real TV HD AZ
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/real-tv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="aztv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/aztv-az.png" tvg-rec="7" catchup-days="7",AzTV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/aztv-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="dunya-tv-az" tvg-logo="https://play-berry.net/storage/images/channel_logos/dunya-tv-az.png" tvg-rec="7" catchup-days="7",Dunya TV
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/dunya-tv-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="medeniyyet-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/medeniyyet-az.png" tvg-rec="7" catchup-days="7",Medeniyyet TV HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/medeniyyet-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="idman-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/idman-az.png" tvg-rec="7" catchup-days="7",Idman Azerbaycan HD
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/idman-az-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="Azerbaijan" tvg-id="muz-tv-az" tvg-logo="https://play-berry.net/storage/images/channel_logos/muz-tv-az.png" tvg-rec="7" catchup-days="7",Muz TV Azerbaycan
+#EXTGRP:Azerbaijan
+http://rasp.berry-stream.net:80/muz-tv-az/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="extasy-4k" tvg-logo="https://play-berry.net/storage/images/pack_logos/588f4da31af930a77923f1ba87e8890a.png" tvg-rec="0" catchup-days="0" parent-code="0000",Extasy 4K
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/extasy-4k/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="eromania-4k-orig" tvg-logo="https://play-berry.net/storage/images/pack_logos/aa4dd95d091ab67326d3d739470de9dc.png" tvg-rec="0" catchup-days="0" parent-code="0000",Eromania 4K
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/eromania-4k-orig/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="penthouse1-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/dd0270ee436d106139b79b2a4c4f9b28.png" tvg-rec="0" catchup-days="0" parent-code="0000",Penthouse Gold HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/penthouse1-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="penthouse2-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/6911eb68d4755e585c1d0bfc1ca9160f.png" tvg-rec="0" catchup-days="0" parent-code="0000",Penthouse Quickies HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/penthouse2-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="redlight-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/redlight-hd.png" tvg-rec="0" catchup-days="0" parent-code="0000",Redlight HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/redlight-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="dorcel-tv-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/a5e1f711f6e6c8ba978dbded447fda34.png" tvg-rec="0" catchup-days="0" parent-code="0000",Dorcel TV HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/dorcel-tv-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-red-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/vivid-red-hd.png" tvg-rec="0" catchup-days="0" parent-code="0000",Vivid Red HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/vivid-red-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="private-tv" tvg-logo="https://play-berry.net/storage/images/channel_logos/private-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Private HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/private-tv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="hustler-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/hustler-hd.png" tvg-rec="0" catchup-days="0" parent-code="0000",Hustler HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/hustler-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="brazzers-tv" tvg-logo="https://play-berry.net/storage/images/channel_logos/brazzers-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Brazzers TV HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/brazzers-tv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="babes-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/babes-hd.png" tvg-rec="0" catchup-days="0" parent-code="0000",Babes HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/babes-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="eroxxx-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/8dd904fe9811aef375bf6035e85a0464.png" tvg-rec="0" catchup-days="0" parent-code="0000",Eroxxx HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/eroxxx-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="exxxotica-hd" tvg-logo="https://play-berry.net/storage/images/pack_logos/1fd5a9c7b5ee9a7885e6792fc3e30565.png" tvg-rec="0" catchup-days="0" parent-code="0000",Exxxotica HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/exxxotica-hd/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="red-lips" tvg-logo="https://play-berry.net/storage/images/pack_logos/e86bc9ac87ff43a2b6e167c7b8f1cb50.png" tvg-rec="0" catchup-days="0" parent-code="0000",Red Lips HD
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/red-lips/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="blue-hustler" tvg-logo="https://play-berry.net/storage/images/channel_logos/blue-hustler.png" tvg-rec="0" catchup-days="0" parent-code="0000",Blue Hustler
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/blue-hustler/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="xxl-tv" tvg-logo="https://play-berry.net/storage/images/pack_logos/033ef3d3f74e82e47c7ddd0e24c403d1.png" tvg-rec="0" catchup-days="0" parent-code="0000",XXL
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/xxl-tv/mpegts?token=r9gnlegj
+#EXTINF:0 group-title="XXX (18+)" tvg-id="playboy-tv" tvg-logo="https://play-berry.net/storage/images/channel_logos/cc457b7b036c0d1c273b7dd69ef60633.png" tvg-rec="0" catchup-days="0" parent-code="0000",Playboy TV
+#EXTGRP:XXX (18+)
+http://rasp.berry-stream.net:80/playboy-tv/mpegts?token=r9gnlegj
