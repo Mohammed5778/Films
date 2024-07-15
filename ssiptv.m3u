@@ -65,3 +65,5 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 https://new.cache-stream.workers.dev/stream/UCGjgAGxGWZXWLTHTlTVZXaw/live.m3u8
 #EXTINF:0 CUID="584" tvg-name="Movies_Action" tvg-logo="https://bit.ly/3N3ztkh" group-title="Shahid TV VIP",Movies_Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:0 CUID="517" tvg-name="OSN Movies Action HD" tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
+http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
