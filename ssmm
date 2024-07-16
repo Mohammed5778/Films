@@ -1,0 +1,801 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="935052" tvg-name="باقة NETFLIX" tvg-logo="https://bit.ly/3JQfa8u" group-title="NETFLIX VIP",باقة NETFLIX
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="482829" tvg-name="Omg Channel TV" tvg-logo="https://bit.ly/3p8TgjS" group-title="NETFLIX VIP",Omg Channel TV
+https://201526.global.ssl.fastly.net/647cfcb338286342d6a88374/live_192ddaa0a57b11eeb8b44f6a1475a4a3/tracks-v1/index.fmp4.m3u8
+#EXTINF: -1 tvg-id="433786" tvg-name="action 01" tvg-logo="https://airmaxtv.online:443/images/1470427e5f1c4467e40bb8256fe5cd61.png" group-title="NETFLIX VIP",action 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/516.m3u8
+#EXTINF: -1 tvg-id="276273" tvg-name="action 02" tvg-logo="https://airmaxtv.online:443/images/1470427e5f1c4467e40bb8256fe5cd61.png" group-title="NETFLIX VIP",action 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/517.m3u8
+#EXTINF: -1 tvg-id="185518" tvg-name="action 03" tvg-logo="https://airmaxtv.online:443/images/1470427e5f1c4467e40bb8256fe5cd61.png" group-title="NETFLIX VIP",action 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/518.m3u8
+#EXTINF: -1 tvg-id="916128" tvg-name="action 04" tvg-logo="https://airmaxtv.online:443/images/1470427e5f1c4467e40bb8256fe5cd61.png" group-title="NETFLIX VIP",action 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/519.m3u8
+#EXTINF: -1 tvg-id="416339" tvg-name="action 05" tvg-logo="https://airmaxtv.online:443/images/1470427e5f1c4467e40bb8256fe5cd61.png" group-title="NETFLIX VIP",action 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/520.m3u8
+#EXTINF: -1 tvg-id="102794" tvg-name="comedy 01" tvg-logo="https://airmaxtv.online:443/images/23ba5ef42d1bc58dc25ff454703bb357.png" group-title="NETFLIX VIP",comedy 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/521.m3u8
+#EXTINF: -1 tvg-id="493321" tvg-name="comedy 02" tvg-logo="https://airmaxtv.online:443/images/23ba5ef42d1bc58dc25ff454703bb357.png" group-title="NETFLIX VIP",comedy 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/522.m3u8
+#EXTINF: -1 tvg-id="705774" tvg-name="comedy 03" tvg-logo="https://airmaxtv.online:443/images/23ba5ef42d1bc58dc25ff454703bb357.png" group-title="NETFLIX VIP",comedy 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/523.m3u8
+#EXTINF: -1 tvg-id="172008" tvg-name="comedy 04" tvg-logo="https://airmaxtv.online:443/images/23ba5ef42d1bc58dc25ff454703bb357.png" group-title="NETFLIX VIP",comedy 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/524.m3u8
+#EXTINF: -1 tvg-id="508633" tvg-name="comedy 05" tvg-logo="https://airmaxtv.online:443/images/23ba5ef42d1bc58dc25ff454703bb357.png" group-title="NETFLIX VIP",comedy 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/525.m3u8
+#EXTINF: -1 tvg-id="781032" tvg-name="drama 01" tvg-logo="https://airmaxtv.online:443/images/4cd2a6f364d56387028c397487d3f698.png" group-title="NETFLIX VIP",drama 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/526.m3u8
+#EXTINF: -1 tvg-id="670458" tvg-name="drama 02" tvg-logo="https://airmaxtv.online:443/images/4cd2a6f364d56387028c397487d3f698.png" group-title="NETFLIX VIP",drama 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/527.m3u8
+#EXTINF: -1 tvg-id="243116" tvg-name="drama 03" tvg-logo="https://airmaxtv.online:443/images/4cd2a6f364d56387028c397487d3f698.png" group-title="NETFLIX VIP",drama 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/528.m3u8
+#EXTINF: -1 tvg-id="455280" tvg-name="drama 04" tvg-logo="https://airmaxtv.online:443/images/4cd2a6f364d56387028c397487d3f698.png" group-title="NETFLIX VIP",drama 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/529.m3u8
+#EXTINF: -1 tvg-id="608717" tvg-name="drama 05" tvg-logo="https://airmaxtv.online:443/images/4cd2a6f364d56387028c397487d3f698.png" group-title="NETFLIX VIP",drama 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/530.m3u8
+#EXTINF: -1 tvg-id="293405" tvg-name="horror 01" tvg-logo="https://airmaxtv.online:443/images/b871f80a7d8f8a6d3c332cd91bcba75c.png" group-title="NETFLIX VIP",horror 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/531.m3u8
+#EXTINF: -1 tvg-id="420678" tvg-name="horror 02" tvg-logo="https://airmaxtv.online:443/images/b871f80a7d8f8a6d3c332cd91bcba75c.png" group-title="NETFLIX VIP",horror 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/532.m3u8
+#EXTINF: -1 tvg-id="472587" tvg-name="horror 03" tvg-logo="https://airmaxtv.online:443/images/b871f80a7d8f8a6d3c332cd91bcba75c.png" group-title="NETFLIX VIP",horror 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/533.m3u8
+#EXTINF: -1 tvg-id="779633" tvg-name="horror 04" tvg-logo="https://airmaxtv.online:443/images/b871f80a7d8f8a6d3c332cd91bcba75c.png" group-title="NETFLIX VIP",horror 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/534.m3u8
+#EXTINF: -1 tvg-id="515740" tvg-name="horror 05" tvg-logo="https://airmaxtv.online:443/images/b871f80a7d8f8a6d3c332cd91bcba75c.png" group-title="NETFLIX VIP",horror 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/535.m3u8
+#EXTINF: -1 tvg-id="611742" tvg-name="thirlir 01" tvg-logo="https://airmaxtv.online:443/images/9e4d92c783ceb5fd3eca708834131984.png" group-title="NETFLIX VIP",thirlir 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/536.m3u8
+#EXTINF: -1 tvg-id="225960" tvg-name="thirlir 02" tvg-logo="https://airmaxtv.online:443/images/9e4d92c783ceb5fd3eca708834131984.png" group-title="NETFLIX VIP",thirlir 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/537.m3u8
+#EXTINF: -1 tvg-id="478994" tvg-name="thirlir 03" tvg-logo="https://airmaxtv.online:443/images/9e4d92c783ceb5fd3eca708834131984.png" group-title="NETFLIX VIP",thirlir 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/538.m3u8
+#EXTINF: -1 tvg-id="321379" tvg-name="thirlir 04" tvg-logo="https://airmaxtv.online:443/images/9e4d92c783ceb5fd3eca708834131984.png" group-title="NETFLIX VIP",thirlir 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/539.m3u8
+#EXTINF: -1 tvg-id="492954" tvg-name="thirlir 05" tvg-logo="https://airmaxtv.online:443/images/9e4d92c783ceb5fd3eca708834131984.png" group-title="NETFLIX VIP",thirlir 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/540.m3u8
+#EXTINF: -1 tvg-id="734435" tvg-name="مدبلج 01" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/541.m3u8
+#EXTINF: -1 tvg-id="774664" tvg-name="مدبلج 02" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/542.m3u8
+#EXTINF: -1 tvg-id="979202" tvg-name="مدبلج 03" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/543.m3u8
+#EXTINF: -1 tvg-id="388470" tvg-name="مدبلج 04" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/544.m3u8
+#EXTINF: -1 tvg-id="688040" tvg-name="مدبلج 05" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/545.m3u8
+#EXTINF: -1 tvg-id="872408" tvg-name="مدبلج 06" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 06
+https://airmaxtv.online/ssiptv2029/ssiptv2022/546.m3u8
+#EXTINF: -1 tvg-id="897927" tvg-name="مدبلج 07" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 07
+https://airmaxtv.online/ssiptv2029/ssiptv2022/547.m3u8
+#EXTINF: -1 tvg-id="663054" tvg-name="مدبلج 08" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 08
+https://airmaxtv.online/ssiptv2029/ssiptv2022/548.m3u8
+#EXTINF: -1 tvg-id="345794" tvg-name="مدبلج 09" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 09
+https://airmaxtv.online/ssiptv2029/ssiptv2022/549.m3u8
+#EXTINF: -1 tvg-id="520942" tvg-name="مدبلج 10" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 10
+https://airmaxtv.online/ssiptv2029/ssiptv2022/550.m3u8
+#EXTINF: -1 tvg-id="894664" tvg-name="مدبلج 11" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 11
+https://airmaxtv.online/ssiptv2029/ssiptv2022/551.m3u8
+#EXTINF: -1 tvg-id="153066" tvg-name="مدبلج 12" tvg-logo="https://airmaxtv.online:443/images/e166ad9016170c9da668a3f4fc8ddb10.png" group-title="NETFLIX VIP",مدبلج 12
+https://airmaxtv.online/ssiptv2029/ssiptv2022/552.m3u8
+#EXTINF: -1 tvg-id="243474" tvg-name="تاريخي 01" tvg-logo="http://delux-iptv.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="NETFLIX VIP",تاريخي 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/553.m3u8
+#EXTINF: -1 tvg-id="671146" tvg-name="أكشن 01" tvg-logo="https://airmaxtv.online:443/images/d3481711814639e7fd258b90bc1fa69b.png" group-title="NETFLIX VIP",أكشن 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/554.m3u8
+#EXTINF: -1 tvg-id="469892" tvg-name="نتفلكس الأصلية 01" tvg-logo="https://airmaxtv.online:443/images/d3481711814639e7fd258b90bc1fa69b.png" group-title="NETFLIX VIP",نتفلكس الأصلية 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/555.m3u8
+#EXTINF: -1 tvg-id="379695" tvg-name="نتفلكس الأصلية 02" tvg-logo="https://airmaxtv.online:443/images/d3481711814639e7fd258b90bc1fa69b.png" group-title="NETFLIX VIP",نتفلكس الأصلية 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/556.m3u8
+#EXTINF: -1 tvg-id="886814" tvg-name="Bein MEDIA" tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA",Bein MEDIA
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="342865" tvg-name="BEIN MOVIES 1" tvg-logo="https://airmaxtv.online:443/images/723dd054f14d3643ab097f41d4cc4219.png" group-title="Bein MEDIA",BEIN MOVIES 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/414.m3u8
+#EXTINF: -1 tvg-id="226701" tvg-name="BEIN MOVIES 2" tvg-logo="https://airmaxtv.online:443/images/3a7626f852ee2a1cb51ad09e01af776a.png" group-title="Bein MEDIA",BEIN MOVIES 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/415.m3u8
+#EXTINF: -1 tvg-id="115658" tvg-name="BEIN MOVIES 3" tvg-logo="https://airmaxtv.online:443/images/fb784056717643f1a8e9e0399b4a192a.png" group-title="Bein MEDIA",BEIN MOVIES 3
+https://airmaxtv.online/ssiptv2029/ssiptv2022/416.m3u8
+#EXTINF: -1 tvg-id="483071" tvg-name="BEIN MOVIES 4" tvg-logo="https://airmaxtv.online:443/images/66dd62ed7fee24fa9939b5d0ff92a88e.png" group-title="Bein MEDIA",BEIN MOVIES 4
+https://airmaxtv.online/ssiptv2029/ssiptv2022/417.m3u8
+#EXTINF: -1 tvg-id="783035" tvg-name="BEIN SERIES 1" tvg-logo="https://airmaxtv.online:443/images/d5e4f10d5fefafdce8b157da7691f373.png" group-title="Bein MEDIA",BEIN SERIES 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/418.m3u8
+#EXTINF: -1 tvg-id="477056" tvg-name="BEIN SERIES 2" tvg-logo="https://airmaxtv.online:443/images/84ef6832f4cbce89435de2ba703568c7.png" group-title="Bein MEDIA",BEIN SERIES 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/419.m3u8
+#EXTINF: -1 tvg-id="788763" tvg-name="BEIN DRAMA 1" tvg-logo="https://airmaxtv.online:443/images/502a4a01ff804674904f62941120b8db.png" group-title="Bein MEDIA",BEIN DRAMA 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/420.m3u8
+#EXTINF: -1 tvg-id="703635" tvg-name="BEIN GOURMET" tvg-logo="https://airmaxtv.online:443/images/8f922a820d32c0dc3407e213cb1d353e.png" group-title="Bein MEDIA",BEIN GOURMET
+https://airmaxtv.online/ssiptv2029/ssiptv2022/421.m3u8
+#EXTINF: -1 tvg-id="716738" tvg-name="FOOD NETWORK" tvg-logo="https://airmaxtv.online:443/images/856edda8a5f1e055212a9894599dbe62.png" group-title="Bein MEDIA",FOOD NETWORK
+https://airmaxtv.online/ssiptv2029/ssiptv2022/422.m3u8
+#EXTINF: -1 tvg-id="128713" tvg-name="BEIN FATAFEAT" tvg-logo="https://airmaxtv.online:443/images/60eb6a62b83a3187fdf88f278e146425.png" group-title="Bein MEDIA",BEIN FATAFEAT
+https://airmaxtv.online/ssiptv2029/ssiptv2022/423.m3u8
+#EXTINF: -1 tvg-id="814163" tvg-name="FOX LIFE" tvg-logo="https://airmaxtv.online:443/images/08106b8b0f27ced1e2014f92b9a323e5.png" group-title="Bein MEDIA",FOX LIFE
+https://airmaxtv.online/ssiptv2029/ssiptv2022/424.m3u8
+#EXTINF: -1 tvg-id="193231" tvg-name="FOX CRIME" tvg-logo="https://airmaxtv.online:443/images/21801f105db8610e1808e913920de088.png" group-title="Bein MEDIA",FOX CRIME
+https://airmaxtv.online/ssiptv2029/ssiptv2022/425.m3u8
+#EXTINF: -1 tvg-id="598562" tvg-name="NAT GEO ABUDHABI" tvg-logo="https://airmaxtv.online:443/images/8cf2737c3cf70a323e6f91efb7cf24de.png" group-title="Bein MEDIA",NAT GEO ABUDHABI
+https://airmaxtv.online/ssiptv2029/ssiptv2022/426.m3u8
+#EXTINF: -1 tvg-id="882847" tvg-name="FOX MOVIES ACTION" tvg-logo="https://airmaxtv.online:443/images/72fe21178aa8e8f01e68b204726a2a97.png" group-title="Bein MEDIA",FOX MOVIES ACTION
+https://airmaxtv.online/ssiptv2029/ssiptv2022/427.m3u8
+#EXTINF: -1 tvg-id="368003" tvg-name="FOX MOVIES" tvg-logo="https://airmaxtv.online:443/images/13fc9be6eb5359f3ba2a8a13cb3f9f08.png" group-title="Bein MEDIA",FOX MOVIES
+https://airmaxtv.online/ssiptv2029/ssiptv2022/428.m3u8
+#EXTINF: -1 tvg-id="292261" tvg-name="او اس انOSN" tvg-logo="https://bit.ly/3JQfa8u" group-title="OSNاو اس ان",او اس انOSN
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="690240" tvg-name="OSN YAHALA ARABI" tvg-logo="https://airmaxtv.online:443/images/5c83cefadfea5ea6c895b5c94336b7a8.png" group-title="OSNاو اس ان",OSN YAHALA ARABI
+https://airmaxtv.online/ssiptv2029/ssiptv2022/429.m3u8
+#EXTINF: -1 tvg-id="185425" tvg-name="OSN YAHALA  ALOULA" tvg-logo="https://airmaxtv.online:443/images/5c83cefadfea5ea6c895b5c94336b7a8.png" group-title="OSNاو اس ان",OSN YAHALA  ALOULA
+https://airmaxtv.online/ssiptv2029/ssiptv2022/430.m3u8
+#EXTINF: -1 tvg-id="629434" tvg-name="OSN YAHALA AFLAM" tvg-logo="https://airmaxtv.online:443/images/fda050952e58b5a30fb9c2a8f506c36a.png" group-title="OSNاو اس ان",OSN YAHALA AFLAM
+https://airmaxtv.online/ssiptv2029/ssiptv2022/431.m3u8
+#EXTINF: -1 tvg-id="281182" tvg-name="OSN MOVIES FIRST" tvg-logo="https://airmaxtv.online:443/images/5a6333d12631fc49696d98baddd9415a.png" group-title="OSNاو اس ان",OSN MOVIES FIRST
+https://airmaxtv.online/ssiptv2029/ssiptv2022/432.m3u8
+#EXTINF: -1 tvg-id="163777" tvg-name="OSN COMEDY" tvg-logo="https://airmaxtv.online:443/images/a49e59b652c45ea27e490e60e5401cbf.png" group-title="OSNاو اس ان",OSN COMEDY
+https://airmaxtv.online/ssiptv2029/ssiptv2022/433.m3u8
+#EXTINF: -1 tvg-id="257710" tvg-name="OSN MOVIES HOLLYWOOD" tvg-logo="https://airmaxtv.online:443/images/0a0d8908bf812c9f169c72d939b4b48c.png" group-title="OSNاو اس ان",OSN MOVIES HOLLYWOOD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/434.m3u8
+#EXTINF: -1 tvg-id="919619" tvg-name="OSN ACTION" tvg-logo="https://airmaxtv.online:443/images/bdb988eda1a18b5f86a2ce71c731f93b.png" group-title="OSNاو اس ان",OSN ACTION
+https://airmaxtv.online/ssiptv2029/ssiptv2022/435.m3u8
+#EXTINF: -1 tvg-id="740641" tvg-name="OSN HISTORY" tvg-logo="https://airmaxtv.online:443/images/cc85f8b32174cb01437cf72bb15d0d5d.png" group-title="OSNاو اس ان",OSN HISTORY
+https://airmaxtv.online/ssiptv2029/ssiptv2022/436.m3u8
+#EXTINF: -1 tvg-id="568547" tvg-name="OSN ALYOUM" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN ALYOUM
+https://airmaxtv.online/ssiptv2029/ssiptv2022/437.m3u8
+#EXTINF: -1 tvg-id="197827" tvg-name="OSN H2" tvg-logo="https://airmaxtv.online:443/images/330d1df16761eaf2e99bc99b88c123cb.png" group-title="OSNاو اس ان",OSN H2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/438.m3u8
+#EXTINF: -1 tvg-id="104546" tvg-name="OSN CINEMA 1" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN CINEMA 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/439.m3u8
+#EXTINF: -1 tvg-id="181675" tvg-name="OSN CINEMA 2" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN CINEMA 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/440.m3u8
+#EXTINF: -1 tvg-id="349830" tvg-name="OSN NATIONAL GEOGRAPHIC" tvg-logo="https://airmaxtv.online:443/images/fdaeb53689c4ddcefa6761782cabe2d4.png" group-title="OSNاو اس ان",OSN NATIONAL GEOGRAPHIC
+https://airmaxtv.online/ssiptv2029/ssiptv2022/441.m3u8
+#EXTINF: -1 tvg-id="266186" tvg-name="OSN STAR WORLD" tvg-logo="https://airmaxtv.online:443/images/ec80fa75ec08aee889183c94560fdeae.png" group-title="OSNاو اس ان",OSN STAR WORLD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/442.m3u8
+#EXTINF: -1 tvg-id="819708" tvg-name="OSN STAR MOVIES" tvg-logo="https://airmaxtv.online:443/images/d1fa4316ab9f835bded5b32f1db01250.png" group-title="OSNاو اس ان",OSN STAR MOVIES
+https://airmaxtv.online/ssiptv2029/ssiptv2022/443.m3u8
+#EXTINF: -1 tvg-id="364458" tvg-name="OSN LIVING" tvg-logo="https://airmaxtv.online:443/images/75223ff8bd4788980587998cd83bfb03.png" group-title="OSNاو اس ان",OSN LIVING
+https://airmaxtv.online/ssiptv2029/ssiptv2022/444.m3u8
+#EXTINF: -1 tvg-id="360316" tvg-name="OSN SERIES FIRST 1" tvg-logo="https://airmaxtv.online:443/images/80ab1b1b59796f4d482d3788ec74374e.png" group-title="OSNاو اس ان",OSN SERIES FIRST 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/445.m3u8
+#EXTINF: -1 tvg-id="536947" tvg-name="OSN COMEDY CENTRAL" tvg-logo="https://airmaxtv.online:443/images/4ccbaa5a784811ca8a538613f6d115d5.png" group-title="OSNاو اس ان",OSN COMEDY CENTRAL
+https://airmaxtv.online/ssiptv2029/ssiptv2022/446.m3u8
+#EXTINF: -1 tvg-id="669902" tvg-name="OSN DISNEY" tvg-logo="https://airmaxtv.online:443/images/2d8d6e67e3bebc3d69773d6b7c9ff10d.png" group-title="OSNاو اس ان",OSN DISNEY
+https://airmaxtv.online/ssiptv2029/ssiptv2022/447.m3u8
+#EXTINF: -1 tvg-id="740034" tvg-name="OSN KIDS" tvg-logo="https://airmaxtv.online:443/images/5b36ec3f7eecf71cc718ff8433914e5f.png" group-title="OSNاو اس ان",OSN KIDS
+https://airmaxtv.online/ssiptv2029/ssiptv2022/448.m3u8
+#EXTINF: -1 tvg-id="198492" tvg-name="OSN DISCOVERY SCIENCE" tvg-logo="https://airmaxtv.online:443/images/902d4cc2bdf7bc241a2bec427cf363fc.png" group-title="OSNاو اس ان",OSN DISCOVERY SCIENCE
+https://airmaxtv.online/ssiptv2029/ssiptv2022/449.m3u8
+#EXTINF: -1 tvg-id="532620" tvg-name="OSN DISCOVERY" tvg-logo="https://airmaxtv.online:443/images/d47ed8d349dc1b419ffa19067f3db11d.png" group-title="OSNاو اس ان",OSN DISCOVERY
+https://airmaxtv.online/ssiptv2029/ssiptv2022/450.m3u8
+#EXTINF: -1 tvg-id="211604" tvg-name="OSN CRIME INVESTIGATION" tvg-logo="https://airmaxtv.online:443/images/198ca916f0aed64cc2e745dfa3c264f4.png" group-title="OSNاو اس ان",OSN CRIME INVESTIGATION
+https://airmaxtv.online/ssiptv2029/ssiptv2022/451.m3u8
+#EXTINF: -1 tvg-id="470132" tvg-name="OSN DISCOVERY SCIENCE" tvg-logo="https://airmaxtv.online:443/images/902d4cc2bdf7bc241a2bec427cf363fc.png" group-title="OSNاو اس ان",OSN DISCOVERY SCIENCE
+https://airmaxtv.online/ssiptv2029/ssiptv2022/452.m3u8
+#EXTINF: -1 tvg-id="904249" tvg-name="ART CINEMA 2" tvg-logo="https://airmaxtv.online:443/images/305e912cd7d3a9ff43dd992d0e601a10.png" group-title="OSNاو اس ان",ART CINEMA 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/453.m3u8
+#EXTINF: -1 tvg-id="455190" tvg-name="OSN PREMIER" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN PREMIER
+https://airmaxtv.online/ssiptv2029/ssiptv2022/454.m3u8
+#EXTINF: -1 tvg-id="444742" tvg-name="OSN W" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN W
+https://airmaxtv.online/ssiptv2029/ssiptv2022/455.m3u8
+#EXTINF: -1 tvg-id="418279" tvg-name="OSN SERIES PRIME" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN SERIES PRIME
+https://airmaxtv.online/ssiptv2029/ssiptv2022/456.m3u8
+#EXTINF: -1 tvg-id="633877" tvg-name="OSN SHOWCASE" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN SHOWCASE
+https://airmaxtv.online/ssiptv2029/ssiptv2022/457.m3u8
+#EXTINF: -1 tvg-id="912800" tvg-name="OSN FAMILY" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN FAMILY
+https://airmaxtv.online/ssiptv2029/ssiptv2022/458.m3u8
+#EXTINF: -1 tvg-id="652851" tvg-name="MEZZE" tvg-logo="https://airmaxtv.online:443/images/e64ac2162f6bcd1cecc142ac13f0beb5.png" group-title="OSNاو اس ان",MEZZE
+https://airmaxtv.online/ssiptv2029/ssiptv2022/459.m3u8
+#EXTINF: -1 tvg-id="566362" tvg-name="OSN GINX ESPORTS" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN GINX ESPORTS
+https://airmaxtv.online/ssiptv2029/ssiptv2022/460.m3u8
+#EXTINF: -1 tvg-id="962676" tvg-name="OSN PREMIER 2" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN PREMIER 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/461.m3u8
+#EXTINF: -1 tvg-id="807446" tvg-name="OSN NEWS" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN NEWS
+https://airmaxtv.online/ssiptv2029/ssiptv2022/462.m3u8
+#EXTINF: -1 tvg-id="151023" tvg-name="OSN FATION TV" tvg-logo="https://airmaxtv.online:443/images/7c19f74a8e2de30ef8c356163fbbf91b.png" group-title="OSNاو اس ان",OSN FATION TV
+https://airmaxtv.online/ssiptv2029/ssiptv2022/463.m3u8
+#EXTINF: -1 tvg-id="681857" tvg-name="OSN E" tvg-logo="https://airmaxtv.online:443/images/9fa5e4a733163288c46380656fe49fa9.png" group-title="OSNاو اس ان",OSN E
+https://airmaxtv.online/ssiptv2029/ssiptv2022/464.m3u8
+#EXTINF: -1 tvg-id="832135" tvg-name="OSN DISNEY JUNIOR" tvg-logo="https://airmaxtv.online:443/images/2d8d6e67e3bebc3d69773d6b7c9ff10d.png" group-title="OSNاو اس ان",OSN DISNEY JUNIOR
+https://airmaxtv.online/ssiptv2029/ssiptv2022/465.m3u8
+#EXTINF: -1 tvg-id="760746" tvg-name="OSN TLC" tvg-logo="https://airmaxtv.online:443/images/76f5200a3e380b635626e3cd263fd7fe.png" group-title="OSNاو اس ان",OSN TLC
+https://airmaxtv.online/ssiptv2029/ssiptv2022/466.m3u8
+#EXTINF: -1 tvg-id="750391" tvg-name="OSN SAFWA" tvg-logo="https://airmaxtv.online:443/images/6ffb2b9b16cf81a474a5259c7f87f1b6.png" group-title="OSNاو اس ان",OSN SAFWA
+https://airmaxtv.online/ssiptv2029/ssiptv2022/467.m3u8
+#EXTINF: -1 tvg-id="883504" tvg-name="AR | Discovery ID HD" tvg-logo="https://airmaxtv.online:443/images/6b7495fc14bcc6cbbf87aec5158875b3.png" group-title="OSNاو اس ان",AR | Discovery ID HD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/572.m3u8
+#EXTINF: -1 tvg-id="547870" tvg-name="AR | Discovery SC HD" tvg-logo="https://airmaxtv.online:443/images/16fe14b377de3861c77c6b440f022705.png" group-title="OSNاو اس ان",AR | Discovery SC HD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/573.m3u8
+#EXTINF: -1 tvg-id="491400" tvg-name="AR | BBC Earth HD" tvg-logo="https://airmaxtv.online:443/images/2c55c8ced49cad4e2b6f0b78bdaf7019.png" group-title="OSNاو اس ان",AR | BBC Earth HD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/574.m3u8
+#EXTINF: -1 tvg-id="384663" tvg-name="OSN Nat GEO Wild HD" tvg-logo="" group-title="OSNاو اس ان",OSN Nat GEO Wild HD
+https://airmaxtv.online/ssiptv2029/ssiptv2022/575.m3u8
+#EXTINF: -1 tvg-id="188070" tvg-name="OSN Showcase HD" tvg-logo="https://i.imgur.com/N2TLvLB.png" group-title="OSNtv",OSN Showcase HD
+http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="928529" tvg-name="OSN Comedy HD" tvg-logo="https://i.imgur.com/0n5E8A7.png" group-title="OSNtv",OSN Comedy HD
+http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="741291" tvg-name="OSN Movies Premium HD" tvg-logo="https://i.imgur.com/UCnbjp0.png" group-title="OSNtv",OSN Movies Premium HD
+http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="593170" tvg-name="OSN Popup HD" tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="132648" tvg-name="OSN Movies Action HD" tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
+http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="758367" tvg-name="OSN Movies Hollywood HD" tvg-logo="https://i.imgur.com/wkbeb30.png" group-title="OSNtv",OSN Movies Hollywood HD
+http://181.215.205.107:1234/stream/osnmovieshollywod?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="265938" tvg-name="OSN Movies Family HD" tvg-logo="https://i.imgur.com/RGVg4wc.png" group-title="OSNtv",OSN Movies Family HD
+http://181.215.205.107:1234/stream/osn/osnmoviesfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="778977" tvg-name="OSN Kidzone HD" tvg-logo="https://i.imgur.com/UTRfxcG.png" group-title="OSNtv",OSN Kidzone HD
+http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="913461" tvg-name="OSN News HD" tvg-logo="https://i.imgur.com/ulpX490.png" group-title="OSNtv",OSN News HD
+http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="517543" tvg-name="OSN Discovery HD" tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OSNtv",OSN Discovery HD
+http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="333674" tvg-name="OSN Nat Geo HD" tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OSNtv",OSN Nat Geo HD
+http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="644784" tvg-name="مسلسل شباب البومب" tvg-logo="https://bit.ly/3VnkeqW" group-title="بث مباشر يوتيوب",مسلسل شباب البومب
+https://new.cache-stream.workers.dev/stream/UCC_xW57yJDW-SiMwa7WzJxA/live.m3u8
+#EXTINF: -1 tvg-id="889939" tvg-name="Arabic Movies Live" tvg-logo="https://bit.ly/43hA48t" group-title="بث مباشر يوتيوب",Arabic Movies Live
+https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
+#EXTINF: -1 tvg-id="184221" tvg-name="سورة البقرة الشيخ عبد الرحمن السديس" tvg-logo="https://bit.ly/3IG2Fe1" group-title="بث مباشر يوتيوب",سورة البقرة الشيخ عبد الرحمن السديس
+https://new.cache-stream.workers.dev/stream/UCkdyjOzo6jkrM2tvC4pnx7A/live.m3u8
+#EXTINF: -1 tvg-id="462390" tvg-name="سورة البقرة الشيخ عبد الباسط عبد الصمد" tvg-logo="https://bit.ly/3wZLO3n" group-title="بث مباشر يوتيوب",سورة البقرة الشيخ عبد الباسط عبد الصمد
+https://new.cache-stream.workers.dev/stream/UCZpQ8E962TlDCz_HsePVLbA/live.m3u8
+#EXTINF: -1 tvg-id="477806" tvg-name="إذاعة القران الكريم من القاهرة" tvg-logo="https://bit.ly/3PrxDdD" group-title="بث مباشر يوتيوب",إذاعة القران الكريم من القاهرة
+https://new.cache-stream.workers.dev/stream/UCE0xp8NLzN5H1mS66wNdmzA/live.m3u8
+#EXTINF: -1 tvg-id="385675" tvg-name="وادي الذئاب" tvg-logo="https://bit.ly/3Tk9qHo" group-title="بث مباشر يوتيوب",وادي الذئاب
+https://new.cache-stream.workers.dev/stream/UCWsyrG2DRk4fFM33wpdu5Xg/live.m3u8
+#EXTINF: -1 tvg-id="688315" tvg-name="Nick Jr. Arabia" tvg-logo="https://bit.ly/4cgPPAt" group-title="بث مباشر يوتيوب",Nick Jr. Arabia
+https://new.cache-stream.workers.dev/stream/UCOGBA-T3jCfOPey73FzsxCw/live.m3u8
+#EXTINF: -1 tvg-id="567461" tvg-name="اوكو ليلي" tvg-logo="https://bit.ly/3IGjmWE" group-title="بث مباشر يوتيوب",اوكو ليلي
+https://new.cache-stream.workers.dev/stream/UCS0B3UT8eyVA_Cbgh5hXzpg/live.m3u8
+#EXTINF: -1 tvg-id="115122" tvg-name="حبيبي بيبي" tvg-logo="https://bit.ly/3VrCFe9" group-title="بث مباشر يوتيوب",حبيبي بيبي
+https://new.cache-stream.workers.dev/stream/UCRqGIeyaHG4vdgoZb52M3VQ/live.m3u8
+#EXTINF: -1 tvg-id="387102" tvg-name="اذكار المساء" tvg-logo="https://bit.ly/3velXUG" group-title="بث مباشر يوتيوب",اذكار المساء
+https://new.cache-stream.workers.dev/stream/UCe7xkc4NK1yMjelBnv4yAyw/live.m3u8
+#EXTINF: -1 tvg-id="142819" tvg-name="Nat Geo WILD" tvg-logo="https://bit.ly/49VXUZQ" group-title="بث مباشر يوتيوب",Nat Geo WILD
+https://new.cache-stream.workers.dev/stream/UCDPk9MG2RexnOMGTD-YnSnA/live.m3u8
+#EXTINF: -1 tvg-id="572188" tvg-name="Belqees TV" tvg-logo="https://bit.ly/3vvqXEx" group-title="بث مباشر يوتيوب",Belqees TV
+https://new.cache-stream.workers.dev/stream/UCxA_zZwALQMmVMSZyLKC-Nw/live.m3u8
+#EXTINF: -1 tvg-id="618025" tvg-name="Almagharibia TV" tvg-logo="https://bit.ly/4awBaPS" group-title="بث مباشر يوتيوب",Almagharibia TV
+https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
+#EXTINF: -1 tvg-id="443276" tvg-name="ZAD TV" tvg-logo="https://bit.ly/43sKOk7" group-title="بث مباشر يوتيوب",ZAD TV
+https://new.cache-stream.workers.dev/stream/UCOll3M-P7oKs5cSrQ9ytt6g/live.m3u8
+#EXTINF: -1 tvg-id="299538" tvg-name="Al Aoula HD" tvg-logo="https://bit.ly/3xlAmPt" group-title="بث مباشر يوتيوب",Al Aoula HD
+https://new.cache-stream.workers.dev/stream/UCmQGp6NEVP-2ujLH5u-CW9w/live.m3u8
+#EXTINF: -1 tvg-id="923092" tvg-name="الأفلام التركية المدبلجة للعربية" tvg-logo="https://bit.ly/3OQzesx" group-title="بث مباشر يوتيوب",الأفلام التركية المدبلجة للعربية
+https://new.cache-stream.workers.dev/stream/UCGjgAGxGWZXWLTHTlTVZXaw/live.m3u8
+#EXTINF: -1 tvg-id="341220" tvg-name="سورة البقرة طاردة الشياطين" tvg-logo="https://bit.ly/3IZlIzW" group-title="بث مباشر يوتيوب",سورة البقرة طاردة الشياطين
+https://new.cache-stream.workers.dev/stream/UCSjeYE74NjL5iQtkfxJoVGw/live.m3u8
+#EXTINF: -1 tvg-id="228811" tvg-name="تلاوات الشيخ د. عبدالمطلب" tvg-logo="https://bit.ly/4czJfp2" group-title="بث مباشر يوتيوب",تلاوات الشيخ د. عبدالمطلب
+https://new.cache-stream.workers.dev/stream/UCnDfIiSVdoGRmm6fW9XX-xg/live.m3u8
+#EXTINF: -1 tvg-id="559441" tvg-name="تلاوة مؤثرة" tvg-logo="https://bit.ly/49coAnN" group-title="بث مباشر يوتيوب",تلاوة مؤثرة
+https://new.cache-stream.workers.dev/stream/UCN76NivDk3jnzpM89lS7SGQ/live.m3u8
+#EXTINF: -1 tvg-id="386696" tvg-name="سورة البقرة الشيخ عبد الباسط عبد الصمد" tvg-logo="https://bit.ly/3vjiJiZ" group-title="بث مباشر يوتيوب",سورة البقرة الشيخ عبد الباسط عبد الصمد
+https://new.cache-stream.workers.dev/stream/UCoD5-Dk95rFMtk5iCXqak6w/live.m3u8
+#EXTINF: -1 tvg-id="512002" tvg-name="حلقات توم المتكلم القصيرة" tvg-logo="https://bit.ly/43yo9D4" group-title="بث مباشر يوتيوب",حلقات توم المتكلم القصيرة
+https://new.cache-stream.workers.dev/stream/UCqHnmAQd_liHj6pU0IH-jLg/live.m3u8
+#EXTINF: -1 tvg-id="537513" tvg-name="أذكار الصباح" tvg-logo="https://bit.ly/3vAdU4E" group-title="بث مباشر يوتيوب",أذكار الصباح
+https://new.cache-stream.workers.dev/stream/UCClRc-NLQmr3HnON4HjHKew/live.m3u8
+#EXTINF: -1 tvg-id="789868" tvg-name="قرآن كريم قبل النوم" tvg-logo="https://bit.ly/3TSkAEA" group-title="بث مباشر يوتيوب",قرآن كريم قبل النوم
+https://new.cache-stream.workers.dev/stream/UCN8xLGIfvYYKzhnOYW_9esA/live.m3u8
+#EXTINF: -1 tvg-id="443151" tvg-name="Nat Geo WILD" tvg-logo="https://bit.ly/3wnr1Xk" group-title="بث مباشر يوتيوب",Nat Geo WILD
+https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+#EXTINF: -1 tvg-id="754566" tvg-name="تلفزيون سوريا البث المباشر" tvg-logo="https://bit.ly/3WvrRMv" group-title="بث مباشر يوتيوب",تلفزيون سوريا البث المباشر
+https://livestream.zazerconer.workers.dev/channel/UCJsZ22yL1IW0R2u0jnnyYog.m3u8
+#EXTINF: -1 tvg-id="561795" tvg-name="AlHadath" tvg-logo="https://bit.ly/3QF4w7r" group-title="بث مباشر يوتيوب",AlHadath
+https://ytlive.zazerconer.workers.dev/@AlHadath.m3u8
+#EXTINF: -1 tvg-id="421320" tvg-name="Osratouna" tvg-logo="4545" group-title="بث مباشر يوتيوب",Osratouna
+https://ytlive.zazerconer.workers.dev/@Osratouna.m3u8
+#EXTINF: -1 tvg-id="531265" tvg-name="AlmagharibiaTv" tvg-logo="4545" group-title="بث مباشر يوتيوب",AlmagharibiaTv
+https://ytlive.zazerconer.workers.dev/@AlmagharibiaTv.m3u8
+#EXTINF: -1 tvg-id="436894" tvg-name="alghadtv" tvg-logo="4545" group-title="بث مباشر يوتيوب",alghadtv
+https://ytlive.zazerconer.workers.dev/@alghadtv.m3u8
+#EXTINF: -1 tvg-id="627940" tvg-name="imnsport" tvg-logo="4545" group-title="بث مباشر يوتيوب",imnsport
+https://ytlive.zazerconer.workers.dev/@imnsport.m3u8
+#EXTINF: -1 tvg-id="560883" tvg-name="ضيعة ضايعة" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ" group-title="SPECIAL ARABIC",ضيعة ضايعة
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
+#EXTINF: -1 tvg-id="711587" tvg-name="ضيعة ضايعة2" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ" group-title="SPECIAL ARABIC",ضيعة ضايعة2
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/832.m3u8
+#EXTINF: -1 tvg-id="342166" tvg-name="الخربة" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR7sQ4WKPXgX8uZtJFDP_lqFNcjQYEU7ZHA&usqp=CAU" group-title="SPECIAL ARABIC",الخربة
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8
+#EXTINF: -1 tvg-id="579249" tvg-name="اللعبة" tvg-logo="http://live.multies.net/wp-content/uploads/2023/09/the-game-1.jpg" group-title="SPECIAL ARABIC",اللعبة
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/788.m3u8
+#EXTINF: -1 tvg-id="646164" tvg-name="الزعيم عادل إمام" tvg-logo="https://m.gomhuriaonline.com/Upload/News/12-11-2021_00_34_26_GomhuriaOnline_311636670066.jpg" group-title="SPECIAL ARABIC",الزعيم عادل إمام
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8
+#EXTINF: -1 tvg-id="692162" tvg-name="مولتيز سينما" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png" group-title="SPECIAL ARABIC",مولتيز سينما
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8
+#EXTINF: -1 tvg-id="811142" tvg-name="2 مولتيز سينما" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png" group-title="SPECIAL ARABIC",2 مولتيز سينما
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
+#EXTINF: -1 tvg-id="956594" tvg-name="3 مولتيز سينما" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png" group-title="SPECIAL ARABIC",3 مولتيز سينما
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
+#EXTINF: -1 tvg-id="428196" tvg-name="قناة كوميدي" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png" group-title="SPECIAL ARABIC",قناة كوميدي
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
+#EXTINF: -1 tvg-id="245164" tvg-name="باقة شاهد الأصلية" tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",باقة شاهد الأصلية
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="904565" tvg-name="Top CHEF" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Top CHEF
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+#EXTINF: -1 tvg-id="930230" tvg-name="WRESTLE MANIA" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",WRESTLE MANIA
+https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index.m3u8
+#EXTINF: -1 tvg-id="481737" tvg-name="RSL" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",RSL
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF: -1 tvg-id="163490" tvg-name="راجل-وست-ستات" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",راجل-وست-ستات
+https://shls-live-ak.akamaized.net/out/v1/8328464750f04ec6bb512585e6941631/index.m3u8
+#EXTINF: -1 tvg-id="442671" tvg-name="اللقاء-من-الصفر" tvg-logo="https://bit.ly/3wt6pwW" group-title="Shahid TV VIP",اللقاء-من-الصفر
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_1.m3u8
+#EXTINF: -1 tvg-id="331097" tvg-name="رمضان-معانا_خليجي" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",رمضان-معانا_خليجي
+https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index.m3u8
+#EXTINF: -1 tvg-id="590735" tvg-name="رمضان-معانا_مسلسلات" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",رمضان-معانا_مسلسلات
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF: -1 tvg-id="493239" tvg-name="قناة-فريج" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",قناة-فريج
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF: -1 tvg-id="709320" tvg-name="Desi-play" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Desi-play
+https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index.m3u8
+#EXTINF: -1 tvg-id="468213" tvg-name="قناة-اللعبة" tvg-logo="https://bit.ly/40O5RfN" group-title="Shahid TV VIP",قناة-اللعبة
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
+#EXTINF: -1 tvg-id="130690" tvg-name="الكبير-أوي" tvg-logo="https://bit.ly/3R2BI9o" group-title="Shahid TV VIP",الكبير-أوي
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
+#EXTINF: -1 tvg-id="210288" tvg-name="قناة-واي-فاي" tvg-logo="https://bit.ly/411XMV5" group-title="Shahid TV VIP",قناة-واي-فاي
+https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
+#EXTINF: -1 tvg-id="510679" tvg-name="Selfie" tvg-logo="https://bit.ly/46mOVhR" group-title="Shahid TV VIP",Selfie
+https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8
+#EXTINF: -1 tvg-id="823692" tvg-name="Bollywood-Classic" tvg-logo="https://bit.ly/45RBFBs" group-title="Shahid TV VIP",Bollywood-Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF: -1 tvg-id="266351" tvg-name="Nature-Time" tvg-logo="https://bit.ly/3RzSw8r" group-title="Shahid TV VIP",Nature-Time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF: -1 tvg-id="393908" tvg-name="الثقافية" tvg-logo="https://bit.ly/48uElHy" group-title="Shahid TV VIP",الثقافية
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF: -1 tvg-id="698778" tvg-name="BBC S-Top-Gear" tvg-logo="https://bit.ly/3PnWMGo" group-title="Shahid TV VIP",BBC S-Top-Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF: -1 tvg-id="665461" tvg-name="افلام" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="Shahid TV VIP",افلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF: -1 tvg-id="156518" tvg-name="Maraya" tvg-logo="https://bit.ly/3oT47na" group-title="Shahid TV VIP",Maraya
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTINF: -1 tvg-id="393602" tvg-name="Movies_Action" tvg-logo="https://bit.ly/3N3ztkh" group-title="Shahid TV VIP",Movies_Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF: -1 tvg-id="797419" tvg-name="Movies_Thriller" tvg-logo="https://bit.ly/3Mtikjq" group-title="Shahid TV VIP",Movies_Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF: -1 tvg-id="763919" tvg-name="Mohammed-Abdou" tvg-logo="https://bit.ly/3I8bVI8" group-title="Shahid TV VIP",Mohammed-Abdou
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
+#EXTINF: -1 tvg-id="683821" tvg-name="Rashed-ALmajed" tvg-logo="https://bit.ly/3nWOfj5" group-title="Shahid TV VIP",Rashed-ALmajed
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8
+#EXTINF: -1 tvg-id="141452" tvg-name="Abdulmajeed-Abdullah" tvg-logo="https://bit.ly/44WN5EV" group-title="Shahid TV VIP",Abdulmajeed-Abdullah
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index.m3u8
+#EXTINF: -1 tvg-id="522680" tvg-name="Masrah_Mas" tvg-logo="https://bit.ly/3mWWmLU" group-title="Shahid TV VIP",Masrah_Mas
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+#EXTINF: -1 tvg-id="732616" tvg-name="Al_Asouf" tvg-logo="https://bit.ly/3JzwsVT" group-title="Shahid TV VIP",Al_Asouf
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8
+#EXTINF: -1 tvg-id="353719" tvg-name="Bab_Al_Hara" tvg-logo="https://bit.ly/3I7f2z7" group-title="Shahid TV VIP",Bab_Al_Hara
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF: -1 tvg-id="175509" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/shahid/Tash.png" group-title="Shahid TV VIP",Tash
+https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
+#EXTINF: -1 tvg-id="754209" tvg-name="Al_Hayba" tvg-logo="https://bit.ly/3Kj7Z9c" group-title="Shahid TV VIP",Al_Hayba
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF: -1 tvg-id="377980" tvg-name="Hassino" tvg-logo="https://e.top4top.io/p_2581kcj7y2.png" group-title="Shahid TV VIP",Hassino
+https://shls-live-ak.akamaized.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8
+#EXTINF: -1 tvg-id="625764" tvg-name="أفلام" tvg-logo="https://bit.ly/3KgyUlS" group-title="Shahid TV VIP",أفلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF: -1 tvg-id="400278" tvg-name="movies" tvg-logo="https://bit.ly/3xw0DYl" group-title="Shahid TV VIP",movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF: -1 tvg-id="377269" tvg-name="Naser_Al_Qassaby" tvg-logo="https://bit.ly/416oo72" group-title="Shahid TV VIP",Naser_Al_Qassaby
+https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
+#EXTINF: -1 tvg-id="873362" tvg-name="عادل-امام" tvg-logo="https://bit.ly/3Sj376i" group-title="Shahid TV VIP",عادل-امام
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF: -1 tvg-id="669351" tvg-name="Roya TV" tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Roya TV",Roya TV
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="201224" tvg-name="Roya Drama" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF: -1 tvg-id="140535" tvg-name="Roya Comedy" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF: -1 tvg-id="413493" tvg-name="Roya Kitchen" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF: -1 tvg-id="707641" tvg-name="Roya Music" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Roya Music
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist.m3u8
+#EXTINF: -1 tvg-id="221293" tvg-name="رؤيا فلسطين" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",رؤيا فلسطين
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
+#EXTINF: -1 tvg-id="848472" tvg-name="Roya Kids Originals" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Roya Kids Originals
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+#EXTINF: -1 tvg-id="572546" tvg-name="مرايا" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",مرايا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
+#EXTINF: -1 tvg-id="398683" tvg-name="إنتاجات رؤيا" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",إنتاجات رؤيا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
+#EXTINF: -1 tvg-id="312790" tvg-name="كرفان" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",كرفان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
+#EXTINF: -1 tvg-id="440561" tvg-name="قناة العربي" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",قناة العربي
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/6837800d47c40cb2/1544c5accd8e84d5ALA2306480/chunks.m3u8
+#EXTINF: -1 tvg-id="330657" tvg-name="قناة العربي 2" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",قناة العربي 2
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/63d8c759c5db83b4/25c4f89d27a79014ALA2306480/chunks.m3u8
+#EXTINF: -1 tvg-id="362830" tvg-name="حول العالم" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",حول العالم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
+#EXTINF: -1 tvg-id="752876" tvg-name="حكي منوّع" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",حكي منوّع
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
+#EXTINF: -1 tvg-id="811766" tvg-name="مغامرات" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",مغامرات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
+#EXTINF: -1 tvg-id="790847" tvg-name="حلوة يا دنيا" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",حلوة يا دنيا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8
+#EXTINF: -1 tvg-id="119963" tvg-name="العالم الكبير" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",العالم الكبير
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
+#EXTINF: -1 tvg-id="868800" tvg-name="911" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",911
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/911/playlist.m3u8
+#EXTINF: -1 tvg-id="446355" tvg-name="طبخ ونفخ" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",طبخ ونفخ
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/tabekh-w-nafekh/playlist.m3u8
+#EXTINF: -1 tvg-id="992833" tvg-name="زيست" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",زيست
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
+#EXTINF: -1 tvg-id="498453" tvg-name="شيف مان" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",شيف مان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
+#EXTINF: -1 tvg-id="195445" tvg-name="ست النكهات" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",ست النكهات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.m3u8
+#EXTINF: -1 tvg-id="503296" tvg-name="ساعة محبّة" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",ساعة محبّة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/saeet-mahabbeh/playlist.m3u8
+#EXTINF: -1 tvg-id="183698" tvg-name="جلطة" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",جلطة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
+#EXTINF: -1 tvg-id="593609" tvg-name="وطن ع وتر" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",وطن ع وتر
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
+#EXTINF: -1 tvg-id="191004" tvg-name="مسرحيات" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",مسرحيات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
+#EXTINF: -1 tvg-id="506120" tvg-name="أنا بحكيلك القصة" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",أنا بحكيلك القصة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
+#EXTINF: -1 tvg-id="109806" tvg-name="الزعيم" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",الزعيم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
+#EXTINF: -1 tvg-id="833390" tvg-name="أيمن زيدان" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",أيمن زيدان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
+#EXTINF: -1 tvg-id="640821" tvg-name="نادين نجيم" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",نادين نجيم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8
+#EXTINF: -1 tvg-id="151933" tvg-name="حارة القبة" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",حارة القبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
+#EXTINF: -1 tvg-id="218086" tvg-name="بيئة شامية" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",بيئة شامية
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
+#EXTINF: -1 tvg-id="919653" tvg-name="أكشن" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",أكشن
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
+#EXTINF: -1 tvg-id="202430" tvg-name="الهيبة" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",الهيبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
+#EXTINF: -1 tvg-id="647631" tvg-name="مجتمعي" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",مجتمعي
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
+#EXTINF: -1 tvg-id="267469" tvg-name="Documentaries" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",Documentaries
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
+#EXTINF: -1 tvg-id="788709" tvg-name="RedBull TV" tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV",RedBull TV
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
+#EXTINF: -1 tvg-id="145776" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="Weyyak VIP VPN AR",Wedo-Big-Stories
+https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
+#EXTINF: -1 tvg-id="850853" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="Weyyak VIP VPN AR",Duck-TV
+https://weyyak-live.akamaized.net/weyyak_ducktv/tracks-v5a1/mono.m3u8
+#EXTINF: -1 tvg-id="617038" tvg-name="Jodha-Akbar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" group-title="Weyyak VIP VPN AR",Jodha-Akbar
+https://weyyak-live.akamaized.net/jodha_akbar/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="879493" tvg-name="Hayat-Qalbi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" group-title="Weyyak VIP VPN AR",Hayat-Qalbi
+https://weyyak-live.akamaized.net/hayat_qalbi/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="357415" tvg-name="The-Smurfs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" group-title="Weyyak VIP VPN AR",The-Smurfs
+https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8
+#EXTINF: -1 tvg-id="752337" tvg-name="Toon-Goggles-WW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" group-title="Weyyak VIP VPN AR",Toon-Goggles-WW
+https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="504853" tvg-name="just.classical" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/just.classical.png" group-title="Weyyak VIP VPN AR",just.classical
+https://weyyak-live.akamaized.net/weyyak_just_classical/tracks-v6a1/mono.m3u8
+#EXTINF: -1 tvg-id="888716" tvg-name="AfroKiddos" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" group-title="Weyyak VIP VPN AR",AfroKiddos
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
+#EXTINF: -1 tvg-id="966183" tvg-name="Boonie-Cubs-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Boonie-Cubs-TV.png" group-title="Weyyak VIP VPN AR",Boonie-Cubs-TV
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF: -1 tvg-id="879810" tvg-name="Cooking-Panda" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" group-title="Weyyak VIP VPN AR",Cooking-Panda
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF: -1 tvg-id="547428" tvg-name="Deluxe-Lounge-HD" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" group-title="Weyyak VIP VPN AR",Deluxe-Lounge-HD
+https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
+#EXTINF: -1 tvg-id="604363" tvg-name="Party-Tyme-Karaoke" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Party-Tyme-Karaoke.png" group-title="Weyyak VIP VPN AR",Party-Tyme-Karaoke
+https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
+#EXTINF: -1 tvg-id="742387" tvg-name="TG-Junior" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TG-Junior.png" group-title="Weyyak VIP VPN AR",TG-Junior
+https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
+#EXTINF: -1 tvg-id="772998" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak VIP VPN AR",Ski-TV
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
+#EXTINF: -1 tvg-id="279802" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak VIP VPN AR",Zee-Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="589937" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak VIP VPN AR",Zee-Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="848735" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak" group-title="Weyyak VIP VPN AR",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF: -1 tvg-id="828713" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak" group-title="Weyyak VIP VPN AR",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF: -1 tvg-id="925245" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak" group-title="Weyyak VIP VPN AR",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF: -1 tvg-id="934287" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak" group-title="Weyyak VIP VPN AR",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF: -1 tvg-id="823349" tvg-name="باقة شاهد نت" tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP",باقة شاهد نت
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="145482" tvg-name="shahid vip 01" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/476.m3u8
+#EXTINF: -1 tvg-id="105791" tvg-name="shahid vip 02" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/477.m3u8
+#EXTINF: -1 tvg-id="416739" tvg-name="shahid vip 03" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/478.m3u8
+#EXTINF: -1 tvg-id="944776" tvg-name="shahid vip 04" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/479.m3u8
+#EXTINF: -1 tvg-id="368294" tvg-name="shahid vip 05" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/480.m3u8
+#EXTINF: -1 tvg-id="803670" tvg-name="shahid vip 06" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 06
+https://airmaxtv.online/ssiptv2029/ssiptv2022/481.m3u8
+#EXTINF: -1 tvg-id="342046" tvg-name="shahid vip 07" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 07
+https://airmaxtv.online/ssiptv2029/ssiptv2022/482.m3u8
+#EXTINF: -1 tvg-id="986486" tvg-name="shahid vip 08" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 08
+https://airmaxtv.online/ssiptv2029/ssiptv2022/483.m3u8
+#EXTINF: -1 tvg-id="564131" tvg-name="shahid vip 09" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 09
+https://airmaxtv.online/ssiptv2029/ssiptv2022/484.m3u8
+#EXTINF: -1 tvg-id="633657" tvg-name="shahid vip 10" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 10
+https://airmaxtv.online/ssiptv2029/ssiptv2022/485.m3u8
+#EXTINF: -1 tvg-id="258472" tvg-name="shahid vip 11" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 11
+https://airmaxtv.online/ssiptv2029/ssiptv2022/486.m3u8
+#EXTINF: -1 tvg-id="773662" tvg-name="shahid vip 12" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 12
+https://airmaxtv.online/ssiptv2029/ssiptv2022/487.m3u8
+#EXTINF: -1 tvg-id="938357" tvg-name="shahid vip 13" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 13
+https://airmaxtv.online/ssiptv2029/ssiptv2022/488.m3u8
+#EXTINF: -1 tvg-id="236471" tvg-name="shahid vip 14" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 14
+https://airmaxtv.online/ssiptv2029/ssiptv2022/489.m3u8
+#EXTINF: -1 tvg-id="921443" tvg-name="shahid vip 15" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 15
+https://airmaxtv.online/ssiptv2029/ssiptv2022/490.m3u8
+#EXTINF: -1 tvg-id="135519" tvg-name="shahid vip 16" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 16
+https://airmaxtv.online/ssiptv2029/ssiptv2022/491.m3u8
+#EXTINF: -1 tvg-id="264776" tvg-name="shahid vip 17" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="Shahid Net VIP",shahid vip 17
+https://airmaxtv.online/ssiptv2029/ssiptv2022/492.m3u8
+#EXTINF: -1 tvg-id="946908" tvg-name="action 01" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="Shahid Net VIP",action 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/493.m3u8
+#EXTINF: -1 tvg-id="537838" tvg-name="action 02" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="Shahid Net VIP",action 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/494.m3u8
+#EXTINF: -1 tvg-id="904850" tvg-name="action 03" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="Shahid Net VIP",action 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/495.m3u8
+#EXTINF: -1 tvg-id="622809" tvg-name="action 04" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="Shahid Net VIP",action 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/496.m3u8
+#EXTINF: -1 tvg-id="574359" tvg-name="action 05" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="Shahid Net VIP",action 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/497.m3u8
+#EXTINF: -1 tvg-id="956167" tvg-name="comedy 01" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="Shahid Net VIP",comedy 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/498.m3u8
+#EXTINF: -1 tvg-id="108417" tvg-name="comedy 02" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="Shahid Net VIP",comedy 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/499.m3u8
+#EXTINF: -1 tvg-id="193012" tvg-name="comedy 03" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="Shahid Net VIP",comedy 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/500.m3u8
+#EXTINF: -1 tvg-id="380706" tvg-name="comedy 04" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="Shahid Net VIP",comedy 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/501.m3u8
+#EXTINF: -1 tvg-id="300127" tvg-name="comedy 05" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="Shahid Net VIP",comedy 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/502.m3u8
+#EXTINF: -1 tvg-id="176140" tvg-name="drama 01" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="Shahid Net VIP",drama 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/503.m3u8
+#EXTINF: -1 tvg-id="955029" tvg-name="drama 02" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="Shahid Net VIP",drama 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/504.m3u8
+#EXTINF: -1 tvg-id="401672" tvg-name="drama 03" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="Shahid Net VIP",drama 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/505.m3u8
+#EXTINF: -1 tvg-id="164575" tvg-name="drama 04" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="Shahid Net VIP",drama 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/506.m3u8
+#EXTINF: -1 tvg-id="896726" tvg-name="drama 05" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="Shahid Net VIP",drama 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/507.m3u8
+#EXTINF: -1 tvg-id="397899" tvg-name="horror 01" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="Shahid Net VIP",horror 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/508.m3u8
+#EXTINF: -1 tvg-id="467130" tvg-name="horror 02" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="Shahid Net VIP",horror 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/509.m3u8
+#EXTINF: -1 tvg-id="261480" tvg-name="horror 03" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="Shahid Net VIP",horror 03
+https://airmaxtv.online/ssiptv2029/ssiptv2022/510.m3u8
+#EXTINF: -1 tvg-id="669338" tvg-name="horror 04" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="Shahid Net VIP",horror 04
+https://airmaxtv.online/ssiptv2029/ssiptv2022/511.m3u8
+#EXTINF: -1 tvg-id="612812" tvg-name="horror 05" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="Shahid Net VIP",horror 05
+https://airmaxtv.online/ssiptv2029/ssiptv2022/512.m3u8
+#EXTINF: -1 tvg-id="385542" tvg-name="shahid vip action 01" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="Shahid Net VIP",shahid vip action 01
+https://airmaxtv.online/ssiptv2029/ssiptv2022/513.m3u8
+#EXTINF: -1 tvg-id="487948" tvg-name="01 شاهد تركي" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="Shahid Net VIP",01 شاهد تركي
+https://airmaxtv.online/ssiptv2029/ssiptv2022/514.m3u8
+#EXTINF: -1 tvg-id="982839" tvg-name="شاهد تركي 02" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="Shahid Net VIP",شاهد تركي 02
+https://airmaxtv.online/ssiptv2029/ssiptv2022/515.m3u8
+#EXTINF: -1 tvg-id="374177" tvg-name="[Shahid] Action 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Action 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/562.m3u8
+#EXTINF: -1 tvg-id="821893" tvg-name="[Shahid] Adventure 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Adventure 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/563.m3u8
+#EXTINF: -1 tvg-id="182446" tvg-name="[Shahid] Comedy 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Comedy 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/564.m3u8
+#EXTINF: -1 tvg-id="679559" tvg-name="[Shahid] Drama 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Drama 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/565.m3u8
+#EXTINF: -1 tvg-id="245671" tvg-name="[Shahid] Drama 2" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Drama 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/566.m3u8
+#EXTINF: -1 tvg-id="332925" tvg-name="[Shahid] Family 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Family 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/567.m3u8
+#EXTINF: -1 tvg-id="279304" tvg-name="[Shahid] Horror 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Horror 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/568.m3u8
+#EXTINF: -1 tvg-id="706732" tvg-name="[Shahid] Sci Fi" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="Shahid Net VIP",[Shahid] Sci Fi
+https://airmaxtv.online/ssiptv2029/ssiptv2022/569.m3u8
+#EXTINF: -1 tvg-id="602557" tvg-name="shahid_action.mp4" tvg-logo="" group-title="Shahid Net VIP",shahid_action.mp4
+https://airmaxtv.online/ssiptv2029/ssiptv2022/570.m3u8
+#EXTINF: -1 tvg-id="586083" tvg-name="shahid_romance.mp4" tvg-logo="" group-title="Shahid Net VIP",shahid_romance.mp4
+https://airmaxtv.online/ssiptv2029/ssiptv2022/571.m3u8
+#EXTINF: -1 tvg-id="722523" tvg-name="BOLLYWOOD بوليود" tvg-logo="https://bit.ly/3JQfa8u" group-title="BOLLYWOOD بوليود",BOLLYWOOD بوليود
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="436601" tvg-name="ZEE AFLAM" tvg-logo="" group-title="BOLLYWOOD بوليود",ZEE AFLAM
+http://93.184.10.248/ZeeAflam/index.m3u8
+#EXTINF: -1 tvg-id="227423" tvg-name="ZEE ALWAN" tvg-logo="" group-title="BOLLYWOOD بوليود",ZEE ALWAN
+http://93.184.10.248/ZeeAlwan/index.m3u8
+#EXTINF: -1 tvg-id="273268" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF: -1 tvg-id="697369" tvg-name="Hala London TV Production" tvg-logo="http://halalondon.com/images/Production2.png" group-title="BOLLYWOOD بوليود",Hala London TV Production
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF: -1 tvg-id="684147" tvg-name="zee alwan ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/0f6eaacf87417d9928170eae444e9671.png" group-title="BOLLYWOOD بوليود",zee alwan ᴴᴰ
+https://airmaxtv.online/ssiptv2029/ssiptv2022/557.m3u8
+#EXTINF: -1 tvg-id="582264" tvg-name="zee aflam ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/a2647579d7ee6f07d416c22dfddbd600.png" group-title="BOLLYWOOD بوليود",zee aflam ᴴᴰ
+https://airmaxtv.online/ssiptv2029/ssiptv2022/558.m3u8
+#EXTINF: -1 tvg-id="151247" tvg-name="b4u aflam ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/4c6001f0c0c3ce540520d8394d55324b.png" group-title="BOLLYWOOD بوليود",b4u aflam ᴴᴰ
+https://airmaxtv.online/ssiptv2029/ssiptv2022/559.m3u8
+#EXTINF: -1 tvg-id="576763" tvg-name="b4u plus ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/c8f12d305a12602d56dcd0c13f8ca984.png" group-title="BOLLYWOOD بوليود",b4u plus ᴴᴰ
+https://airmaxtv.online/ssiptv2029/ssiptv2022/560.m3u8
+#EXTINF: -1 tvg-id="292230" tvg-name="MIX hollywood ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/f2b9f984098b2367c1b2f7387a5c277d.png" group-title="BOLLYWOOD بوليود",MIX hollywood ᴴᴰ
+https://airmaxtv.online/ssiptv2029/ssiptv2022/561.m3u8
+#EXTINF: -1 tvg-id="237750" tvg-name="قنوات المجد" tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="745432" tvg-name="kids" tvg-logo="https://airmaxtv.online:443/images/dd45fb816a1afc1c20b7eafd379a38ce.png" group-title="Al Majd قنوات المجد",kids
+https://airmaxtv.online/ssiptv2029/ssiptv2022/394.m3u8
+#EXTINF: -1 tvg-id="889393" tvg-name="news" tvg-logo="https://airmaxtv.online:443/images/0a078204f052de05a7c9ca060309e0c0.png" group-title="Al Majd قنوات المجد",news
+https://airmaxtv.online/ssiptv2029/ssiptv2022/395.m3u8
+#EXTINF: -1 tvg-id="949306" tvg-name="documentary" tvg-logo="https://airmaxtv.online:443/images/589d5bd9ec481c224d3f3abf0f223e81.png" group-title="Al Majd قنوات المجد",documentary
+https://airmaxtv.online/ssiptv2029/ssiptv2022/396.m3u8
+#EXTINF: -1 tvg-id="583743" tvg-name="taghared" tvg-logo="https://airmaxtv.online:443/images/f7becc34047991377ac5937a2df70fc5.png" group-title="Al Majd قنوات المجد",taghared
+https://airmaxtv.online/ssiptv2029/ssiptv2022/397.m3u8
+#EXTINF: -1 tvg-id="899113" tvg-name="tabeea" tvg-logo="https://airmaxtv.online:443/images/9db516ec06d74a98f054094426312085.png" group-title="Al Majd قنوات المجد",tabeea
+https://airmaxtv.online/ssiptv2029/ssiptv2022/398.m3u8
+#EXTINF: -1 tvg-id="449656" tvg-name="edu" tvg-logo="https://airmaxtv.online:443/images/abd8a22acb6ba42c623ec95e7da572ca.png" group-title="Al Majd قنوات المجد",edu
+https://airmaxtv.online/ssiptv2029/ssiptv2022/399.m3u8
+#EXTINF: -1 tvg-id="449257" tvg-name="basma" tvg-logo="https://airmaxtv.online:443/images/39a3266432ceed75d70460bedc426253.png" group-title="Al Majd قنوات المجد",basma
+https://airmaxtv.online/ssiptv2029/ssiptv2022/400.m3u8
+#EXTINF: -1 tvg-id="731028" tvg-name="Majd: Al Majd Documentary" tvg-logo="https://airmaxtv.online:443/images/12d06c2f141d4938c0fa5225bbb960cb.png" group-title="Al Majd قنوات المجد",Majd: Al Majd Documentary
+https://airmaxtv.online/ssiptv2029/ssiptv2022/401.m3u8
+#EXTINF: -1 tvg-id="927983" tvg-name="majd" tvg-logo="https://airmaxtv.online:443/images/7369fa9d455eb52085e575773f1f73d6.png" group-title="Al Majd قنوات المجد",majd
+https://airmaxtv.online/ssiptv2029/ssiptv2022/402.m3u8
+#EXTINF: -1 tvg-id="249008" tvg-name="quraan kareem" tvg-logo="https://airmaxtv.online:443/images/3b723427259b0437d1bee1bc0ba2ed25.png" group-title="Al Majd قنوات المجد",quraan kareem
+https://airmaxtv.online/ssiptv2029/ssiptv2022/403.m3u8
+#EXTINF: -1 tvg-id="608496" tvg-name="rawda" tvg-logo="https://airmaxtv.online:443/images/b164ad83bed3628de350f6d78ba758f8.png" group-title="Al Majd قنوات المجد",rawda
+https://airmaxtv.online/ssiptv2029/ssiptv2022/404.m3u8
+#EXTINF: -1 tvg-id="386226" tvg-name="taghareed" tvg-logo="https://airmaxtv.online:443/images/f7becc34047991377ac5937a2df70fc5.png" group-title="Al Majd قنوات المجد",taghareed
+https://airmaxtv.online/ssiptv2029/ssiptv2022/405.m3u8
+#EXTINF: -1 tvg-id="906973" tvg-name="باقة art" tvg-logo="https://bit.ly/3JQfa8u" group-title="ART VIP",باقة art
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="462146" tvg-name="ART AFLAM 1" tvg-logo="https://airmaxtv.online:443/images/bb6a3892dc6a76b54127e52b2df9e71f.png" group-title="ART VIP",ART AFLAM 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/406.m3u8
+#EXTINF: -1 tvg-id="808980" tvg-name="ART AFLAM 2" tvg-logo="https://airmaxtv.online:443/images/d2d0b339206c4331132bc96e15fcb958.png" group-title="ART VIP",ART AFLAM 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/407.m3u8
+#EXTINF: -1 tvg-id="785243" tvg-name="ART CINEMA 1" tvg-logo="https://airmaxtv.online:443/images/6c166b8921446ec04eb20ab8fe388941.png" group-title="ART VIP",ART CINEMA 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/408.m3u8
+#EXTINF: -1 tvg-id="848220" tvg-name="ART HEKAYAT 1" tvg-logo="https://airmaxtv.online:443/images/4b8c312d747bca71a7009f7e0a5236b5.png" group-title="ART VIP",ART HEKAYAT 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/409.m3u8
+#EXTINF: -1 tvg-id="302723" tvg-name="ART HEKAYAT 2" tvg-logo="https://airmaxtv.online:443/images/3525edd9d904a6a36a2047641c001816.png" group-title="ART VIP",ART HEKAYAT 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/410.m3u8
+#EXTINF: -1 tvg-id="843679" tvg-name="ALPHA MUSIC" tvg-logo="https://airmaxtv.online:443/images/e4839976b0aff9359eefc75adc7c3038.png" group-title="ART VIP",ALPHA MUSIC
+https://airmaxtv.online/ssiptv2029/ssiptv2022/411.m3u8
+#EXTINF: -1 tvg-id="184539" tvg-name="FANN" tvg-logo="https://airmaxtv.online:443/images/d00090a44fa42573bfc20305c9fd24ed.png" group-title="ART VIP",FANN
+https://airmaxtv.online/ssiptv2029/ssiptv2022/412.m3u8
+#EXTINF: -1 tvg-id="366043" tvg-name="ALPHA MUSALSALAT" tvg-logo="https://airmaxtv.online:443/images/684934f5414b5094918968e249e52fe0.png" group-title="ART VIP",ALPHA MUSALSALAT
+https://airmaxtv.online/ssiptv2029/ssiptv2022/413.m3u8
+#EXTINF: -1 tvg-id="397210" tvg-name="MAJESTIC LIVE" tvg-logo="https://bit.ly/3JQfa8u" group-title="MAJESTIC VIP",MAJESTIC LIVE
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="461793" tvg-name="arabic 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",arabic 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/468.m3u8
+#EXTINF: -1 tvg-id="494529" tvg-name="arabic 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",arabic 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/469.m3u8
+#EXTINF: -1 tvg-id="561043" tvg-name="action 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",action 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/470.m3u8
+#EXTINF: -1 tvg-id="775978" tvg-name="action 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",action 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/471.m3u8
+#EXTINF: -1 tvg-id="615721" tvg-name="horror 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",horror 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/472.m3u8
+#EXTINF: -1 tvg-id="888630" tvg-name="horror 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",horror 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/473.m3u8
+#EXTINF: -1 tvg-id="222343" tvg-name="comedy 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",comedy 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/474.m3u8
+#EXTINF: -1 tvg-id="535842" tvg-name="comedy 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",comedy 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/475.m3u8
+#EXTINF: -1 tvg-id="403465" tvg-name="drama 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",drama 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/576.m3u8
+#EXTINF: -1 tvg-id="674623" tvg-name="drama 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",drama 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/577.m3u8
+#EXTINF: -1 tvg-id="558255" tvg-name="thrillers 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",thrillers 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/578.m3u8
+#EXTINF: -1 tvg-id="523747" tvg-name="thrillers 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",thrillers 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/579.m3u8
+#EXTINF: -1 tvg-id="148045" tvg-name="scifi 2" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",scifi 2
+https://airmaxtv.online/ssiptv2029/ssiptv2022/580.m3u8
+#EXTINF: -1 tvg-id="438059" tvg-name="scifi 1" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" group-title="MAJESTIC VIP",scifi 1
+https://airmaxtv.online/ssiptv2029/ssiptv2022/581.m3u8
+#EXTINF: -1 tvg-id="291147" tvg-name="VIP channels" tvg-logo="https://bit.ly/3JQfa8u" group-title="vip channels",VIP channels
+https://bit.ly/3xYLaRh
+#EXTINF: -1 tvg-id="209890" tvg-name="SKY SPORTS NEWS" tvg-logo="" group-title="vip channels",SKY SPORTS NEWS
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="985012" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="vip channels",SKY SPORTS PREMIER LEAGUE
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-premier-league-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="427714" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="" group-title="vip channels",SKY SPORTS FOOTBALL
+http://31.200.241.16:1234/stream/skyuk/skyukfootball?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="342329" tvg-name="SKY SPORTS ACTION" tvg-logo="" group-title="vip channels",SKY SPORTS ACTION
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-action-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="709253" tvg-name="SKY SPORTS RACING" tvg-logo="" group-title="vip channels",SKY SPORTS RACING
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-racing-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="221467" tvg-name="SKY SPORTS TENNIS" tvg-logo="" group-title="vip channels",SKY SPORTS TENNIS
+http://31.200.241.16:1234/stream/skyuk/skyuktennis?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="859415" tvg-name="SKY SPORTS GOLF" tvg-logo="" group-title="vip channels",SKY SPORTS GOLF
+http://31.200.241.16:1234/stream/skyuk/skyukgolf?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="495134" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="vip channels",TNT SPORTS 1
+http://185.135.157.72:1234/stream/sky-uk/bt-sports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="957585" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="vip channels",TNT SPORTS 2
+http://185.135.157.72:1234/stream/sky-uk/bt-sports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="956481" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="vip channels",TNT SPORTS 3
+http://185.135.157.72:1234/stream/sky-uk/bt-sports-3-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="701476" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="vip channels",TNT SPORTS 4
+http://185.135.157.72:1234/stream/sky-uk/bt-sports-4-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="389708" tvg-name="EUROSPORT 1" tvg-logo="" group-title="vip channels",EUROSPORT 1
+http://185.135.157.72:1234/stream/sky-uk/eurosports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="576515" tvg-name="EUROSPORT 2" tvg-logo="" group-title="vip channels",EUROSPORT 2
+http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="492546" tvg-name="SKY SPORTS FOOTBALL*" tvg-logo="" group-title="vip channels",SKY SPORTS FOOTBALL*
+http://185.135.157.72:1234/stream/sky-uk/skyukfootball?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="547873" tvg-name="SKY SPORTS TENNIS*" tvg-logo="" group-title="vip channels",SKY SPORTS TENNIS*
+http://185.135.157.72:1234/stream/sky-uk/skyuktennis?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="465086" tvg-name="SKY SPORTS GOLF*" tvg-logo="" group-title="vip channels",SKY SPORTS GOLF*
+http://185.135.157.72:1234/stream/sky-uk/skyukgolf?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="448508" tvg-name="SKY SPORTS f1*" tvg-logo="" group-title="vip channels",SKY SPORTS f1*
+http://185.135.157.72:1234/stream/sky-uk/skyukf1?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="736867" tvg-name="beIN SPORTS 1 HD" tvg-logo="" group-title="vip channels",beIN SPORTS 1 HD
+http://31.200.241.16:1234/stream/movistar/bein1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="529059" tvg-name="beIN SPORTS 2 HD" tvg-logo="" group-title="vip channels",beIN SPORTS 2 HD
+http://31.200.241.16:1234/stream/movistar/bein2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="818196" tvg-name="beIN SPORTS 3 HD" tvg-logo="" group-title="vip channels",beIN SPORTS 3 HD
+http://31.200.241.16:1234/stream/movistar/bein3?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="311576" tvg-name="beIN SPORTS MAX 4 HD" tvg-logo="" group-title="vip channels",beIN SPORTS MAX 4 HD
+http://31.200.241.16:1234/stream/movistar/bein4?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="635327" tvg-name="beIN SPORTS MAX 5 HD" tvg-logo="" group-title="vip channels",beIN SPORTS MAX 5 HD
+http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="796448" tvg-name="InfoSport+ HD" tvg-logo="" group-title="vip channels",InfoSport+ HD
+http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="754734" tvg-name="Le Equipe HD" tvg-logo="" group-title="vip channels",Le Equipe HD
+http://31.200.241.16:1234/stream/movistar/lequipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="579421" tvg-name="TF1 HD" tvg-logo="" group-title="vip channels",TF1 HD
+http://31.200.241.16:1234/stream/movistar/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="120753" tvg-name="TF1 4K" tvg-logo="" group-title="vip channels",TF1 4K
+http://31.200.241.16:1234/stream/movistar/tf14K?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="874984" tvg-name="M6 HD" tvg-logo="" group-title="vip channels",M6 HD
+http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="602772" tvg-name="M6 4K" tvg-logo="" group-title="vip channels",M6 4K
+http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="895366" tvg-name="13 Emerue HD" tvg-logo="" group-title="vip channels",13 Emerue HD
+http://31.200.241.16:1234/stream/movistar/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="264930" tvg-name="Paris Premiere HD" tvg-logo="" group-title="vip channels",Paris Premiere HD
+http://31.200.241.16:1234/stream/movistar/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="976271" tvg-name="Discovery Channel HD" tvg-logo="" group-title="vip channels",Discovery Channel HD
+http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="134536" tvg-name="CANAL+" tvg-logo="" group-title="vip channels",CANAL+
+http://31.200.241.16:1234/stream/movistar/cplus?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="591936" tvg-name="CANAL+ BOXOFFICE" tvg-logo="" group-title="vip channels",CANAL+ BOXOFFICE
+http://31.200.241.16:1234/stream/movistar/cplusbox1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="784169" tvg-name="CANAL+ SERIES" tvg-logo="" group-title="vip channels",CANAL+ SERIES
+http://31.200.241.16:1234/stream/movistar/cpluss?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="381830" tvg-name="CANAL+ DOCS" tvg-logo="" group-title="vip channels",CANAL+ DOCS
+http://31.200.241.16:1234/stream/movistar/cplusd?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="880038" tvg-name="CANAL+ SPORT 360" tvg-logo="" group-title="vip channels",CANAL+ SPORT 360
+http://31.200.241.16:1234/stream/movistar/cplus360?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="959751" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="vip channels",CANAL+ SPORT
+http://31.200.241.16:1234/stream/movistar/cplusfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="306592" tvg-name="CANAL+ FOOT" tvg-logo="" group-title="vip channels",CANAL+ FOOT
+http://31.200.241.16:1234/stream/movistar/cplusfoot?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="708111" tvg-name="FussballTV1 HD" tvg-logo="" group-title="vip channels",FussballTV1 HD
+http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="355052" tvg-name="FussballTV2 HD" tvg-logo="" group-title="vip channels",FussballTV2 HD
+http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="346373" tvg-name="Sportdigital fussball HD" tvg-logo="" group-title="vip channels",Sportdigital fussball HD
+http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="924009" tvg-name="IT Sky Uno HD" tvg-logo="" group-title="vip channels",IT Sky Uno HD
+http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="801443" tvg-name="IT Sky Atlantic HD" tvg-logo="" group-title="vip channels",IT Sky Atlantic HD
+http://164.132.206.27:8000/stream/skyitalia/skyatlanticfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="746227" tvg-name="IT Sky Serie HD" tvg-logo="" group-title="vip channels",IT Sky Serie HD
+http://164.132.206.27:8000/stream/skyitalia/skyseriefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="359524" tvg-name="IT Sky Investigation HD" tvg-logo="" group-title="vip channels",IT Sky Investigation HD
+http://164.132.206.27:8000/stream/skyitalia/skyinvestigationfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="132462" tvg-name="IT Sky Arte HD" tvg-logo="" group-title="vip channels",IT Sky Arte HD
+http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="462310" tvg-name="IT Sky Documentaries HD" tvg-logo="" group-title="vip channels",IT Sky Documentaries HD
+http://164.132.206.27:8000/stream/skyitalia/skydocumentariesfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="339471" tvg-name="IT Sky Nature HD" tvg-logo="" group-title="vip channels",IT Sky Nature HD
+http://164.132.206.27:8000/stream/skyitalia/skynaturefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="626022" tvg-name="IT Sky Cinema Uno HD" tvg-logo="" group-title="vip channels",IT Sky Cinema Uno HD
+http://164.132.206.27:8000/stream/skyitalia/skycinemaunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="671032" tvg-name="IT Sky Cinema Action HD" tvg-logo="" group-title="vip channels",IT Sky Cinema Action HD
+http://164.132.206.27:8000/stream/skyitalia/skycinemaactionfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="231015" tvg-name="IT Sky Cinema Comedy HD" tvg-logo="" group-title="vip channels",IT Sky Cinema Comedy HD
+http://164.132.206.27:8000/stream/skyitalia/skycinemacomedyfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="722817" tvg-name="IT Sky TG24 HD" tvg-logo="" group-title="vip channels",IT Sky TG24 HD
+http://164.132.206.27:8000/stream/skyitalia/skytg24fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="526683" tvg-name="IT Sky Sport 24 HD" tvg-logo="" group-title="vip channels",IT Sky Sport 24 HD
+http://164.132.206.27:8000/stream/skyitalia/skysport24fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="650267" tvg-name="IT Sky Sport Calcio HD" tvg-logo="" group-title="vip channels",IT Sky Sport Calcio HD
+http://164.132.206.27:8000/stream/skyitalia/skysportcalciofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="192276" tvg-name="IT Sky Sport Arena HD" tvg-logo="" group-title="vip channels",IT Sky Sport Arena HD
+http://164.132.206.27:8000/stream/skyitalia/skysportarenafhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF: -1 tvg-id="743703" tvg-name="IT Sky Sport Tennis HD" tvg-logo="" group-title="vip channels",IT Sky Sport Tennis HD
+http://164.132.206.27:8000/stream/skyitalia/skysporttennisfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
